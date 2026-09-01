@@ -1,0 +1,3325 @@
+{
+ "w000": {
+  "files": [
+   "w000.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w001": {
+  "files": [
+   "w001_1.mp3",
+   "w001_2.mp3",
+   "w001_3.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w002": {
+  "files": [
+   "w002_1.mp3",
+   "w002_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w003": {
+  "files": [
+   "w003.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w004": {
+  "files": [
+   "w004_1.mp3",
+   "w004_2.mp3",
+   "w004_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w005": {
+  "files": [
+   "w005_1.mp3",
+   "w005_2.mp3",
+   "w005_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w006": {
+  "files": [
+   "w006.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w007": {
+  "files": [
+   "w007_1.mp3",
+   "w007_2.mp3",
+   "w007_3.mp3",
+   "w007_4.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w008": {
+  "files": [
+   "w008_1.mp3",
+   "w008_2.mp3",
+   "w008_3.mp3",
+   "w008_4.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w009": {
+  "files": [
+   "w009_1.mp3",
+   "w009_2.mp3",
+   "w009_3.mp3",
+   "w009_4.mp3",
+   "w009_5.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w010": {
+  "files": [
+   "w010.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w011": {
+  "files": [
+   "w011.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w012": {
+  "files": [
+   "w012.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w013": {
+  "files": [
+   "w013.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w014": {
+  "files": [
+   "w014.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w015": {
+  "files": [
+   "w015.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w016": {
+  "files": [
+   "w016.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w017": {
+  "files": [
+   "w017_1.mp3",
+   "w017_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w018": {
+  "files": [
+   "w018.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w019": {
+  "files": [
+   "w019.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w020": {
+  "files": [
+   "w020.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w021": {
+  "files": [
+   "w021.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w022": {
+  "files": [
+   "w022.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w023": {
+  "files": [
+   "w023.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w024": {
+  "files": [
+   "w024.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w025": {
+  "files": [
+   "w025_1.mp3",
+   "w025_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w026": {
+  "files": [
+   "w026.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w027": {
+  "files": [
+   "w027.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w028": {
+  "files": [
+   "w028_1.mp3",
+   "w028_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w029": {
+  "files": [
+   "w029.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w030": {
+  "files": [
+   "w030_1.mp3",
+   "w030_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w031": {
+  "files": [
+   "w031.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w032": {
+  "files": [
+   "w032.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w033": {
+  "files": [
+   "w033.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w034": {
+  "files": [
+   "w034.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w035": {
+  "files": [
+   "w035.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w036": {
+  "files": [
+   "w036_1.mp3",
+   "w036_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w037": {
+  "files": [
+   "w037.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w038": {
+  "files": [
+   "w038.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w039": {
+  "files": [
+   "w039.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w040": {
+  "files": [],
+  "source": "none"
+ },
+ "w041": {
+  "files": [],
+  "source": "none"
+ },
+ "w042": {
+  "files": [
+   "w042.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w043": {
+  "files": [
+   "w043.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w044": {
+  "files": [
+   "w044.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w045": {
+  "files": [
+   "w045_1.mp3",
+   "w045_2.mp3",
+   "w045_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w046": {
+  "files": [
+   "w046_1.mp3",
+   "w046_2.mp3",
+   "w046_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w047": {
+  "files": [],
+  "source": "none"
+ },
+ "w048": {
+  "files": [],
+  "source": "none"
+ },
+ "w049": {
+  "files": [
+   "w049.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w050": {
+  "files": [
+   "w050.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w051": {
+  "files": [
+   "w051.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w052": {
+  "files": [
+   "w052_1.mp3",
+   "w052_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w053": {
+  "files": [
+   "w053_1.mp3",
+   "w053_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w054": {
+  "files": [
+   "w054.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w055": {
+  "files": [
+   "w055.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w056": {
+  "files": [
+   "w056.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w057": {
+  "files": [
+   "w057.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w058": {
+  "files": [
+   "w058_1.mp3",
+   "w058_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w059": {
+  "files": [
+   "w059.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w060": {
+  "files": [],
+  "source": "none"
+ },
+ "w061": {
+  "files": [
+   "w061_1.mp3",
+   "w061_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w062": {
+  "files": [
+   "w062.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w063": {
+  "files": [
+   "w063.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w064": {
+  "files": [
+   "w064.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w065": {
+  "files": [
+   "w065.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w066": {
+  "files": [
+   "w066_1.mp3",
+   "w066_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w067": {
+  "files": [
+   "w067.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w068": {
+  "files": [
+   "w068.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w069": {
+  "files": [
+   "w069.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w070": {
+  "files": [
+   "w070_1.mp3",
+   "w070_2.mp3",
+   "w070_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w071": {
+  "files": [
+   "w071_1.mp3",
+   "w071_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w072": {
+  "files": [
+   "w072.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w073": {
+  "files": [
+   "w073.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w074": {
+  "files": [
+   "w074.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w075": {
+  "files": [
+   "w075.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w076": {
+  "files": [
+   "w076.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w077": {
+  "files": [
+   "w077.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w078": {
+  "files": [
+   "w078.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w079": {
+  "files": [
+   "w079.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w080": {
+  "files": [
+   "w080_1.mp3",
+   "w080_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w081": {
+  "files": [
+   "w081.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w082": {
+  "files": [
+   "w082_1.mp3",
+   "w082_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w083": {
+  "files": [
+   "w083.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w084": {
+  "files": [
+   "w084_1.mp3",
+   "w084_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w085": {
+  "files": [
+   "w085.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w086": {
+  "files": [
+   "w086_1.mp3",
+   "w086_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w087": {
+  "files": [
+   "w087.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w088": {
+  "files": [
+   "w088_1.mp3",
+   "w088_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w089": {
+  "files": [
+   "w089.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w090": {
+  "files": [],
+  "source": "none"
+ },
+ "w091": {
+  "files": [
+   "w091.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w092": {
+  "files": [
+   "w092_1.mp3",
+   "w092_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w093": {
+  "files": [
+   "w093_1.mp3",
+   "w093_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w094": {
+  "files": [
+   "w094.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w095": {
+  "files": [
+   "w095_1.mp3",
+   "w095_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w096": {
+  "files": [
+   "w096_1.mp3",
+   "w096_2.mp3",
+   "w096_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w097": {
+  "files": [
+   "w097.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w098": {
+  "files": [
+   "w098.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w099": {
+  "files": [
+   "w099.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w100": {
+  "files": [
+   "w100.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w101": {
+  "files": [
+   "w101.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w102": {
+  "files": [
+   "w102.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w103": {
+  "files": [
+   "w103.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w104": {
+  "files": [
+   "w104.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w105": {
+  "files": [
+   "w105.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w106": {
+  "files": [
+   "w106_1.mp3",
+   "w106_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w107": {
+  "files": [
+   "w107.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w108": {
+  "files": [
+   "w108.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w109": {
+  "files": [
+   "w109.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w110": {
+  "files": [
+   "w110.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w111": {
+  "files": [
+   "w111.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w112": {
+  "files": [
+   "w112.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w113": {
+  "files": [
+   "w113.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w114": {
+  "files": [
+   "w114.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w115": {
+  "files": [
+   "w115_1.mp3",
+   "w115_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w116": {
+  "files": [
+   "w116.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w117": {
+  "files": [],
+  "source": "none"
+ },
+ "w118": {
+  "files": [
+   "w118.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w119": {
+  "files": [
+   "w119.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w120": {
+  "files": [
+   "w120.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w121": {
+  "files": [
+   "w121.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w122": {
+  "files": [
+   "w122.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w123": {
+  "files": [
+   "w123.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w124": {
+  "files": [
+   "w124_1.mp3",
+   "w124_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w125": {
+  "files": [],
+  "source": "none"
+ },
+ "w126": {
+  "files": [
+   "w126.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w127": {
+  "files": [],
+  "source": "none"
+ },
+ "w128": {
+  "files": [
+   "w128.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w129": {
+  "files": [
+   "w129.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w130": {
+  "files": [
+   "w130_1.mp3",
+   "w130_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w131": {
+  "files": [
+   "w131.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w132": {
+  "files": [
+   "w132.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w133": {
+  "files": [
+   "w133_1.mp3",
+   "w133_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w134": {
+  "files": [
+   "w134_1.mp3",
+   "w134_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w135": {
+  "files": [
+   "w135.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w136": {
+  "files": [
+   "w136.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w137": {
+  "files": [
+   "w137.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w138": {
+  "files": [
+   "w138_1.mp3",
+   "w138_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w139": {
+  "files": [
+   "w139.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w140": {
+  "files": [
+   "w140.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w141": {
+  "files": [
+   "w141.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w142": {
+  "files": [
+   "w142.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w143": {
+  "files": [
+   "w143.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w144": {
+  "files": [
+   "w144.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w145": {
+  "files": [
+   "w145.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w146": {
+  "files": [
+   "w146.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w147": {
+  "files": [
+   "w147_1.mp3",
+   "w147_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w148": {
+  "files": [
+   "w148.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w149": {
+  "files": [
+   "w149.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w150": {
+  "files": [
+   "w150.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w151": {
+  "files": [
+   "w151.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w152": {
+  "files": [
+   "w152.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w153": {
+  "files": [
+   "w153.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w154": {
+  "files": [
+   "w154_1.mp3",
+   "w154_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w155": {
+  "files": [
+   "w155_1.mp3",
+   "w155_2.mp3",
+   "w155_3.mp3",
+   "w155_4.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w156": {
+  "files": [
+   "w156.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w157": {
+  "files": [
+   "w157.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w158": {
+  "files": [
+   "w158_1.mp3",
+   "w158_2.mp3",
+   "w158_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w159": {
+  "files": [
+   "w159.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w160": {
+  "files": [
+   "w160.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w161": {
+  "files": [],
+  "source": "none"
+ },
+ "w162": {
+  "files": [
+   "w162_1.mp3",
+   "w162_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w163": {
+  "files": [
+   "w163.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w164": {
+  "files": [
+   "w164.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w165": {
+  "files": [
+   "w165.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w166": {
+  "files": [
+   "w166.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w167": {
+  "files": [
+   "w167.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w168": {
+  "files": [
+   "w168.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w169": {
+  "files": [
+   "w169.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w170": {
+  "files": [
+   "w170_1.mp3",
+   "w170_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w171": {
+  "files": [
+   "w171.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w172": {
+  "files": [
+   "w172.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w173": {
+  "files": [
+   "w173.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w174": {
+  "files": [
+   "w174.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w175": {
+  "files": [
+   "w175_1.mp3",
+   "w175_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w176": {
+  "files": [
+   "w176.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w177": {
+  "files": [
+   "w177.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w178": {
+  "files": [
+   "w178.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w179": {
+  "files": [],
+  "source": "none"
+ },
+ "w180": {
+  "files": [
+   "w180.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w181": {
+  "files": [
+   "w181.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w182": {
+  "files": [
+   "w182.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w183": {
+  "files": [
+   "w183.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w184": {
+  "files": [
+   "w184.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w185": {
+  "files": [
+   "w185_1.mp3",
+   "w185_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w186": {
+  "files": [
+   "w186.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w187": {
+  "files": [
+   "w187.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w188": {
+  "files": [
+   "w188_1.mp3",
+   "w188_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w189": {
+  "files": [
+   "w189_1.mp3",
+   "w189_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w190": {
+  "files": [
+   "w190.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w191": {
+  "files": [
+   "w191.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w192": {
+  "files": [
+   "w192.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w193": {
+  "files": [
+   "w193.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w194": {
+  "files": [
+   "w194_1.mp3",
+   "w194_2.mp3",
+   "w194_3.mp3",
+   "w194_4.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w195": {
+  "files": [
+   "w195.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w196": {
+  "files": [
+   "w196.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w197": {
+  "files": [
+   "w197.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w198": {
+  "files": [
+   "w198.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w199": {
+  "files": [
+   "w199.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w200": {
+  "files": [
+   "w200.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w201": {
+  "files": [
+   "w201.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w202": {
+  "files": [
+   "w202.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w203": {
+  "files": [
+   "w203.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w204": {
+  "files": [
+   "w204.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w205": {
+  "files": [
+   "w205.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w206": {
+  "files": [
+   "w206.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w207": {
+  "files": [
+   "w207.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w208": {
+  "files": [
+   "w208.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w209": {
+  "files": [
+   "w209.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w210": {
+  "files": [
+   "w210.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w211": {
+  "files": [
+   "w211.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w212": {
+  "files": [
+   "w212.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w213": {
+  "files": [
+   "w213.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w214": {
+  "files": [
+   "w214.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w215": {
+  "files": [
+   "w215.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w216": {
+  "files": [
+   "w216.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w217": {
+  "files": [
+   "w217_1.mp3",
+   "w217_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w218": {
+  "files": [
+   "w218_1.mp3",
+   "w218_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w219": {
+  "files": [
+   "w219.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w220": {
+  "files": [
+   "w220.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w221": {
+  "files": [
+   "w221.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w222": {
+  "files": [
+   "w222.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w223": {
+  "files": [
+   "w223_1.mp3",
+   "w223_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w224": {
+  "files": [
+   "w224.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w225": {
+  "files": [
+   "w225.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w226": {
+  "files": [
+   "w226_1.mp3",
+   "w226_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w227": {
+  "files": [],
+  "source": "none"
+ },
+ "w228": {
+  "files": [
+   "w228.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w229": {
+  "files": [
+   "w229.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w230": {
+  "files": [
+   "w230_1.mp3",
+   "w230_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w231": {
+  "files": [
+   "w231.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w232": {
+  "files": [
+   "w232.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w233": {
+  "files": [],
+  "source": "none"
+ },
+ "w234": {
+  "files": [
+   "w234.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w235": {
+  "files": [
+   "w235.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w236": {
+  "files": [
+   "w236_1.mp3",
+   "w236_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w237": {
+  "files": [
+   "w237.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w238": {
+  "files": [],
+  "source": "none"
+ },
+ "w239": {
+  "files": [
+   "w239.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w240": {
+  "files": [
+   "w240.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w241": {
+  "files": [
+   "w241.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w242": {
+  "files": [
+   "w242_1.mp3",
+   "w242_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w243": {
+  "files": [
+   "w243.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w244": {
+  "files": [
+   "w244.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w245": {
+  "files": [
+   "w245.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w246": {
+  "files": [
+   "w246.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w247": {
+  "files": [
+   "w247.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w248": {
+  "files": [
+   "w248.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w249": {
+  "files": [
+   "w249.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w250": {
+  "files": [
+   "w250.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w251": {
+  "files": [
+   "w251_1.mp3",
+   "w251_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w252": {
+  "files": [
+   "w252_1.mp3",
+   "w252_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w253": {
+  "files": [
+   "w253_1.mp3",
+   "w253_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w254": {
+  "files": [
+   "w254.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w255": {
+  "files": [
+   "w255.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w256": {
+  "files": [
+   "w256.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w257": {
+  "files": [
+   "w257.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w258": {
+  "files": [
+   "w258.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w259": {
+  "files": [
+   "w259.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w260": {
+  "files": [
+   "w260.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w261": {
+  "files": [
+   "w261.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w262": {
+  "files": [
+   "w262.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w263": {
+  "files": [
+   "w263.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w264": {
+  "files": [
+   "w264_1.mp3",
+   "w264_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w265": {
+  "files": [
+   "w265.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w266": {
+  "files": [
+   "w266.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w267": {
+  "files": [
+   "w267.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w268": {
+  "files": [
+   "w268.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w269": {
+  "files": [],
+  "source": "none"
+ },
+ "w270": {
+  "files": [
+   "w270.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w271": {
+  "files": [
+   "w271.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w272": {
+  "files": [
+   "w272.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w273": {
+  "files": [
+   "w273.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w274": {
+  "files": [
+   "w274_1.mp3",
+   "w274_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w275": {
+  "files": [
+   "w275.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w276": {
+  "files": [
+   "w276.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w277": {
+  "files": [
+   "w277_1.mp3",
+   "w277_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w278": {
+  "files": [
+   "w278.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w279": {
+  "files": [
+   "w279_1.mp3",
+   "w279_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w280": {
+  "files": [
+   "w280.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w281": {
+  "files": [
+   "w281_1.mp3",
+   "w281_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w282": {
+  "files": [
+   "w282.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w283": {
+  "files": [
+   "w283.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w284": {
+  "files": [
+   "w284_1.mp3",
+   "w284_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w285": {
+  "files": [
+   "w285_1.mp3",
+   "w285_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w286": {
+  "files": [
+   "w286.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w287": {
+  "files": [
+   "w287_1.mp3",
+   "w287_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w288": {
+  "files": [
+   "w288_1.mp3",
+   "w288_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w289": {
+  "files": [
+   "w289.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w290": {
+  "files": [
+   "w290_1.mp3",
+   "w290_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w291": {
+  "files": [],
+  "source": "none"
+ },
+ "w292": {
+  "files": [
+   "w292_1.mp3",
+   "w292_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w293": {
+  "files": [
+   "w293_1.mp3",
+   "w293_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w294": {
+  "files": [
+   "w294_1.mp3",
+   "w294_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w295": {
+  "files": [
+   "w295.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w296": {
+  "files": [
+   "w296_1.mp3",
+   "w296_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w297": {
+  "files": [
+   "w297.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w298": {
+  "files": [
+   "w298.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w299": {
+  "files": [
+   "w299_1.mp3",
+   "w299_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w300": {
+  "files": [
+   "w300_1.mp3",
+   "w300_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w301": {
+  "files": [
+   "w301_1.mp3",
+   "w301_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w302": {
+  "files": [
+   "w302.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w303": {
+  "files": [
+   "w303_1.mp3",
+   "w303_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w304": {
+  "files": [
+   "w304.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w305": {
+  "files": [
+   "w305.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w306": {
+  "files": [
+   "w306_1.mp3",
+   "w306_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w307": {
+  "files": [
+   "w307.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w308": {
+  "files": [
+   "w308_1.mp3",
+   "w308_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w309": {
+  "files": [
+   "w309.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w310": {
+  "files": [
+   "w310.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w311": {
+  "files": [],
+  "source": "none"
+ },
+ "w312": {
+  "files": [
+   "w312.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w313": {
+  "files": [
+   "w313.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w314": {
+  "files": [
+   "w314.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w315": {
+  "files": [
+   "w315.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w316": {
+  "files": [
+   "w316.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w317": {
+  "files": [
+   "w317.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w318": {
+  "files": [
+   "w318.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w319": {
+  "files": [
+   "w319.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w320": {
+  "files": [
+   "w320.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w321": {
+  "files": [
+   "w321.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w322": {
+  "files": [
+   "w322.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w323": {
+  "files": [
+   "w323.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w324": {
+  "files": [
+   "w324.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w325": {
+  "files": [
+   "w325.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w326": {
+  "files": [
+   "w326.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w327": {
+  "files": [
+   "w327.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w328": {
+  "files": [
+   "w328_1.mp3",
+   "w328_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w329": {
+  "files": [
+   "w329.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w330": {
+  "files": [
+   "w330.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w331": {
+  "files": [
+   "w331.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w332": {
+  "files": [
+   "w332.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w333": {
+  "files": [
+   "w333.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w334": {
+  "files": [
+   "w334_1.mp3",
+   "w334_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w335": {
+  "files": [
+   "w335_1.mp3",
+   "w335_2.mp3",
+   "w335_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w336": {
+  "files": [
+   "w336_1.mp3",
+   "w336_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w337": {
+  "files": [
+   "w337.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w338": {
+  "files": [
+   "w338.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w339": {
+  "files": [
+   "w339_1.mp3",
+   "w339_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w340": {
+  "files": [
+   "w340.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w341": {
+  "files": [
+   "w341_1.mp3",
+   "w341_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w342": {
+  "files": [
+   "w342.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w343": {
+  "files": [
+   "w343.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w344": {
+  "files": [],
+  "source": "none"
+ },
+ "w345": {
+  "files": [
+   "w345_1.mp3",
+   "w345_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w346": {
+  "files": [
+   "w346.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w347": {
+  "files": [
+   "w347.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w348": {
+  "files": [
+   "w348.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w349": {
+  "files": [
+   "w349_1.mp3",
+   "w349_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w350": {
+  "files": [],
+  "source": "none"
+ },
+ "w351": {
+  "files": [
+   "w351.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w352": {
+  "files": [
+   "w352.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w353": {
+  "files": [
+   "w353.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w354": {
+  "files": [
+   "w354.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w355": {
+  "files": [
+   "w355_1.mp3",
+   "w355_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w356": {
+  "files": [
+   "w356.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w357": {
+  "files": [
+   "w357_1.mp3",
+   "w357_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w358": {
+  "files": [
+   "w358.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w359": {
+  "files": [
+   "w359.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w360": {
+  "files": [],
+  "source": "none"
+ },
+ "w361": {
+  "files": [
+   "w361.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w362": {
+  "files": [
+   "w362.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w363": {
+  "files": [
+   "w363.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w364": {
+  "files": [
+   "w364.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w365": {
+  "files": [
+   "w365.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w366": {
+  "files": [
+   "w366.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w367": {
+  "files": [
+   "w367_1.mp3",
+   "w367_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w368": {
+  "files": [
+   "w368.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w369": {
+  "files": [
+   "w369.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w370": {
+  "files": [
+   "w370.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w371": {
+  "files": [],
+  "source": "none"
+ },
+ "w372": {
+  "files": [
+   "w372_1.mp3",
+   "w372_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w373": {
+  "files": [
+   "w373_1.mp3",
+   "w373_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w374": {
+  "files": [],
+  "source": "none"
+ },
+ "w375": {
+  "files": [
+   "w375.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w376": {
+  "files": [
+   "w376_1.mp3",
+   "w376_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w377": {
+  "files": [
+   "w377_1.mp3",
+   "w377_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w378": {
+  "files": [
+   "w378.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w379": {
+  "files": [
+   "w379.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w380": {
+  "files": [
+   "w380.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w381": {
+  "files": [
+   "w381_1.mp3",
+   "w381_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w382": {
+  "files": [],
+  "source": "none"
+ },
+ "w383": {
+  "files": [
+   "w383_1.mp3",
+   "w383_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w384": {
+  "files": [
+   "w384.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w385": {
+  "files": [
+   "w385.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w386": {
+  "files": [
+   "w386.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w387": {
+  "files": [
+   "w387_1.mp3",
+   "w387_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w388": {
+  "files": [
+   "w388.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w389": {
+  "files": [
+   "w389_1.mp3",
+   "w389_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w390": {
+  "files": [
+   "w390_1.mp3",
+   "w390_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w391": {
+  "files": [],
+  "source": "none"
+ },
+ "w392": {
+  "files": [
+   "w392.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w393": {
+  "files": [
+   "w393.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w394": {
+  "files": [
+   "w394.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w395": {
+  "files": [
+   "w395.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w396": {
+  "files": [
+   "w396_1.mp3",
+   "w396_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w397": {
+  "files": [
+   "w397.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w398": {
+  "files": [
+   "w398.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w399": {
+  "files": [],
+  "source": "none"
+ },
+ "w400": {
+  "files": [
+   "w400.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w401": {
+  "files": [
+   "w401.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w402": {
+  "files": [
+   "w402.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w403": {
+  "files": [
+   "w403_1.mp3",
+   "w403_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w404": {
+  "files": [
+   "w404.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w405": {
+  "files": [
+   "w405.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w406": {
+  "files": [
+   "w406.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w407": {
+  "files": [
+   "w407.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w408": {
+  "files": [
+   "w408.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w409": {
+  "files": [
+   "w409.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w410": {
+  "files": [
+   "w410.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w411": {
+  "files": [
+   "w411.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w412": {
+  "files": [
+   "w412.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w413": {
+  "files": [
+   "w413.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w414": {
+  "files": [
+   "w414.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w415": {
+  "files": [
+   "w415.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w416": {
+  "files": [
+   "w416.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w417": {
+  "files": [
+   "w417.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w418": {
+  "files": [
+   "w418.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w419": {
+  "files": [
+   "w419.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w420": {
+  "files": [
+   "w420.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w421": {
+  "files": [
+   "w421.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w422": {
+  "files": [
+   "w422.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w423": {
+  "files": [
+   "w423.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w424": {
+  "files": [
+   "w424.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w425": {
+  "files": [
+   "w425.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w426": {
+  "files": [
+   "w426.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w427": {
+  "files": [
+   "w427.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w428": {
+  "files": [
+   "w428.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w429": {
+  "files": [
+   "w429.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w430": {
+  "files": [
+   "w430.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w431": {
+  "files": [
+   "w431.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w432": {
+  "files": [
+   "w432.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w433": {
+  "files": [
+   "w433.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w434": {
+  "files": [
+   "w434.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w435": {
+  "files": [
+   "w435.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w436": {
+  "files": [
+   "w436.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w437": {
+  "files": [
+   "w437.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w438": {
+  "files": [
+   "w438.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w439": {
+  "files": [
+   "w439.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w440": {
+  "files": [
+   "w440.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w441": {
+  "files": [
+   "w441.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w442": {
+  "files": [
+   "w442.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w443": {
+  "files": [
+   "w443.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w444": {
+  "files": [
+   "w444.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w445": {
+  "files": [
+   "w445.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w446": {
+  "files": [
+   "w446.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w447": {
+  "files": [
+   "w447.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w448": {
+  "files": [
+   "w448_1.mp3",
+   "w448_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w449": {
+  "files": [],
+  "source": "none"
+ },
+ "w450": {
+  "files": [],
+  "source": "none"
+ },
+ "w451": {
+  "files": [],
+  "source": "none"
+ },
+ "w452": {
+  "files": [],
+  "source": "none"
+ },
+ "w453": {
+  "files": [
+   "w453_1.mp3",
+   "w453_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w454": {
+  "files": [
+   "w454.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w455": {
+  "files": [
+   "w455.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w456": {
+  "files": [
+   "w456_1.mp3",
+   "w456_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w457": {
+  "files": [
+   "w457_1.mp3",
+   "w457_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w458": {
+  "files": [
+   "w458.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w459": {
+  "files": [
+   "w459.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w460": {
+  "files": [
+   "w460.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w461": {
+  "files": [],
+  "source": "none"
+ },
+ "w462": {
+  "files": [
+   "w462.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w463": {
+  "files": [
+   "w463.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w464": {
+  "files": [
+   "w464.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w465": {
+  "files": [
+   "w465.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w466": {
+  "files": [
+   "w466_1.mp3",
+   "w466_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w467": {
+  "files": [
+   "w467_1.mp3",
+   "w467_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w468": {
+  "files": [
+   "w468.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w469": {
+  "files": [
+   "w469.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w470": {
+  "files": [
+   "w470.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w471": {
+  "files": [
+   "w471.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w472": {
+  "files": [],
+  "source": "none"
+ },
+ "w473": {
+  "files": [
+   "w473.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w474": {
+  "files": [
+   "w474.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w475": {
+  "files": [
+   "w475.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w476": {
+  "files": [
+   "w476.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w477": {
+  "files": [
+   "w477.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w478": {
+  "files": [
+   "w478.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w479": {
+  "files": [
+   "w479.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w480": {
+  "files": [
+   "w480.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w481": {
+  "files": [],
+  "source": "none"
+ },
+ "w482": {
+  "files": [],
+  "source": "none"
+ },
+ "w483": {
+  "files": [
+   "w483_1.mp3",
+   "w483_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w484": {
+  "files": [
+   "w484.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w485": {
+  "files": [
+   "w485.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w486": {
+  "files": [
+   "w486.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w487": {
+  "files": [
+   "w487.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w488": {
+  "files": [
+   "w488_1.mp3",
+   "w488_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w489": {
+  "files": [
+   "w489.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w490": {
+  "files": [
+   "w490.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w491": {
+  "files": [
+   "w491.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w492": {
+  "files": [
+   "w492.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w493": {
+  "files": [
+   "w493.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w494": {
+  "files": [
+   "w494.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w495": {
+  "files": [
+   "w495.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w496": {
+  "files": [
+   "w496.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w497": {
+  "files": [
+   "w497.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w498": {
+  "files": [
+   "w498.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w499": {
+  "files": [
+   "w499.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w500": {
+  "files": [
+   "w500.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w501": {
+  "files": [
+   "w501.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w502": {
+  "files": [
+   "w502.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w503": {
+  "files": [
+   "w503.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w504": {
+  "files": [
+   "w504.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w505": {
+  "files": [
+   "w505_1.mp3",
+   "w505_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w506": {
+  "files": [
+   "w506.mp3"
+  ],
+  "source": "youdao-phrase"
+ },
+ "w507": {
+  "files": [
+   "w507_1.mp3",
+   "w507_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w508": {
+  "files": [
+   "w508.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w509": {
+  "files": [
+   "w509.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w510": {
+  "files": [
+   "w510_1.mp3",
+   "w510_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w511": {
+  "files": [
+   "w511.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w512": {
+  "files": [
+   "w512.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w513": {
+  "files": [],
+  "source": "none"
+ },
+ "w514": {
+  "files": [
+   "w514.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w515": {
+  "files": [
+   "w515.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w516": {
+  "files": [
+   "w516.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w517": {
+  "files": [
+   "w517_1.mp3",
+   "w517_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w518": {
+  "files": [
+   "w518.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w519": {
+  "files": [
+   "w519.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w520": {
+  "files": [
+   "w520.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w521": {
+  "files": [
+   "w521.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w522": {
+  "files": [
+   "w522.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w523": {
+  "files": [
+   "w523_1.mp3",
+   "w523_2.mp3",
+   "w523_3.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w524": {
+  "files": [
+   "w524_1.mp3",
+   "w524_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w525": {
+  "files": [
+   "w525_1.mp3",
+   "w525_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w526": {
+  "files": [
+   "w526.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w527": {
+  "files": [],
+  "source": "none"
+ },
+ "w528": {
+  "files": [
+   "w528_1.mp3",
+   "w528_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w529": {
+  "files": [
+   "w529_1.mp3",
+   "w529_2.mp3"
+  ],
+  "source": "wiktionary-split"
+ },
+ "w530": {
+  "files": [
+   "w530.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w531": {
+  "files": [
+   "w531_1.mp3",
+   "w531_2.mp3"
+  ],
+  "source": "youdao-split"
+ },
+ "w532": {
+  "files": [
+   "w532.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w533": {
+  "files": [],
+  "source": "none"
+ },
+ "w534": {
+  "files": [
+   "w534.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w535": {
+  "files": [],
+  "source": "none"
+ },
+ "w536": {
+  "files": [],
+  "source": "none"
+ },
+ "w537": {
+  "files": [
+   "w537.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w538": {
+  "files": [
+   "w538.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w539": {
+  "files": [
+   "w539.mp3"
+  ],
+  "source": "wiktionary"
+ },
+ "w540": {
+  "files": [
+   "w540.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w541": {
+  "files": [
+   "w541.mp3"
+  ],
+  "source": "youdao"
+ },
+ "w542": {
+  "files": [],
+  "source": "none"
+ },
+ "w543": {
+  "files": [],
+  "source": "none"
+ }
+}

@@ -1,0 +1,5442 @@
+[
+ {
+  "id": "w000",
+  "word": "Adjacent",
+  "ipa": "/əˈdʒeɪsənt/",
+  "chinese": "邻边",
+  "definition_en": "The side next to a referenced angle in a right triangle",
+  "example_en": "In a right triangle, the cosine of an angle equals the adjacent side divided by the hypotenuse.",
+  "example_zh": "在直角三角形中，一个角的余弦等于邻边除以斜边。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w001",
+  "word": "Alternate segment theorem",
+  "ipa": "/ɔːlˈtɜːnət ˈseɡmənt ˈθɪərəm/",
+  "chinese": "弦切角定理（弓形交替定理）",
+  "definition_en": "Circle theorem linking the angle between a tangent and chord to the opposite segment angle",
+  "example_en": "Using the alternate segment theorem, we can prove that the angle between the tangent and the chord equals the angle in the opposite segment.",
+  "example_zh": "利用弦切角定理，我们可以证明切线与弦的夹角等于对侧弓形内的圆周角。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w002",
+  "word": "Ambiguous case",
+  "ipa": "/æmˈbɪɡjuəs keɪs/",
+  "chinese": "歧义情形（正弦定理的两解情况）",
+  "definition_en": "Sine rule scenario with two valid possible triangle solutions",
+  "example_en": "When we are given two sides and a non-included angle, the ambiguous case may give us two different triangles.",
+  "example_zh": "当已知两边和一个非夹角时，歧义情形可能给出两个不同的三角形。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w003",
+  "word": "Amplitude",
+  "ipa": "/ˈæmplɪtjuːd/",
+  "chinese": "振幅",
+  "definition_en": "Maximum vertical displacement of a sinusoidal wave",
+  "example_en": "The function y = 3 sin(x) has an amplitude of 3 because its graph rises 3 units above the centre line.",
+  "example_zh": "函数 y = 3 sin(x) 的振幅为 3，因为它的图像在中线上方高出 3 个单位。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w004",
+  "word": "Angle of depression",
+  "ipa": "/ˈæŋɡəl əv dɪˈpreʃən/",
+  "chinese": "俯角",
+  "definition_en": "Angle measured downwards from a horizontal line of sight",
+  "example_en": "From the top of the lighthouse, the angle of depression to the boat is 25 degrees.",
+  "example_zh": "从灯塔顶端看，到小船的俯角为 25 度。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w005",
+  "word": "Angle of elevation",
+  "ipa": "/ˈæŋɡəl əv ˌelɪˈveɪʃən/",
+  "chinese": "仰角",
+  "definition_en": "Angle measured upwards from a horizontal line of sight",
+  "example_en": "A student measures the angle of elevation to the top of a tree as 40 degrees.",
+  "example_zh": "一名学生测得到树顶的仰角为 40 度。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w006",
+  "word": "Argument",
+  "ipa": "/ˈɑːɡjʊmənt/",
+  "chinese": "自变量（对数中的真数）",
+  "definition_en": "Input value of a function, most commonly used for logarithms",
+  "example_en": "In the expression log(100), the argument of the logarithm is 100.",
+  "example_zh": "在表达式 log(100) 中，对数的真数是 100。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w007",
+  "word": "Area of a parallelogram",
+  "ipa": "/ˈeəriə əv ə ˌpærəˈleləɡræm/",
+  "chinese": "平行四边形的面积",
+  "definition_en": "Calculation for the total surface space of a parallelogram",
+  "example_en": "The area of a parallelogram is found by multiplying its base by its perpendicular height.",
+  "example_zh": "平行四边形的面积等于底乘以其垂直高度。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w008",
+  "word": "Area of a segment",
+  "ipa": "/ˈeəriə əv ə ˈseɡmənt/",
+  "chinese": "弓形的面积",
+  "definition_en": "Area bounded by a chord and an arc of a circle",
+  "example_en": "To calculate the area of a segment, subtract the area of the triangle from the area of the sector.",
+  "example_zh": "要计算弓形的面积，用扇形面积减去三角形面积。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w009",
+  "word": "Area of an equilateral triangle",
+  "ipa": "/ˈeəriə əv ən ˌiːkwɪˈlætərəl ˈtraɪæŋɡəl/",
+  "chinese": "等边三角形的面积",
+  "definition_en": "Formula to find the surface area of a triangle with three equal sides",
+  "example_en": "The area of an equilateral triangle with side length a is (√3/4)a².",
+  "example_zh": "边长为 a 的等边三角形的面积是 (√3/4)a²。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w010",
+  "word": "Axiom",
+  "ipa": "/ˈæksiəm/",
+  "chinese": "公理",
+  "definition_en": "Fundamental statement accepted as true without formal proof",
+  "example_en": "It is an axiom of geometry that through any two points there is exactly one straight line.",
+  "example_zh": "过任意两点有且只有一条直线，这是几何学的一条公理。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w011",
+  "word": "Base",
+  "ipa": "/beɪs/",
+  "chinese": "底数",
+  "definition_en": "Fixed constant value in exponential and logarithmic expressions",
+  "example_en": "In the expression 2^5, the base is 2 and the exponent is 5.",
+  "example_zh": "在表达式 2^5 中，底数是 2，指数是 5。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w012",
+  "word": "Chord",
+  "ipa": "/kɔːd/",
+  "chinese": "弦",
+  "definition_en": "Straight line connecting any two points on a circle",
+  "example_en": "The perpendicular bisector of a chord always passes through the centre of the circle.",
+  "example_zh": "弦的垂直平分线一定经过圆心。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w013",
+  "word": "Circumference",
+  "ipa": "/səˈkʌmfərəns/",
+  "chinese": "圆周长",
+  "definition_en": "Total distance around the outer edge of a circle",
+  "example_en": "The circumference of a circle with radius 5 cm is 10π cm.",
+  "example_zh": "半径为 5 厘米的圆，其圆周长是 10π 厘米。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w014",
+  "word": "Composite",
+  "ipa": "/ˈkɒmpəzɪt/",
+  "chinese": "合数",
+  "definition_en": "A positive integer with more than two distinct factors",
+  "example_en": "The number 12 is composite because it has the factors 1, 2, 3, 4, 6 and 12.",
+  "example_zh": "12 是合数，因为它有因数 1、2、3、4、6 和 12。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w015",
+  "word": "Congruent",
+  "ipa": "/ˈkɒŋɡruənt/",
+  "chinese": "全等的",
+  "definition_en": "Shapes or figures identical in both size and shape",
+  "example_en": "The two triangles are congruent because their three corresponding sides are equal.",
+  "example_zh": "这两个三角形全等，因为它们的三条对应边相等。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w016",
+  "word": "Corresponding",
+  "ipa": "/ˌkɒrɪˈspɒndɪŋ/",
+  "chinese": "对应的（对应边、对应角）",
+  "definition_en": "Matching sides, angles or positions between similar/congruent figures",
+  "example_en": "In similar triangles, the ratios of corresponding sides are equal.",
+  "example_zh": "在相似三角形中，对应边的比相等。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w017",
+  "word": "Cosine rule",
+  "ipa": "/ˈkəʊsaɪn ruːl/",
+  "chinese": "余弦定理",
+  "definition_en": "Formula to calculate unknown sides or angles in any triangle",
+  "example_en": "We use the cosine rule to find the third side of a triangle when two sides and the included angle are known.",
+  "example_zh": "当已知两边及其夹角时，我们用余弦定理求三角形的第三边。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w018",
+  "word": "Cycle",
+  "ipa": "/ˈsaɪkəl/",
+  "chinese": "周期（一个完整循环）",
+  "definition_en": "One full complete repetition of a periodic function",
+  "example_en": "The graph of y = sin(x) completes one full cycle every 360 degrees.",
+  "example_zh": "y = sin(x) 的图像每 360 度完成一个完整的周期。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w019",
+  "word": "Cyclic quadrilateral",
+  "ipa": "/ˈsɪklɪk ˌkwɒdrɪˈlætərəl/",
+  "chinese": "圆内接四边形",
+  "definition_en": "Four-sided polygon with all vertices lying on a single circle",
+  "example_en": "In a cyclic quadrilateral, the opposite angles always add up to 180 degrees.",
+  "example_zh": "在圆内接四边形中，对角之和恒为 180 度。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w020",
+  "word": "Denominator",
+  "ipa": "/dɪˈnɒmɪneɪtə/",
+  "chinese": "分母",
+  "definition_en": "The bottom value of a fraction",
+  "example_en": "In the fraction 3/4, the denominator is 4.",
+  "example_zh": "在分数 3/4 中，分母是 4。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w021",
+  "word": "Depression",
+  "ipa": "/dɪˈpreʃən/",
+  "chinese": "俯角（angle of depression 的简称）",
+  "definition_en": "Short form for angle of depression",
+  "example_en": "The pilot measured the depression to the runway before beginning the descent.",
+  "example_zh": "飞行员在开始下降前测量了到跑道的俯角。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w022",
+  "word": "Diameter",
+  "ipa": "/daɪˈæmɪtə/",
+  "chinese": "直径",
+  "definition_en": "Chord passing directly through the centre of a circle; longest circle chord",
+  "example_en": "The diameter of a circle is exactly twice its radius.",
+  "example_zh": "圆的直径恰好是半径的两倍。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w023",
+  "word": "Dilation",
+  "ipa": "/daɪˈleɪʃən/",
+  "chinese": "位似变换（缩放）",
+  "definition_en": "Transformation that enlarges or reduces a shape proportionally",
+  "example_en": "A dilation with scale factor 2 doubles every side length of the original shape.",
+  "example_zh": "缩放比例为 2 的位似变换会把原图形的每条边长扩大一倍。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w024",
+  "word": "Elevation",
+  "ipa": "/ˌelɪˈveɪʃən/",
+  "chinese": "仰角（angle of elevation 的简称）",
+  "definition_en": "Short form for angle of elevation",
+  "example_en": "The elevation to the top of the tower increased as we walked closer to it.",
+  "example_zh": "当我们走近塔时，到塔顶的仰角变大了。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w025",
+  "word": "Equilateral triangle",
+  "ipa": "/ˌiːkwɪˈlætərəl ˈtraɪæŋɡəl/",
+  "chinese": "等边三角形",
+  "definition_en": "Triangle with three equal sides and three equal angles",
+  "example_en": "Every angle in an equilateral triangle measures exactly 60 degrees.",
+  "example_zh": "等边三角形的每个角都恰好是 60 度。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w026",
+  "word": "Exponential",
+  "ipa": "/ˌekspəˈnenʃəl/",
+  "chinese": "指数的",
+  "definition_en": "Relating to expressions containing a variable exponent",
+  "example_en": "Population growth can often be modelled by an exponential equation.",
+  "example_zh": "人口增长常常可以用指数方程来建模。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w027",
+  "word": "Exponential function",
+  "ipa": "/ˌekspəˈnenʃəl ˈfʌŋkʃən/",
+  "chinese": "指数函数",
+  "definition_en": "Function with a constant base raised to a variable power",
+  "example_en": "The exponential function f(x) = 2^x grows faster and faster as x increases.",
+  "example_zh": "指数函数 f(x) = 2^x 随着 x 增大而增长得越来越快。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w028",
+  "word": "Exponential statement",
+  "ipa": "/ˌekspəˈnenʃəl ˈsteɪtmənt/",
+  "chinese": "指数式",
+  "definition_en": "Equation written in standard exponential form",
+  "example_en": "The exponential statement 3^4 = 81 can be rewritten in logarithmic form as log₃81 = 4.",
+  "example_zh": "指数式 3^4 = 81 可以改写成对数形式 log₃81 = 4。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w029",
+  "word": "Extrapolate",
+  "ipa": "/ɪkˈstræpəleɪt/",
+  "chinese": "外推",
+  "definition_en": "Estimate values that lie outside the range of known data",
+  "example_en": "It is risky to extrapolate the graph to predict sales ten years into the future.",
+  "example_zh": "通过外推图像来预测十年后的销售量是有风险的。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w030",
+  "word": "Extraneous solution",
+  "ipa": "/ɪkˈstreɪniəs səˈluːʃən/",
+  "chinese": "增根",
+  "definition_en": "Algebraic solution that does not satisfy the original equation",
+  "example_en": "Squaring both sides of an equation can introduce an extraneous solution, so always check your answers.",
+  "example_zh": "对方程两边平方可能会产生增根，所以一定要检验答案。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w031",
+  "word": "Formula",
+  "ipa": "/ˈfɔːmjələ/",
+  "chinese": "公式",
+  "definition_en": "Mathematical rule or relationship expressed using symbols",
+  "example_en": "The formula for the area of a circle is A = πr².",
+  "example_zh": "圆的面积公式是 A = πr²。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w032",
+  "word": "Fraction",
+  "ipa": "/ˈfrækʃən/",
+  "chinese": "分数",
+  "definition_en": "Numerical expression representing a part of a whole",
+  "example_en": "To add two fractions, you first need to find a common denominator.",
+  "example_zh": "要把两个分数相加，首先需要找到公分母。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w033",
+  "word": "Frequency",
+  "ipa": "/ˈfriːkwənsi/",
+  "chinese": "频率",
+  "definition_en": "Number of full cycles a periodic function completes per unit interval",
+  "example_en": "The frequency of the wave is 50 Hz, meaning it completes 50 cycles every second.",
+  "example_zh": "该波的频率是 50 赫兹，意味着它每秒完成 50 个周期。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w034",
+  "word": "Function",
+  "ipa": "/ˈfʌŋkʃən/",
+  "chinese": "函数",
+  "definition_en": "Relation where every input maps to exactly one output",
+  "example_en": "For a relation to be a function, each x-value must correspond to exactly one y-value.",
+  "example_zh": "一个关系要成为函数，每个 x 值必须恰好对应一个 y 值。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w035",
+  "word": "Gradient",
+  "ipa": "/ˈɡreɪdiənt/",
+  "chinese": "斜率（梯度）",
+  "definition_en": "Slope of a line; ratio of vertical change to horizontal change",
+  "example_en": "The line passing through (1, 2) and (5, 10) has a gradient of 2.",
+  "example_zh": "经过点 (1, 2) 和 (5, 10) 的直线斜率为 2。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w036",
+  "word": "Horizontal asymptote",
+  "ipa": "/ˌhɒrɪˈzɒntəl ˈasɪmptəʊt/",
+  "chinese": "水平渐近线",
+  "definition_en": "Horizontal line a curve continually approaches but never intersects",
+  "example_en": "The graph of y = 1/x has a horizontal asymptote at y = 0.",
+  "example_zh": "y = 1/x 的图像有一条水平渐近线 y = 0。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w037",
+  "word": "Horizontal shift",
+  "ipa": "/ˌhɒrɪˈzɒntəl ʃɪft/",
+  "chinese": "水平平移",
+  "definition_en": "Sideways translation of a function’s graph",
+  "example_en": "The graph of y = (x − 3)² is a horizontal shift of y = x² by 3 units to the right.",
+  "example_zh": "y = (x − 3)² 的图像是 y = x² 向右水平平移 3 个单位得到的。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w038",
+  "word": "Hyperbola",
+  "ipa": "/haɪˈpɜːbələ/",
+  "chinese": "双曲线",
+  "definition_en": "Symmetrical open conic curve with two separate branches",
+  "example_en": "The graph of y = 1/x is a hyperbola with two separate branches.",
+  "example_zh": "y = 1/x 的图像是一条有两个分支的双曲线。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w039",
+  "word": "Identify",
+  "ipa": "/aɪˈdentɪfaɪ/",
+  "chinese": "识别（辨认并标出数学特征、规律或图像）",
+  "definition_en": "Recognise, label and name mathematical features, rules or graphs",
+  "example_en": "Identify the vertex of the parabola and state whether it is a maximum or a minimum point.",
+  "example_zh": "识别抛物线的顶点，并说明它是最高点还是最低点。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w040",
+  "word": "Integers",
+  "ipa": "/ˈɪntɪdʒəz/",
+  "chinese": "整数",
+  "definition_en": "Set of all positive whole numbers, negative whole numbers and zero",
+  "example_en": "The numbers −3, 0 and 7 are all integers, but 0.5 is not.",
+  "example_zh": "−3、0 和 7 都是整数，但 0.5 不是。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w041",
+  "word": "Intercept",
+  "ipa": "/ˈɪntəsept/",
+  "chinese": "截距",
+  "definition_en": "Point where a graph crosses the x-axis or y-axis",
+  "example_en": "The line y = 2x + 6 has a y-intercept at the point (0, 6).",
+  "example_zh": "直线 y = 2x + 6 的 y 轴截距在点 (0, 6)。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w042",
+  "word": "Interpolation",
+  "ipa": "/ɪnˌtɜːpəˈleɪʃən/",
+  "chinese": "内插（插值）",
+  "definition_en": "Estimate values that lie within the range of known data",
+  "example_en": "Using interpolation, we estimated the temperature at 3 p.m. from the readings at 2 p.m. and 4 p.m.",
+  "example_zh": "利用内插法，我们根据下午 2 点和 4 点的读数估算出下午 3 点的气温。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w043",
+  "word": "Intersection",
+  "ipa": "/ˌɪntəˈsekʃən/",
+  "chinese": "交点",
+  "definition_en": "Point or points where two lines, curves or shapes cross",
+  "example_en": "To find the intersection of the two lines, solve the two equations simultaneously.",
+  "example_zh": "要求两条直线的交点，需要联立求解这两个方程。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w044",
+  "word": "Inverse",
+  "ipa": "/ˌɪnˈvɜːs/",
+  "chinese": "逆运算（反函数）",
+  "definition_en": "Operation or function that reverses the effect of the original",
+  "example_en": "Subtraction is the inverse operation of addition.",
+  "example_zh": "减法是加法的逆运算。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w045",
+  "word": "Laws of logarithms",
+  "ipa": "/lɔːz əv ˈlɒɡərɪðəmz/",
+  "chinese": "对数运算法则",
+  "definition_en": "Set of rules for simplifying and computing logarithmic expressions",
+  "example_en": "Using the laws of logarithms, we can write log(a) + log(b) as the single logarithm log(ab).",
+  "example_zh": "利用对数运算法则，我们可以把 log(a) + log(b) 写成单个对数 log(ab)。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w046",
+  "word": "Least common multiple",
+  "ipa": "/liːst ˈkɒmən ˈmʌltɪpl/",
+  "chinese": "最小公倍数",
+  "definition_en": "Smallest positive integer divisible by two or more given numbers",
+  "example_en": "The least common multiple of 4 and 6 is 12, so both numbers divide 12 exactly.",
+  "example_zh": "4 和 6 的最小公倍数是 12，因此 12 能同时被这两个数整除。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w047",
+  "word": "Logarithmic function",
+  "ipa": "/ˌlɒɡəˈrɪðmɪk ˈfʌŋkʃən/",
+  "chinese": "对数函数",
+  "definition_en": "Inverse function of an exponential function",
+  "example_en": "The logarithmic function y = log₂(x) tells us the exponent to which 2 must be raised to get x.",
+  "example_zh": "对数函数 y = log₂(x) 表示 2 需要升到多少次幂才能得到 x。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w048",
+  "word": "Logarithmic statement",
+  "ipa": "/ˌlɒɡəˈrɪðmɪk ˈsteɪtmənt/",
+  "chinese": "对数式",
+  "definition_en": "Equation written in standard logarithmic form",
+  "example_en": "The logarithmic statement log₃(81) = 4 is equivalent to the exponential form 3⁴ = 81.",
+  "example_zh": "对数式 log₃(81) = 4 与指数形式 3⁴ = 81 等价。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w049",
+  "word": "Major arc",
+  "ipa": "/ˈmeɪdʒər ɑːk/",
+  "chinese": "优弧",
+  "definition_en": "The longer curved section between two points on a circle",
+  "example_en": "The major arc AB measures 270°, which is much longer than the minor arc joining the same two points.",
+  "example_zh": "优弧 AB 的度数为 270°，比连接同样两点的劣弧长得多。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w050",
+  "word": "Maximum",
+  "ipa": "/ˈmæksɪməm/",
+  "chinese": "最大值",
+  "definition_en": "The highest output value of a function within a given domain",
+  "example_en": "The maximum of the parabola y = -x² + 4 is 4, reached when x equals zero.",
+  "example_zh": "抛物线 y = -x² + 4 的最大值是 4，在 x 等于 0 时取得。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w051",
+  "word": "Minimum",
+  "ipa": "/ˈmɪnɪməm/",
+  "chinese": "最小值",
+  "definition_en": "The lowest output value of a function within a given domain",
+  "example_en": "The function y = x² - 6x + 5 has a minimum of -4 at its vertex.",
+  "example_zh": "函数 y = x² - 6x + 5 在其顶点处取得最小值 -4。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w052",
+  "word": "Minor arc",
+  "ipa": "/ˈmaɪnər ɑːk/",
+  "chinese": "劣弧",
+  "definition_en": "The shorter curved section between two points on a circle",
+  "example_en": "The minor arc between the two points subtends a central angle of 80°.",
+  "example_zh": "这两点之间的劣弧所对的圆心角为 80°。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w053",
+  "word": "Natural logarithms",
+  "ipa": "/ˈnætʃərəl ˈlɒɡərɪðəmz/",
+  "chinese": "自然对数",
+  "definition_en": "Logarithms using base e, written as ln",
+  "example_en": "Natural logarithms use the irrational number e as their base, so ln(e) = 1.",
+  "example_zh": "自然对数以无理数 e 为底，因此 ln(e) = 1。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w054",
+  "word": "Numerator",
+  "ipa": "/ˈnjuːməreɪtər/",
+  "chinese": "分子",
+  "definition_en": "The top value of a fraction",
+  "example_en": "In the fraction 3/5, the numerator is 3 and it tells us how many parts we have.",
+  "example_zh": "在分数 3/5 中，分子是 3，它表示我们取了多少份。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w055",
+  "word": "Opposite",
+  "ipa": "/ˈɒpəzɪt/",
+  "chinese": "对边",
+  "definition_en": "The side directly across from a referenced angle in a right triangle",
+  "example_en": "To find sin 30°, divide the length of the opposite side by the hypotenuse.",
+  "example_zh": "要求 sin 30°，用对边的长度除以斜边。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w056",
+  "word": "Parallelogram",
+  "ipa": "/ˌpærəˈleləɡræm/",
+  "chinese": "平行四边形",
+  "definition_en": "Quadrilateral with two pairs of parallel opposite sides",
+  "example_en": "The opposite sides of a parallelogram are equal in length and its opposite angles are equal.",
+  "example_zh": "平行四边形的对边长度相等，对角也相等。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w057",
+  "word": "Period",
+  "ipa": "/ˈpɪəriəd/",
+  "chinese": "周期",
+  "definition_en": "Horizontal length of one full cycle of a periodic function",
+  "example_en": "The period of y = sin(2x) is π, so the curve repeats every π units along the x-axis.",
+  "example_zh": "y = sin(2x) 的周期是 π，因此曲线沿 x 轴每隔 π 个单位重复一次。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w058",
+  "word": "Periodic function",
+  "ipa": "/ˌpɪəriˈɒdɪk ˈfʌŋkʃən/",
+  "chinese": "周期函数",
+  "definition_en": "Function that repeats its pattern at regular fixed intervals",
+  "example_en": "A sine wave is a periodic function because its shape repeats endlessly in both directions.",
+  "example_zh": "正弦波是周期函数，因为它的图象在两个方向上无限重复。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w059",
+  "word": "Periodicity",
+  "ipa": "/ˌpɪəriəˈdɪsəti/",
+  "chinese": "周期性",
+  "definition_en": "The property of a function or pattern repeating cyclically",
+  "example_en": "The periodicity of the cosine curve allows us to predict its value at any angle.",
+  "example_zh": "余弦曲线的周期性使我们能够预测任意角度处的函数值。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w060",
+  "word": "Phase shift",
+  "ipa": "/feɪz ʃɪft/",
+  "chinese": "相移（相位平移）",
+  "definition_en": "Horizontal offset of a sinusoidal function from its standard position",
+  "example_en": "In y = sin(x - π/2), the phase shift is π/2 units to the right.",
+  "example_zh": "在 y = sin(x - π/2) 中，相移为向右 π/2 个单位。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w061",
+  "word": "Power rule",
+  "ipa": "/ˈpaʊər ruːl/",
+  "chinese": "幂法则",
+  "definition_en": "Differentiation rule for functions raised to a numerical power",
+  "example_en": "Using the power rule, the derivative of x³ is 3x².",
+  "example_zh": "根据幂法则，x³ 的导数是 3x²。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w062",
+  "word": "Proof",
+  "ipa": "/pruːf/",
+  "chinese": "证明",
+  "definition_en": "Logical step-by-step reasoning to verify a mathematical statement",
+  "example_en": "Every theorem in geometry must be supported by a rigorous proof.",
+  "example_zh": "几何中的每个定理都必须有严谨的证明作为支撑。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w063",
+  "word": "Pythagorean Theorem",
+  "ipa": "/pɪˌθæɡəˈriːən ˈθɪərəm/",
+  "chinese": "勾股定理",
+  "definition_en": "Rule relating the three side lengths of a right-angled triangle",
+  "example_en": "By the Pythagorean Theorem, a right triangle with legs 3 and 4 has a hypotenuse of 5.",
+  "example_zh": "根据勾股定理，两条直角边为 3 和 4 的直角三角形，其斜边为 5。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w064",
+  "word": "Quadrant",
+  "ipa": "/ˈkwɒdrənt/",
+  "chinese": "象限",
+  "definition_en": "One of four equal regions formed by intersecting coordinate axes",
+  "example_en": "The point (-2, 5) lies in the second quadrant of the coordinate plane.",
+  "example_zh": "点 (-2, 5) 位于坐标平面的第二象限。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w065",
+  "word": "Quadratic",
+  "ipa": "/kwɒˈdrætɪk/",
+  "chinese": "二次式（二次函数）",
+  "definition_en": "Expression or function where the highest variable power is two",
+  "example_en": "We can solve the quadratic x² - 5x + 6 = 0 by factoring it into (x - 2)(x - 3) = 0.",
+  "example_zh": "我们可以通过因式分解 (x - 2)(x - 3) = 0 来求解二次方程 x² - 5x + 6 = 0。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w066",
+  "word": "Quotient rule",
+  "ipa": "/ˈkwəʊʃənt ruːl/",
+  "chinese": "商法则",
+  "definition_en": "Differentiation rule for the division of two separate functions",
+  "example_en": "The quotient rule helps us differentiate a function like y = x²/(x + 1).",
+  "example_zh": "商法则可以帮助我们求 y = x²/(x + 1) 这类函数的导数。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w067",
+  "word": "Radian",
+  "ipa": "/ˈreɪdiən/",
+  "chinese": "弧度",
+  "definition_en": "Standard SI unit for measuring angles, based on arc length",
+  "example_en": "An angle of π radians is equivalent to 180 degrees.",
+  "example_zh": "π 弧度的角等于 180 度。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w068",
+  "word": "Radius",
+  "ipa": "/ˈreɪdiəs/",
+  "chinese": "半径",
+  "definition_en": "Straight line from a circle's centre to any point on its edge",
+  "example_en": "If the radius of a circle is 7 cm, its circumference is 14π cm.",
+  "example_zh": "如果一个圆的半径是 7 厘米，它的周长就是 14π 厘米。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w069",
+  "word": "Ratio",
+  "ipa": "/ˈreɪʃiəʊ/",
+  "chinese": "比",
+  "definition_en": "Comparative relationship between two quantities",
+  "example_en": "The ratio of boys to girls in the class is 3:2.",
+  "example_zh": "这个班男生与女生的比是 3:2。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w070",
+  "word": "Rational algebraic expression",
+  "ipa": "/ˈræʃnəl ˌældʒɪˈbreɪɪk ɪkˈspreʃən/",
+  "chinese": "有理代数式",
+  "definition_en": "Fraction formed using polynomial expressions",
+  "example_en": "The expression (x² + 1)/(x - 3) is a rational algebraic expression.",
+  "example_zh": "表达式 (x² + 1)/(x - 3) 是一个有理代数式。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w071",
+  "word": "Rational function",
+  "ipa": "/ˈræʃnəl ˈfʌŋkʃən/",
+  "chinese": "有理函数",
+  "definition_en": "Function defined as the quotient of two polynomial functions",
+  "example_en": "The rational function f(x) = 1/(x - 2) is undefined when x equals 2.",
+  "example_zh": "有理函数 f(x) = 1/(x - 2) 在 x 等于 2 时无定义。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w072",
+  "word": "Reciprocal function",
+  "ipa": "/rɪˈsɪprəkəl ˈfʌŋkʃən/",
+  "chinese": "反比例函数",
+  "definition_en": "Function of the form f(x) = 1/x",
+  "example_en": "The graph of the reciprocal function y = 1/x is a hyperbola with two separate branches.",
+  "example_zh": "反比例函数 y = 1/x 的图象是有两条分支的双曲线。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w073",
+  "word": "Rearrange",
+  "ipa": "/ˌriːəˈreɪndʒ/",
+  "chinese": "变形（移项整理）",
+  "definition_en": "Rewrite an equation or formula to isolate a specific variable",
+  "example_en": "Rearrange the formula v = u + at to make t the subject.",
+  "example_zh": "将公式 v = u + at 变形，使 t 成为主元。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w074",
+  "word": "Reflection",
+  "ipa": "/rɪˈflekʃən/",
+  "chinese": "反射（轴对称变换）",
+  "definition_en": "Transformation that flips a shape over a fixed mirror line",
+  "example_en": "A reflection in the y-axis maps the point (3, 2) onto (-3, 2).",
+  "example_zh": "关于 y 轴的反射把点 (3, 2) 映射到 (-3, 2)。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w075",
+  "word": "Restrictions",
+  "ipa": "/rɪˈstrɪkʃənz/",
+  "chinese": "限制条件",
+  "definition_en": "Values a variable cannot take to keep an expression defined",
+  "example_en": "For the expression 1/(x - 5), the restriction is x ≠ 5, since the denominator cannot be zero.",
+  "example_zh": "对于表达式 1/(x - 5)，限制条件是 x ≠ 5，因为分母不能为零。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w076",
+  "word": "Secant",
+  "ipa": "/ˈsiːkənt/",
+  "chinese": "割线",
+  "definition_en": "Straight line that intersects a circle at two distinct points",
+  "example_en": "A secant cuts the circle at two points, creating a chord inside it.",
+  "example_zh": "割线与圆相交于两点，在圆内形成一条弦。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w077",
+  "word": "Segment",
+  "ipa": "/ˈseɡmənt/",
+  "chinese": "弓形",
+  "definition_en": "Region enclosed by a chord and an arc of a circle",
+  "example_en": "To find the area of the segment, subtract the triangle's area from the sector's area.",
+  "example_zh": "要求弓形的面积，用扇形面积减去三角形面积。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w078",
+  "word": "Simplify",
+  "ipa": "/ˈsɪmplɪfaɪ/",
+  "chinese": "化简",
+  "definition_en": "Rewrite an expression into its most basic, compact form",
+  "example_en": "Simplify the fraction 12/18 to its lowest terms, which gives 2/3.",
+  "example_zh": "把分数 12/18 化简为最简形式，得到 2/3。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w079",
+  "word": "Simultaneous",
+  "ipa": "/ˌsɪməlˈteɪniəs/",
+  "chinese": "联立的",
+  "definition_en": "Two or more equations solved together for shared solutions",
+  "example_en": "We solved the simultaneous equations 2x + y = 7 and x - y = 2 to find x = 3 and y = 1.",
+  "example_zh": "我们解联立方程 2x + y = 7 和 x - y = 2，得到 x = 3、y = 1。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w080",
+  "word": "Sine rule",
+  "ipa": "/saɪn ruːl/",
+  "chinese": "正弦定理",
+  "definition_en": "Formula to calculate unknown sides or angles in any triangle",
+  "example_en": "Using the sine rule, a/sin A = b/sin B, we can find the missing side of the triangle.",
+  "example_zh": "利用正弦定理 a/sin A = b/sin B，我们可以求出三角形未知的边长。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w081",
+  "word": "Sinusoidal function",
+  "ipa": "/ˌsaɪnəˈsɔɪdəl ˈfʌŋkʃən/",
+  "chinese": "正弦型函数",
+  "definition_en": "Wave-shaped function based on sine or cosine curves",
+  "example_en": "The height of the tide can be modelled by a sinusoidal function over time.",
+  "example_zh": "潮汐的高度可以随时间用正弦型函数来建模。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w082",
+  "word": "Special triangle",
+  "ipa": "/ˈspeʃəl ˈtraɪæŋɡəl/",
+  "chinese": "特殊三角形",
+  "definition_en": "Standard right triangles with fixed angle ratios (30-60-90, 45-45-90)",
+  "example_en": "In a 45-45-90 special triangle, the hypotenuse is √2 times the length of each leg.",
+  "example_zh": "在 45-45-90 的特殊三角形中，斜边是每条直角边的 √2 倍。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w083",
+  "word": "Tangent",
+  "ipa": "/ˈtændʒənt/",
+  "chinese": "切线",
+  "definition_en": "Line that touches a circle or curve at exactly one point",
+  "example_en": "A tangent to a circle is always perpendicular to the radius at the point of contact.",
+  "example_zh": "圆的切线在切点处总是与半径垂直。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w084",
+  "word": "Tangent line",
+  "ipa": "/ˈtændʒənt laɪn/",
+  "chinese": "切线",
+  "definition_en": "Straight line tangent to a curve at a single point of contact",
+  "example_en": "The slope of the tangent line to y = x² at x = 3 is 6.",
+  "example_zh": "曲线 y = x² 在 x = 3 处的切线斜率为 6。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w085",
+  "word": "Theorem",
+  "ipa": "/ˈθɪərəm/",
+  "chinese": "定理",
+  "definition_en": "Mathematical statement proven true using axioms and reasoning",
+  "example_en": "Once a conjecture has been proved, it becomes a theorem.",
+  "example_zh": "一个猜想一旦被证明，就成为定理。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w086",
+  "word": "Thales' Theorem",
+  "ipa": "/ˈθeɪliːz ˈθɪərəm/",
+  "chinese": "泰勒斯定理",
+  "definition_en": "Circle theorem: an angle inscribed inside a semicircle is a right angle",
+  "example_en": "By Thales' Theorem, any triangle drawn with the diameter as one side contains a right angle.",
+  "example_zh": "根据泰勒斯定理，以直径为一边画出的任何三角形都含有一个直角。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w087",
+  "word": "Translation",
+  "ipa": "/trænzˈleɪʃən/",
+  "chinese": "平移",
+  "definition_en": "Transformation that slides a shape without rotating or resizing",
+  "example_en": "The translation (x, y) → (x + 4, y - 1) moves every point of the shape four units right and one unit down.",
+  "example_zh": "平移 (x, y) → (x + 4, y - 1) 把图形上的每个点向右移动 4 个单位、向下移动 1 个单位。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w088",
+  "word": "Trigonometric identities",
+  "ipa": "/ˌtrɪɡənəˈmetrɪk aɪˈdentətiz/",
+  "chinese": "三角恒等式",
+  "definition_en": "Equivalent expressions for trigonometric functions",
+  "example_en": "The identity sin²θ + cos²θ = 1 is one of the most useful trigonometric identities.",
+  "example_zh": "恒等式 sin²θ + cos²θ = 1 是最常用的三角恒等式之一。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w089",
+  "word": "Trigonometric ratio",
+  "ipa": "/ˌtrɪɡənəˈmetrɪk ˈreɪʃiəʊ/",
+  "chinese": "三角比",
+  "definition_en": "Ratio of two sides in a right triangle (sine, cosine, tangent)",
+  "example_en": "The trigonometric ratio cos A equals the adjacent side divided by the hypotenuse.",
+  "example_zh": "三角比 cos A 等于邻边除以斜边。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w090",
+  "word": "Unitary rule",
+  "ipa": "/ˈjuːnɪtəri ruːl/",
+  "chinese": "归一法",
+  "definition_en": "Calculation method to find the value of one unit then scale quantities",
+  "example_en": "Using the unitary rule, if 8 pens cost $24, one pen costs $3, so 5 pens cost $15.",
+  "example_zh": "用归一法：8 支笔 24 美元，则 1 支笔 3 美元，所以 5 支笔 15 美元。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w091",
+  "word": "Vertex",
+  "ipa": "/ˈvɜːteks/",
+  "chinese": "顶点",
+  "definition_en": "Corner of a polygon; turning point of a parabola or curve",
+  "example_en": "The vertex of the parabola y = (x - 2)² + 3 is the point (2, 3).",
+  "example_zh": "抛物线 y = (x - 2)² + 3 的顶点是点 (2, 3)。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w092",
+  "word": "Vertical asymptote",
+  "ipa": "/ˈvɜːtɪkəl ˈæsɪmtəʊt/",
+  "chinese": "垂直渐近线",
+  "definition_en": "Vertical line a curve approaches but never crosses",
+  "example_en": "The graph of y = 1/(x - 4) has a vertical asymptote at x = 4.",
+  "example_zh": "y = 1/(x - 4) 的图象在 x = 4 处有一条垂直渐近线。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w093",
+  "word": "Zero rule",
+  "ipa": "/ˈzɪərəʊ ruːl/",
+  "chinese": "零指数法则",
+  "definition_en": "Rule: any non-zero number raised to the power of zero equals 1",
+  "example_en": "By the zero rule, 5⁰ = 1 and (-3)⁰ = 1.",
+  "example_zh": "根据零指数法则，5⁰ = 1，(-3)⁰ = 1。",
+  "subject": "Maths"
+ },
+ {
+  "id": "w094",
+  "word": "accountability",
+  "ipa": "/əˌkaʊntəˈbɪləti/",
+  "chinese": "问责制；承担责任",
+  "definition_en": "Responsibility to answer for actions, decisions and outcomes",
+  "example_en": "In a democracy, elections create accountability because leaders must answer to voters for their decisions.",
+  "example_zh": "在民主制度中，选举建立了问责制，因为领导人必须就自己的决定向选民作出交代。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w095",
+  "word": "advocacy networks",
+  "ipa": "/ˈædvəkəsi ˈnetwɜːks/",
+  "chinese": "倡议网络；倡导网络",
+  "definition_en": "Connected groups that campaign for social or political change",
+  "example_en": "Advocacy networks of environmental groups campaigned together to pressure governments into signing the climate agreement.",
+  "example_zh": "由环保组织组成的倡议网络共同开展运动，促使各国政府签署气候协议。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w096",
+  "word": "agents of socialization",
+  "ipa": "/ˈeɪdʒənts əv ˌsəʊʃəlaɪˈzeɪʃən/",
+  "chinese": "社会化媒介；社会化主体",
+  "definition_en": "People, groups or institutions that shape an individual’s beliefs and behaviour",
+  "example_en": "Family, school and the media are all agents of socialization that influence how young people view the world.",
+  "example_zh": "家庭、学校和媒体都是社会化媒介，影响着年轻人看待世界的方式。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w097",
+  "word": "aid",
+  "ipa": "/eɪd/",
+  "chinese": "援助",
+  "definition_en": "Financial, material or practical support given between nations or communities",
+  "example_en": "After the earthquake, several countries sent aid in the form of food, medicine and rescue teams.",
+  "example_zh": "地震发生后，多个国家以食品、药品和救援队的形式提供了援助。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w098",
+  "word": "attraction",
+  "ipa": "/əˈtrækʃən/",
+  "chinese": "吸引力（软实力）",
+  "definition_en": "Ability to draw others through appeal, culture or influence (soft power)",
+  "example_en": "A country's films and music can increase its attraction, which is a key source of soft power.",
+  "example_zh": "一个国家的电影和音乐可以增强其吸引力，而吸引力是软实力的重要来源。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w099",
+  "word": "belief(s)",
+  "ipa": "/bɪˈliːf/",
+  "chinese": "信念；信仰",
+  "definition_en": "Accepted ideas, opinions or convictions held by individuals or groups",
+  "example_en": "People's beliefs about fairness often shape which political parties they choose to support.",
+  "example_zh": "人们对公平的信念往往会影响他们选择支持哪个政党。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w100",
+  "word": "belonging",
+  "ipa": "/bɪˈlɒŋɪŋ/",
+  "chinese": "归属感",
+  "definition_en": "Sense of connection, membership and acceptance within a group or society",
+  "example_en": "Joining a sports team can give new students a strong sense of belonging at school.",
+  "example_zh": "加入运动队可以让新生在学校获得强烈的归属感。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w101",
+  "word": "bias",
+  "ipa": "/ˈbaɪəs/",
+  "chinese": "偏见；偏向",
+  "definition_en": "Prejudiced outlook that influences judgement, representation or treatment",
+  "example_en": "A good historian checks sources carefully to avoid bias when describing past events.",
+  "example_zh": "优秀的历史学家会仔细核查资料，以避免在描述历史事件时带有偏见。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w102",
+  "word": "bilateralism",
+  "ipa": "/baɪˈlætərəlɪzəm/",
+  "chinese": "双边主义；双边合作",
+  "definition_en": "Cooperation or agreements between two nations or parties",
+  "example_en": "The trade deal between the two neighbouring countries is an example of bilateralism.",
+  "example_zh": "两个邻国之间的贸易协定是双边主义的一个例子。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w103",
+  "word": "borders",
+  "ipa": "/ˈbɔːdəz/",
+  "chinese": "边界；边境",
+  "definition_en": "Physical or political lines separating nations, territories or groups",
+  "example_en": "Rivers and mountain ranges often form natural borders between countries.",
+  "example_zh": "河流和山脉常常构成国家之间的天然边界。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w104",
+  "word": "BRICS+",
+  "ipa": "/brɪks plʌs/",
+  "chinese": "金砖国家扩展机制（金砖+）",
+  "definition_en": "Extended group of major emerging national economies",
+  "example_en": "BRICS+ brings together major emerging economies to discuss trade, development and global governance.",
+  "example_zh": "金砖+机制汇聚主要新兴经济体，共同讨论贸易、发展与全球治理议题。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w105",
+  "word": "capitalism",
+  "ipa": "/ˈkæpɪtəlɪzəm/",
+  "chinese": "资本主义",
+  "definition_en": "Economic system based on private ownership and free markets",
+  "example_en": "Under capitalism, most businesses are privately owned and prices are set by supply and demand.",
+  "example_zh": "在资本主义制度下，大多数企业为私人所有，价格由供求关系决定。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w106",
+  "word": "citizen engagement",
+  "ipa": "/ˈsɪtɪzən ɪnˈɡeɪdʒmənt/",
+  "chinese": "公民参与",
+  "definition_en": "Public participation in community, political or social activities",
+  "example_en": "Voting in local elections is one of the most common forms of citizen engagement.",
+  "example_zh": "参加地方选举投票是最常见的公民参与形式之一。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w107",
+  "word": "civil society",
+  "ipa": "/ˌsɪvəl səˈsaɪəti/",
+  "chinese": "公民社会",
+  "definition_en": "Groups and organisations operating independently of government",
+  "example_en": "Charities and volunteer groups are part of civil society because they operate independently of the government.",
+  "example_zh": "慈善机构和志愿团体属于公民社会，因为它们独立于政府运作。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w108",
+  "word": "class",
+  "ipa": "/klɑːs/",
+  "chinese": "社会阶层；阶级",
+  "definition_en": "Social grouping based on economic status, wealth or social position",
+  "example_en": "Sociologists study how a person's class can affect their access to education and jobs.",
+  "example_zh": "社会学家研究一个人的社会阶层如何影响其获得教育和工作的机会。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w109",
+  "word": "coalition",
+  "ipa": "/ˌkəʊəˈlɪʃən/",
+  "chinese": "联盟；联合阵营",
+  "definition_en": "Temporary alliance of nations, groups or parties for a shared goal",
+  "example_en": "Several small parties formed a coalition to win enough seats to govern the country.",
+  "example_zh": "几个小党派组成联盟，以赢得足够的席位来执政。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w110",
+  "word": "coercion",
+  "ipa": "/kəʊˈɜːʃən/",
+  "chinese": "强制；胁迫",
+  "definition_en": "Using force, pressure or threats to compel others to act",
+  "example_en": "The treaty was signed under coercion, so many legal experts questioned whether it was truly valid.",
+  "example_zh": "该条约是在胁迫下签署的，因此许多法律专家质疑其是否真正有效。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w111",
+  "word": "collective action",
+  "ipa": "/kəˈlektɪv ˈækʃən/",
+  "chinese": "集体行动",
+  "definition_en": "Joint efforts by a group to achieve a common objective",
+  "example_en": "Cleaning up the local river required collective action from the whole community.",
+  "example_zh": "清理当地的河流需要整个社区的集体行动。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w112",
+  "word": "communism",
+  "ipa": "/ˈkɒmjunɪzəm/",
+  "chinese": "共产主义",
+  "definition_en": "Ideology and system advocating collective ownership of resources",
+  "example_en": "Communism advocates the collective ownership of resources and the means of production.",
+  "example_zh": "共产主义主张资源和生产资料的集体所有制。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w113",
+  "word": "cultural identity",
+  "ipa": "/ˈkʌltʃərəl aɪˈdentəti/",
+  "chinese": "文化认同；文化身份",
+  "definition_en": "A person or group’s sense of belonging to a distinct culture",
+  "example_en": "Language and traditional festivals are important parts of a community's cultural identity.",
+  "example_zh": "语言和传统节日是一个社区文化认同的重要组成部分。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w114",
+  "word": "cultural relativism",
+  "ipa": "/ˈkʌltʃərəl ˈrelətɪvɪzəm/",
+  "chinese": "文化相对主义",
+  "definition_en": "View that beliefs and practices should be judged within their own cultural context",
+  "example_en": "Cultural relativism suggests we should understand a tradition within its own cultural context before judging it.",
+  "example_zh": "文化相对主义认为，在评判一种传统之前，应先在其自身的文化语境中加以理解。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w115",
+  "word": "cultural uniqueness",
+  "ipa": "/ˈkʌltʃərəl juːˈniːknəs/",
+  "chinese": "文化独特性",
+  "definition_en": "Distinctive traits that set one culture apart from others",
+  "example_en": "The region's traditional dances and food reflect its cultural uniqueness.",
+  "example_zh": "该地区的传统舞蹈和饮食体现了它的文化独特性。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w116",
+  "word": "culture",
+  "ipa": "/ˈkʌltʃə/",
+  "chinese": "文化",
+  "definition_en": "Shared customs, beliefs, arts and way of life of a group",
+  "example_en": "Food, music and language are all expressions of a group's culture.",
+  "example_zh": "饮食、音乐和语言都是一个群体文化的表现。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w117",
+  "word": "CSOs (Civil Society Organisations)",
+  "ipa": "/ˌsiː es ˈəʊz/",
+  "chinese": "公民社会组织（CSOs）",
+  "definition_en": "Non-government groups working for public or community interests",
+  "example_en": "CSOs often monitor elections and defend human rights in their communities.",
+  "example_zh": "公民社会组织常常监督选举并在社区中维护人权。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w118",
+  "word": "covenant",
+  "ipa": "/ˈkʌvənənt/",
+  "chinese": "公约；盟约",
+  "definition_en": "Formal written agreement or legal pledge between parties",
+  "example_en": "The International Covenant on Civil and Political Rights sets out the rights that governments must protect.",
+  "example_zh": "《公民权利和政治权利国际公约》规定了各国政府必须保障的权利。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w119",
+  "word": "declaration",
+  "ipa": "/ˌdekləˈreɪʃən/",
+  "chinese": "宣言",
+  "definition_en": "Formal public statement of principles, intentions or rights",
+  "example_en": "The Universal Declaration of Human Rights was adopted by the United Nations in 1948.",
+  "example_zh": "《世界人权宣言》于1948年由联合国通过。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w120",
+  "word": "deterrence",
+  "ipa": "/dɪˈterəns/",
+  "chinese": "威慑",
+  "definition_en": "Strategy of discouraging conflict through threat of consequences",
+  "example_en": "Nuclear deterrence aims to prevent war by threatening severe consequences for any attack.",
+  "example_zh": "核威慑旨在通过威胁让任何攻击都付出严重后果来阻止战争。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w121",
+  "word": "dignity",
+  "ipa": "/ˈdɪɡnəti/",
+  "chinese": "尊严",
+  "definition_en": "Inherent worth and respect owed to all human beings",
+  "example_en": "Human rights laws are based on the idea that every person deserves dignity and respect.",
+  "example_zh": "人权法律建立在每个人都应享有尊严和尊重这一理念之上。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w122",
+  "word": "diplomatic",
+  "ipa": "/ˌdɪpləˈmætɪk/",
+  "chinese": "外交的（见 diplomacy）",
+  "definition_en": "See diplomacy",
+  "example_en": "The two countries used diplomatic channels to resolve the border dispute peacefully.",
+  "example_zh": "两国通过外交渠道和平解决了边界争端。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w123",
+  "word": "diplomacy",
+  "ipa": "/dɪˈpləʊməsi/",
+  "chinese": "外交",
+  "definition_en": "Formal communication and negotiation between nations",
+  "example_en": "Diplomacy helped the two nations reach a peaceful agreement without going to war.",
+  "example_zh": "外交帮助两国在不诉诸战争的情况下达成了和平协议。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w124",
+  "word": "dominant group",
+  "ipa": "/ˈdɒmɪnənt ɡruːp/",
+  "chinese": "主导群体；优势群体",
+  "definition_en": "Powerful social group that holds majority influence and control",
+  "example_en": "The dominant group in a society often shapes its laws, media and education system.",
+  "example_zh": "社会中的主导群体往往影响着法律、媒体和教育体系。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w125",
+  "word": "economic statecraft",
+  "ipa": "/ˌiːkəˈnɒmɪk ˈsteɪtkrɑːft/",
+  "chinese": "经济治国术；经济方略",
+  "definition_en": "Using economic tools to achieve political or national goals",
+  "example_en": "Trade sanctions are a common tool of economic statecraft used to pressure other governments.",
+  "example_zh": "贸易制裁是经济治国术中常用的工具，用来向其他政府施压。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w126",
+  "word": "economic system",
+  "ipa": "/ˌiːkəˈnɒmɪk ˈsɪstəm/",
+  "chinese": "经济体制；经济制度",
+  "definition_en": "Organised structure for producing, distributing and consuming resources",
+  "example_en": "Every country has an economic system that decides how goods are produced and distributed.",
+  "example_zh": "每个国家都有决定商品如何生产和分配的经济体制。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w127",
+  "word": "enforcement",
+  "ipa": "/ɪnˈfɔːsmənt/",
+  "chinese": "执行；执法",
+  "definition_en": "Taking action to ensure laws, treaties or rules are followed",
+  "example_en": "The enforcement of international treaties often depends on cooperation between countries.",
+  "example_zh": "国际条约的执行往往依赖于各国之间的合作。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w128",
+  "word": "equality",
+  "ipa": "/iˈkwɒləti/",
+  "chinese": "平等",
+  "definition_en": "Equal rights, opportunities and treatment for all people",
+  "example_en": "The organization campaigns for equality between men and women in the workplace.",
+  "example_zh": "该组织致力于推动职场中的男女平等。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w129",
+  "word": "exclusion",
+  "ipa": "/ɪkˈskluːʒən/",
+  "chinese": "排斥",
+  "definition_en": "Act of barring individuals or groups from participation or belonging",
+  "example_en": "Social exclusion can make minority groups feel isolated from the community.",
+  "example_zh": "社会排斥会使少数群体感到与社群隔绝。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w130",
+  "word": "faith-based organizations",
+  "ipa": "/ˈfeɪθ beɪst ˌɔːɡənaɪˈzeɪʃənz/",
+  "chinese": "信仰组织（宗教慈善组织）",
+  "definition_en": "Groups rooted in religious belief that carry out social or community work",
+  "example_en": "Faith-based organizations often run food banks and shelters for people in need.",
+  "example_zh": "信仰组织经常为有需要的人经营食品救济站和收容所。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w131",
+  "word": "foreign policy",
+  "ipa": "/ˈfɒrən ˈpɒləsi/",
+  "chinese": "外交政策",
+  "definition_en": "A nation's official plans and actions toward other countries",
+  "example_en": "The government changed its foreign policy to build stronger ties with its neighbours.",
+  "example_zh": "政府调整了外交政策，以与邻国建立更紧密的关系。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w132",
+  "word": "freedom",
+  "ipa": "/ˈfriːdəm/",
+  "chinese": "自由",
+  "definition_en": "State of being free from unfair control, restriction or oppression",
+  "example_en": "Freedom of speech allows citizens to express their opinions openly.",
+  "example_zh": "言论自由使公民能够公开表达自己的观点。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w133",
+  "word": "Global South",
+  "ipa": "/ˌɡləʊbəl ˈsaʊθ/",
+  "chinese": "全球南方",
+  "definition_en": "Term for less economically developed nations, mostly in southern regions",
+  "example_en": "Many countries in the Global South are calling for fairer international trade rules.",
+  "example_zh": "许多全球南方国家呼吁建立更公平的国际贸易规则。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w134",
+  "word": "global actors",
+  "ipa": "/ˈɡləʊbəl ˈæktəz/",
+  "chinese": "全球行为体",
+  "definition_en": "Individuals, groups or nations that act on the international stage",
+  "example_en": "The United Nations is one of the most influential global actors in peacekeeping.",
+  "example_zh": "联合国是维和领域最具影响力的全球行为体之一。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w135",
+  "word": "global governance",
+  "ipa": "/ˈɡləʊbəl ˈɡʌvənəns/",
+  "chinese": "全球治理",
+  "definition_en": "Systems, rules and bodies managing international relations and issues",
+  "example_en": "Global governance is needed to deal with climate change because no country can solve it alone.",
+  "example_zh": "应对气候变化需要全球治理，因为没有任何国家能独自解决这一问题。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w136",
+  "word": "globalization",
+  "ipa": "/ˌɡləʊbəlaɪˈzeɪʃən/",
+  "chinese": "全球化",
+  "definition_en": "Worldwide integration of economies, cultures and societies",
+  "example_en": "Globalization has made it easier for products and ideas to spread across borders.",
+  "example_zh": "全球化使产品和思想更容易跨越国界传播。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w137",
+  "word": "government",
+  "ipa": "/ˈɡʌvənmənt/",
+  "chinese": "政府",
+  "definition_en": "Formal body that governs, makes laws and administers a nation",
+  "example_en": "The government announced new laws to protect the environment.",
+  "example_zh": "政府颁布了保护环境的新法律。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w138",
+  "word": "government responsibility",
+  "ipa": "/ˈɡʌvənmənt rɪˌspɒnsəˈbɪləti/",
+  "chinese": "政府责任",
+  "definition_en": "Duties of a state to protect citizens and uphold rights",
+  "example_en": "Providing public education is a key government responsibility.",
+  "example_zh": "提供公共教育是政府的一项重要责任。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w139",
+  "word": "hard power",
+  "ipa": "/ˌhɑːd ˈpaʊə/",
+  "chinese": "硬实力",
+  "definition_en": "Use of military, economic or physical force to influence others",
+  "example_en": "The country used hard power, including economic sanctions, to pressure its rival.",
+  "example_zh": "该国动用包括经济制裁在内的硬实力向对手施压。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w140",
+  "word": "homogeneity",
+  "ipa": "/ˌhɒməʊdʒəˈniːəti/",
+  "chinese": "同质性",
+  "definition_en": "State of being uniform or similar across a group or society",
+  "example_en": "The homogeneity of the small town means most residents share similar traditions.",
+  "example_zh": "这座小镇的同质性意味着大多数居民拥有相似的传统。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w141",
+  "word": "homelessness",
+  "ipa": "/ˈhəʊmləsnəs/",
+  "chinese": "无家可归（现象）",
+  "definition_en": "Social condition of people lacking permanent housing",
+  "example_en": "The city opened new shelters to reduce homelessness during the winter.",
+  "example_zh": "市政府开设了新的收容所，以减少冬季无家可归的现象。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w142",
+  "word": "human rights",
+  "ipa": "/ˌhjuːmən ˈraɪts/",
+  "chinese": "人权",
+  "definition_en": "Basic rights and freedoms entitled to all human beings",
+  "example_en": "Access to clean water is considered a basic human right.",
+  "example_zh": "获得清洁饮用水被视为一项基本人权。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w143",
+  "word": "humiliation",
+  "ipa": "/hjuːˌmɪliˈeɪʃən/",
+  "chinese": "屈辱；羞辱",
+  "definition_en": "State of shame or degradation experienced by individuals or nations",
+  "example_en": "The humiliation of defeat led the nation to demand political change.",
+  "example_zh": "战败的屈辱促使这个国家要求政治变革。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w144",
+  "word": "idealism",
+  "ipa": "/aɪˈdiːəlɪzəm/",
+  "chinese": "理想主义",
+  "definition_en": "Foreign policy approach focused on moral values and global cooperation",
+  "example_en": "Idealism in foreign policy emphasizes human rights over national interest.",
+  "example_zh": "外交政策中的理想主义强调人权高于国家利益。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w145",
+  "word": "identity",
+  "ipa": "/aɪˈdentəti/",
+  "chinese": "身份认同",
+  "definition_en": "Overall sense of self and group belonging",
+  "example_en": "Language is an important part of a person's cultural identity.",
+  "example_zh": "语言是一个人文化身份认同的重要组成部分。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w146",
+  "word": "ideology",
+  "ipa": "/ˌaɪdiˈɒlədʒi/",
+  "chinese": "意识形态",
+  "definition_en": "System of beliefs, values and ideas shaping political or social views",
+  "example_en": "The two parties are divided by ideology on economic issues.",
+  "example_zh": "两党在经济问题上因意识形态分歧而对立。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w147",
+  "word": "independent media",
+  "ipa": "/ˌɪndɪˈpendənt ˈmiːdiə/",
+  "chinese": "独立媒体",
+  "definition_en": "News outlets free from direct government control or censorship",
+  "example_en": "Independent media play a vital role in holding powerful people to account.",
+  "example_zh": "独立媒体在追究掌权者责任方面发挥着关键作用。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w148",
+  "word": "inequality",
+  "ipa": "/ˌɪnɪˈkwɒləti/",
+  "chinese": "不平等",
+  "definition_en": "Uneven distribution of wealth, rights, opportunities or status",
+  "example_en": "Income inequality has grown in many countries over the past decades.",
+  "example_zh": "过去几十年间，许多国家的收入不平等现象加剧了。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w149",
+  "word": "injustice",
+  "ipa": "/ɪnˈdʒʌstɪs/",
+  "chinese": "不公正",
+  "definition_en": "Unfair treatment, violation of rights or unequal social conditions",
+  "example_en": "Protesters gathered to speak out against racial injustice.",
+  "example_zh": "抗议者集会发声，反对种族不公正。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w150",
+  "word": "institutional discrimination",
+  "ipa": "/ˌɪnstɪˈtjuːʃənəl dɪˌskrɪmɪˈneɪʃən/",
+  "chinese": "制度性歧视",
+  "definition_en": "Unfair practices embedded within official organisations or systems",
+  "example_en": "Institutional discrimination can appear in hiring, housing, and education systems.",
+  "example_zh": "制度性歧视可能存在于招聘、住房和教育体系之中。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w151",
+  "word": "institutions",
+  "ipa": "/ˌɪnstɪˈtjuːʃənz/",
+  "chinese": "制度；机构",
+  "definition_en": "Established formal organisations, rules and social structures",
+  "example_en": "Strong institutions, such as courts and parliaments, support a stable democracy.",
+  "example_zh": "法院和议会等健全的制度支撑着稳定的民主政体。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w152",
+  "word": "internalization",
+  "ipa": "/ɪnˌtɜːnəlaɪˈzeɪʃən/",
+  "chinese": "内化",
+  "definition_en": "Process of adopting external norms, beliefs or values as one's own",
+  "example_en": "Through socialization, children experience the internalization of cultural values.",
+  "example_zh": "通过社会化过程，儿童会将文化价值观内化。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w153",
+  "word": "intersectionality",
+  "ipa": "/ˌɪntəsekʃəˈnæləti/",
+  "chinese": "交叉性",
+  "definition_en": "Overlapping social identities that shape experiences of privilege or oppression",
+  "example_en": "Intersectionality helps explain why a woman's experiences may differ by race and class.",
+  "example_zh": "交叉性有助于解释为何女性的经历会因种族和阶级的不同而存在差异。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w154",
+  "word": "international courts",
+  "ipa": "/ˌɪntəˈnæʃənəl kɔːts/",
+  "chinese": "国际法庭（国际法院）",
+  "definition_en": "Legal bodies that judge cross-border disputes and rights violations",
+  "example_en": "The case was brought before international courts after years of conflict.",
+  "example_zh": "经过多年冲突，此案被提交至国际法庭审理。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w155",
+  "word": "international law / treaty bodies",
+  "ipa": "/ˌɪntəˈnæʃənəl lɔː ˈtriːti ˈbɒdiz/",
+  "chinese": "国际法 / 条约机构",
+  "definition_en": "Official bodies that monitor and enforce international agreements",
+  "example_en": "Treaty bodies review whether states follow international law on human rights.",
+  "example_zh": "条约机构审查各国是否遵守人权领域的国际法。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w156",
+  "word": "isolationism",
+  "ipa": "/ˌaɪsəˈleɪʃənɪzəm/",
+  "chinese": "孤立主义",
+  "definition_en": "Policy of remaining separate and avoiding international involvement",
+  "example_en": "After the war, the country adopted isolationism and refused to join foreign alliances.",
+  "example_zh": "战后，该国采取孤立主义政策，拒绝加入任何外国联盟。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w157",
+  "word": "liberalism",
+  "ipa": "/ˈlɪbərəlɪzəm/",
+  "chinese": "自由主义",
+  "definition_en": "Political and social ideology emphasising individual rights and freedom",
+  "example_en": "Liberalism supports free elections and the protection of civil liberties.",
+  "example_zh": "自由主义支持自由选举和公民自由权利的保护。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w158",
+  "word": "liberal world order",
+  "ipa": "/ˈlɪbərəl wɜːld ˈɔːdə/",
+  "chinese": "自由主义世界秩序",
+  "definition_en": "International system built on liberal values, trade and cooperation",
+  "example_en": "The liberal world order after 1945 encouraged open trade between nations.",
+  "example_zh": "1945年后的自由主义世界秩序鼓励各国之间开展开放贸易。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w159",
+  "word": "legally binding",
+  "ipa": "/ˈliːɡəli ˈbaɪndɪŋ/",
+  "chinese": "具有法律约束力的",
+  "definition_en": "Agreements or rules enforceable by law",
+  "example_en": "The treaty is legally binding, so all member states must follow its rules.",
+  "example_zh": "该条约具有法律约束力，因此所有成员国都必须遵守其规定。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w160",
+  "word": "liberalism",
+  "ipa": "/ˈlɪbərəlɪzəm/",
+  "chinese": "自由主义（见上文）",
+  "definition_en": "See above",
+  "example_en": "As noted above, liberalism places individual freedom at the centre of political life.",
+  "example_zh": "如上文所述，自由主义将个人自由置于政治生活的核心位置。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w161",
+  "word": "legitimacy / relevance",
+  "ipa": "/lɪˈdʒɪtɪməsi ˈreləvəns/",
+  "chinese": "合法性 / 相关性",
+  "definition_en": "State of being accepted as valid, appropriate or meaningful",
+  "example_en": "The election gave the new government legitimacy in the eyes of its citizens.",
+  "example_zh": "这次选举使新政府在公民眼中获得了合法性。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w162",
+  "word": "lobbying / organizing",
+  "ipa": "/ˈlɒbiɪŋ ˈɔːɡənaɪzɪŋ/",
+  "chinese": "游说 / 组织动员",
+  "definition_en": "Coordinating people and groups to campaign for change",
+  "example_en": "Environmental groups use lobbying to persuade politicians to pass green laws.",
+  "example_zh": "环保团体通过游说促使政客通过环保法律。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w163",
+  "word": "marginalized group",
+  "ipa": "/ˈmɑːdʒɪnəlaɪzd ɡruːp/",
+  "chinese": "边缘化群体",
+  "definition_en": "See subordinate group",
+  "example_en": "The government introduced new policies to protect the rights of marginalized groups in society.",
+  "example_zh": "政府出台了新政策来保护社会中边缘化群体的权利。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w164",
+  "word": "military force",
+  "ipa": "/ˈmɪlɪtəri fɔːs/",
+  "chinese": "军事力量",
+  "definition_en": "Armed strength used for defence, conflict or influence",
+  "example_en": "The country relies on its military force mainly for national defence rather than expansion.",
+  "example_zh": "该国主要依靠其军事力量进行国防，而非对外扩张。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w165",
+  "word": "monitoring",
+  "ipa": "/ˈmɒnɪtərɪŋ/",
+  "chinese": "监督；监测",
+  "definition_en": "Regular checking and oversight to ensure compliance or progress",
+  "example_en": "International observers are responsible for monitoring whether the ceasefire agreement is being followed.",
+  "example_zh": "国际观察员负责监督停火协议是否得到遵守。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w166",
+  "word": "multilateralism",
+  "ipa": "/ˌmʌltiˈlætərəlɪzəm/",
+  "chinese": "多边主义",
+  "definition_en": "Cooperation or agreements involving three or more nations",
+  "example_en": "The United Nations is often seen as a symbol of multilateralism in global politics.",
+  "example_zh": "联合国常被视为全球政治中多边主义的象征。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w167",
+  "word": "multipolarity",
+  "ipa": "/ˌmʌltipəˈlærəti/",
+  "chinese": "多极化",
+  "definition_en": "Global system with multiple powerful nations or power centres",
+  "example_en": "Many historians argue that the world before World War I was characterized by multipolarity.",
+  "example_zh": "许多历史学家认为，第一次世界大战前的世界具有多极化的特征。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w168",
+  "word": "national identity",
+  "ipa": "/ˈnæʃənəl aɪˈdentəti/",
+  "chinese": "国家认同；民族认同",
+  "definition_en": "Collective sense of belonging to a nation",
+  "example_en": "Language, traditions and shared history all contribute to a strong national identity.",
+  "example_zh": "语言、传统和共同的历史都有助于形成强烈的国家认同。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w169",
+  "word": "national interest",
+  "ipa": "/ˈnæʃənəl ˈɪntrəst/",
+  "chinese": "国家利益",
+  "definition_en": "Goals, needs and priorities that benefit a nation and its people",
+  "example_en": "Governments often justify their foreign policy decisions by referring to the national interest.",
+  "example_zh": "各国政府常以国家利益为由来解释其外交政策决定。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w170",
+  "word": "national narrative",
+  "ipa": "/ˈnæʃənəl ˈnærətɪv/",
+  "chinese": "国家叙事",
+  "definition_en": "Shared story, history or narrative that defines a nation",
+  "example_en": "Textbooks and museums play an important role in shaping a country's national narrative.",
+  "example_zh": "教科书和博物馆在塑造一个国家的国家叙事方面发挥着重要作用。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w171",
+  "word": "nationality",
+  "ipa": "/ˌnæʃəˈnæləti/",
+  "chinese": "国籍；民族身份",
+  "definition_en": "Legal or cultural status of belonging to a specific nation",
+  "example_en": "Her nationality is shown on the first page of her passport.",
+  "example_zh": "她的国籍标注在护照的第一页上。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w172",
+  "word": "nation",
+  "ipa": "/ˈneɪʃən/",
+  "chinese": "民族；国家",
+  "definition_en": "Large group united by shared culture, history or territory",
+  "example_en": "A nation is often held together by a shared language, culture and history.",
+  "example_zh": "一个民族往往由共同的语言、文化和历史凝聚在一起。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w173",
+  "word": "nation-state",
+  "ipa": "/ˌneɪʃən ˈsteɪt/",
+  "chinese": "民族国家",
+  "definition_en": "Sovereign state whose territory and population align with a single nation",
+  "example_en": "Japan is often given as an example of a nation-state with a largely homogeneous population.",
+  "example_zh": "日本常被作为人口高度同质化的民族国家的例子。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w174",
+  "word": "natural law",
+  "ipa": "/ˈnætʃərəl lɔː/",
+  "chinese": "自然法",
+  "definition_en": "Universal moral principles believed to exist independently of human laws",
+  "example_en": "Philosophers like John Locke argued that natural law exists above any law made by governments.",
+  "example_zh": "约翰·洛克等哲学家认为，自然法高于政府制定的任何法律。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w175",
+  "word": "natural rights",
+  "ipa": "/ˈnætʃərəl raɪts/",
+  "chinese": "自然权利",
+  "definition_en": "Inherent rights all people possess by nature",
+  "example_en": "Life, liberty and property were described by Locke as natural rights that no government should take away.",
+  "example_zh": "洛克将生命、自由和财产描述为任何政府都不应剥夺的自然权利。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w176",
+  "word": "negotiation",
+  "ipa": "/nɪˌɡəʊʃiˈeɪʃən/",
+  "chinese": "谈判；协商",
+  "definition_en": "Discussion between parties to reach agreement or resolve conflict",
+  "example_en": "After months of negotiation, the two countries finally signed a trade agreement.",
+  "example_zh": "经过数月的谈判，两国终于签署了贸易协定。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w177",
+  "word": "NGOs (Non-Governmental Organisations)",
+  "ipa": "/ˌen dʒiː ˈəʊz/",
+  "chinese": "非政府组织",
+  "definition_en": "Independent non-profit groups working for social causes",
+  "example_en": "Many NGOs provide food and medical aid to refugees during humanitarian crises.",
+  "example_zh": "许多非政府组织在人道主义危机期间为难民提供食品和医疗援助。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w178",
+  "word": "norms",
+  "ipa": "/nɔːmz/",
+  "chinese": "社会规范",
+  "definition_en": "Unwritten social rules, expectations and standards of behaviour",
+  "example_en": "Social norms about queuing and personal space differ from culture to culture.",
+  "example_zh": "关于排队和个人空间的社会规范因文化而异。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w179",
+  "word": "non-state actors",
+  "ipa": "/ˌnɒn ˈsteɪt ˈæktəz/",
+  "chinese": "非国家行为体",
+  "definition_en": "Groups or individuals acting internationally outside formal governments",
+  "example_en": "Terrorist networks and multinational companies are both examples of non-state actors in global politics.",
+  "example_zh": "恐怖网络和跨国公司都是全球政治中非国家行为体的例子。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w180",
+  "word": "oppression",
+  "ipa": "/əˈpreʃən/",
+  "chinese": "压迫",
+  "definition_en": "Unjust exercise of power to control or harm a group",
+  "example_en": "The novel describes the oppression of ordinary people under a harsh dictatorship.",
+  "example_zh": "这部小说描绘了专制统治下普通百姓所遭受的压迫。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w181",
+  "word": "participation",
+  "ipa": "/pɑːˌtɪsɪˈpeɪʃən/",
+  "chinese": "参与",
+  "definition_en": "Taking part in social, political or community activities",
+  "example_en": "Voting in elections is one of the most common forms of political participation.",
+  "example_zh": "参加选举投票是最常见的政治参与形式之一。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w182",
+  "word": "portrayal",
+  "ipa": "/pɔːˈtreɪəl/",
+  "chinese": "描绘；呈现方式",
+  "definition_en": "How a person, group or idea is represented in media or society",
+  "example_en": "The media's portrayal of teenagers can shape how society views young people.",
+  "example_zh": "媒体对青少年的呈现方式会影响社会对年轻人的看法。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w183",
+  "word": "poverty",
+  "ipa": "/ˈpɒvəti/",
+  "chinese": "贫困",
+  "definition_en": "State of lacking sufficient income and resources for basic needs",
+  "example_en": "Reducing poverty is one of the main goals of the United Nations Sustainable Development Goals.",
+  "example_zh": "减少贫困是联合国可持续发展目标的主要目标之一。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w184",
+  "word": "power",
+  "ipa": "/ˈpaʊə/",
+  "chinese": "权力；力量",
+  "definition_en": "Ability to influence, control or affect others and outcomes",
+  "example_en": "In global politics, economic strength is an important source of a country's power.",
+  "example_zh": "在全球政治中，经济实力是一个国家权力的重要来源。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w185",
+  "word": "power diffusion",
+  "ipa": "/ˈpaʊə dɪˈfjuːʒən/",
+  "chinese": "权力分散；权力扩散",
+  "definition_en": "Spread of influence and authority away from central powers",
+  "example_en": "The rise of regional organisations has led to greater power diffusion in international relations.",
+  "example_zh": "区域性组织的兴起导致国际关系中更大程度的权力分散。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w186",
+  "word": "power over",
+  "ipa": "/ˈpaʊər ˈəʊvə/",
+  "chinese": "对他人的支配权（压制性权力）",
+  "definition_en": "Dominant power used to control others",
+  "example_en": "A dictatorship is based on power over citizens rather than cooperation with them.",
+  "example_zh": "独裁统治建立在对公民的支配权之上，而非与公民的合作。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w187",
+  "word": "power to",
+  "ipa": "/ˈpaʊə tə/",
+  "chinese": "实现目标的能力（赋能性权力）",
+  "definition_en": "Power enabling individuals or groups to act and achieve goals",
+  "example_en": "Education gives people the power to improve their own lives and communities.",
+  "example_zh": "教育赋予人们改善自身生活和社区的能力。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w188",
+  "word": "power transition",
+  "ipa": "/ˈpaʊə trænˈzɪʃən/",
+  "chinese": "权力转移",
+  "definition_en": "Shift of influence and authority from one state or group to another",
+  "example_en": "Power transition theory suggests that wars are more likely when a rising power challenges a dominant one.",
+  "example_zh": "权力转移理论认为，当崛起的大国挑战主导大国时，战争更有可能爆发。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w189",
+  "word": "power with",
+  "ipa": "/ˈpaʊə wɪð/",
+  "chinese": "协作性权力（通过合作形成的力量）",
+  "definition_en": "Collective power built through cooperation and partnership",
+  "example_en": "Community organisations often rely on power with their members to achieve social change.",
+  "example_zh": "社区组织往往依靠与成员协作形成的力量来实现社会变革。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w190",
+  "word": "privilege",
+  "ipa": "/ˈprɪvəlɪdʒ/",
+  "chinese": "特权",
+  "definition_en": "Special advantages enjoyed by a dominant social group",
+  "example_en": "The discussion in class focused on how privilege can affect a person's opportunities in life.",
+  "example_zh": "课堂讨论聚焦于特权如何影响一个人的人生机遇。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w191",
+  "word": "prosecution",
+  "ipa": "/ˌprɒsɪˈkjuːʃən/",
+  "chinese": "起诉；检控",
+  "definition_en": "Legal action taken against someone for breaking laws or agreements",
+  "example_en": "War criminals may face prosecution in international courts.",
+  "example_zh": "战犯可能会在国际法庭上面临起诉。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w192",
+  "word": "protection",
+  "ipa": "/prəˈtekʃən/",
+  "chinese": "保护",
+  "definition_en": "Actions taken to defend people, rights or territories from harm",
+  "example_en": "Human rights laws aim to guarantee the protection of every individual's basic freedoms.",
+  "example_zh": "人权法旨在保障每个人基本自由的保护。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w193",
+  "word": "promotion",
+  "ipa": "/prəˈməʊʃən/",
+  "chinese": "促进；推广",
+  "definition_en": "Active effort to advance, support or spread ideas, rights or policies",
+  "example_en": "The organisation works on the promotion of gender equality in education.",
+  "example_zh": "该组织致力于促进教育领域的性别平等。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w194",
+  "word": "regional human rights bodies",
+  "ipa": "/ˈriːdʒənəl ˈhjuːmən raɪts ˈbɒdiz/",
+  "chinese": "区域性人权机构",
+  "definition_en": "Organisations monitoring rights within a specific geographic region",
+  "example_en": "The European Court of Human Rights is one of the best-known regional human rights bodies.",
+  "example_zh": "欧洲人权法院是最著名的区域性人权机构之一。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w195",
+  "word": "realism",
+  "ipa": "/ˈrɪəlɪzəm/",
+  "chinese": "现实主义（国际关系理论）",
+  "definition_en": "Foreign policy theory focused on national interest and power",
+  "example_en": "According to realism, states act mainly to protect their own security and national interest.",
+  "example_zh": "现实主义认为，国家的行为主要是为了维护自身安全和国家利益。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w196",
+  "word": "remedy",
+  "ipa": "/ˈremədi/",
+  "chinese": "救济；补救措施",
+  "definition_en": "Action taken to correct harm, injustice or rights violations",
+  "example_en": "Victims of discrimination can seek a legal remedy through the courts.",
+  "example_zh": "歧视的受害者可以通过法院寻求法律救济。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w197",
+  "word": "representation",
+  "ipa": "/ˌreprɪzenˈteɪʃən/",
+  "chinese": "代表；呈现",
+  "definition_en": "How groups, views or identities are shown or voiced publicly",
+  "example_en": "Fair representation of women in parliament is an important measure of democracy.",
+  "example_zh": "议会中女性的公平代表权是衡量民主程度的重要指标。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w198",
+  "word": "resistance",
+  "ipa": "/rɪˈzɪstəns/",
+  "chinese": "抵抗；反抗",
+  "definition_en": "Opposition to control, unfair rules or dominant systems",
+  "example_en": "The peaceful resistance movement eventually led to major political reforms.",
+  "example_zh": "这场和平抵抗运动最终促成了重大的政治改革。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w199",
+  "word": "resource allocation",
+  "ipa": "/rɪˈzɔːs ˌæləˈkeɪʃən/",
+  "chinese": "资源分配",
+  "definition_en": "Distribution of limited resources across individuals, groups or regions",
+  "example_en": "The government debated how to improve resource allocation between urban and rural schools.",
+  "example_zh": "政府讨论了如何改善城乡学校之间的资源分配。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w200",
+  "word": "respect",
+  "ipa": "/rɪˈspekt/",
+  "chinese": "尊重",
+  "definition_en": "Regard for the worth, rights and dignity of others",
+  "example_en": "A peaceful society depends on mutual respect between people of different cultures.",
+  "example_zh": "和平社会依赖于不同文化背景的人们之间的相互尊重。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w201",
+  "word": "sanctions",
+  "ipa": "/ˈsæŋkʃənz/",
+  "chinese": "制裁",
+  "definition_en": "Penalties imposed on a nation to enforce rules or change behaviour",
+  "example_en": "The UN imposed economic sanctions on the country after it violated the treaty.",
+  "example_zh": "该国违反条约后，联合国对其实施了经济制裁。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w202",
+  "word": "self-identification",
+  "ipa": "/ˌself aɪˌdentɪfɪˈkeɪʃən/",
+  "chinese": "自我身份认同",
+  "definition_en": "How an individual personally defines their own identity",
+  "example_en": "Self-identification allows people to describe their own cultural identity rather than having it assigned by others.",
+  "example_zh": "自我身份认同让人们能够自己描述自己的文化身份，而不是由他人来定义。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w203",
+  "word": "setback",
+  "ipa": "/ˈsetbæk/",
+  "chinese": "挫折",
+  "definition_en": "Difficulty, failure or delay affecting progress or goals",
+  "example_en": "The protest movement suffered a setback when the new law was passed.",
+  "example_zh": "新法律通过后，这场抗议运动遭遇了挫折。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w204",
+  "word": "smart power",
+  "ipa": "/ˌsmɑːt ˈpaʊə/",
+  "chinese": "巧实力",
+  "definition_en": "Combined use of hard power and soft power for influence",
+  "example_en": "By combining military strength with cultural diplomacy, the nation exercised smart power.",
+  "example_zh": "通过将军事力量与文化外交相结合，这个国家运用了巧实力。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w205",
+  "word": "social change",
+  "ipa": "/ˈsəʊʃəl tʃeɪndʒ/",
+  "chinese": "社会变迁",
+  "definition_en": "Transformation of social structures, norms or attitudes over time",
+  "example_en": "The invention of the internet caused rapid social change around the world.",
+  "example_zh": "互联网的发明在世界各地引发了快速的社会变迁。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w206",
+  "word": "social construction",
+  "ipa": "/ˈsəʊʃəl kənˈstrʌkʃən/",
+  "chinese": "社会建构",
+  "definition_en": "Idea that identities and categories are created by society",
+  "example_en": "Many sociologists argue that gender roles are a social construction rather than a biological fact.",
+  "example_zh": "许多社会学家认为性别角色是一种社会建构，而非生物事实。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w207",
+  "word": "social inequality",
+  "ipa": "/ˈsəʊʃəl ˌɪnɪˈkwɒləti/",
+  "chinese": "社会不平等",
+  "definition_en": "Unequal access to resources, status and opportunities in society",
+  "example_en": "Social inequality can be seen in the gap between rich and poor neighbourhoods.",
+  "example_zh": "从贫富社区之间的差距可以看出社会不平等。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w208",
+  "word": "social movements",
+  "ipa": "/ˈsəʊʃəl ˈmuːvmənts/",
+  "chinese": "社会运动",
+  "definition_en": "Organised groups campaigning for social or political change",
+  "example_en": "Social movements such as the civil rights movement have reshaped national laws.",
+  "example_zh": "民权运动等社会运动重塑了国家法律。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w209",
+  "word": "socialization",
+  "ipa": "/ˌsəʊʃəlaɪˈzeɪʃən/",
+  "chinese": "社会化",
+  "definition_en": "Process of learning social norms, roles and behaviours",
+  "example_en": "Family and school are the main agents of socialization for children.",
+  "example_zh": "家庭和学校是儿童社会化的主要场所。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w210",
+  "word": "social status",
+  "ipa": "/ˈsəʊʃəl ˈsteɪtəs/",
+  "chinese": "社会地位",
+  "definition_en": "A person’s standing or rank within a social hierarchy",
+  "example_en": "In many societies, a person's occupation strongly affects their social status.",
+  "example_zh": "在许多社会中，一个人的职业对其社会地位有很大影响。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w211",
+  "word": "social stratification",
+  "ipa": "/ˈsəʊʃəl ˌstrætɪfɪˈkeɪʃən/",
+  "chinese": "社会分层",
+  "definition_en": "Hierarchical ranking of groups by class, wealth or status",
+  "example_en": "The caste system in history is an example of rigid social stratification.",
+  "example_zh": "历史上的种姓制度是僵化社会分层的一个例子。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w212",
+  "word": "socialism",
+  "ipa": "/ˈsəʊʃəlɪzəm/",
+  "chinese": "社会主义",
+  "definition_en": "System emphasising collective ownership and equal resource distribution",
+  "example_en": "Socialism aims to reduce inequality through collective ownership of key industries.",
+  "example_zh": "社会主义旨在通过关键行业的集体所有制来减少不平等。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w213",
+  "word": "sovereignty",
+  "ipa": "/ˈsɒvrənti/",
+  "chinese": "主权",
+  "definition_en": "A nation’s right to govern itself independently",
+  "example_en": "The country defended its sovereignty against foreign interference.",
+  "example_zh": "该国捍卫主权，反对外来干涉。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w214",
+  "word": "soft power",
+  "ipa": "/ˌsɒft ˈpaʊə/",
+  "chinese": "软实力",
+  "definition_en": "Influence through attraction, culture, values and persuasion",
+  "example_en": "A country's films and music can increase its soft power abroad.",
+  "example_zh": "一个国家的电影和音乐可以提升其在海外的软实力。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w215",
+  "word": "state",
+  "ipa": "/steɪt/",
+  "chinese": "国家（政权机构）",
+  "definition_en": "Formal governing body of a territory; see government",
+  "example_en": "The state is responsible for providing education and security to its citizens.",
+  "example_zh": "国家有责任为其公民提供教育和安全保障。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w216",
+  "word": "stereotype",
+  "ipa": "/ˈsteriətaɪp/",
+  "chinese": "刻板印象",
+  "definition_en": "Oversimplified, fixed belief about a particular social group",
+  "example_en": "The movie challenged the stereotype that elderly people cannot use technology.",
+  "example_zh": "这部电影挑战了“老年人不会使用科技产品”的刻板印象。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w217",
+  "word": "subconscious beliefs",
+  "ipa": "/sʌbˈkɒnʃəs bɪˈliːfs/",
+  "chinese": "潜意识信念",
+  "definition_en": "Ideas or assumptions held without full conscious awareness",
+  "example_en": "Our subconscious beliefs can influence how we judge people without us realising it.",
+  "example_zh": "我们的潜意识信念会在不知不觉中影响我们对他人的判断。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w218",
+  "word": "subordinate group",
+  "ipa": "/səˈbɔːdɪnət ɡruːp/",
+  "chinese": "从属群体",
+  "definition_en": "Less powerful social group positioned below the dominant group",
+  "example_en": "In a stratified society, the subordinate group often has limited access to power.",
+  "example_zh": "在分层社会中，从属群体获得权力的机会往往有限。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w219",
+  "word": "subculture",
+  "ipa": "/ˈsʌbkʌltʃə/",
+  "chinese": "亚文化",
+  "definition_en": "Distinct cultural group within a larger mainstream society",
+  "example_en": "Skateboarders formed a subculture with its own style, music and vocabulary.",
+  "example_zh": "滑板爱好者形成了一种拥有自己风格、音乐和词汇的亚文化。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w220",
+  "word": "superpower",
+  "ipa": "/ˈsuːpəˌpaʊə/",
+  "chinese": "超级大国",
+  "definition_en": "Nation with exceptional global military, economic and political influence",
+  "example_en": "During the Cold War, the United States and the Soviet Union were the two superpowers.",
+  "example_zh": "冷战期间，美国和苏联是两个超级大国。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w221",
+  "word": "solidarity",
+  "ipa": "/ˌsɒlɪˈdærəti/",
+  "chinese": "团结",
+  "definition_en": "Unity and mutual support between group members",
+  "example_en": "Workers showed solidarity by supporting their colleagues during the strike.",
+  "example_zh": "工人们在罢工期间支持同事，展现了团结精神。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w222",
+  "word": "tariffs",
+  "ipa": "/ˈtærɪfs/",
+  "chinese": "关税",
+  "definition_en": "Taxes imposed on imported or exported goods",
+  "example_en": "High tariffs on imported cars made foreign vehicles more expensive.",
+  "example_zh": "对进口汽车征收的高关税使外国汽车变得更加昂贵。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w223",
+  "word": "trade restrictions",
+  "ipa": "/treɪd rɪˈstrɪkʃənz/",
+  "chinese": "贸易限制",
+  "definition_en": "Rules or limits placed on international trade",
+  "example_en": "Trade restrictions such as quotas can protect local industries from foreign competition.",
+  "example_zh": "配额等贸易限制可以保护本地产业免受外国竞争的冲击。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w224",
+  "word": "trade unions",
+  "ipa": "/ˌtreɪd ˈjuːnjənz/",
+  "chinese": "工会",
+  "definition_en": "Organisations representing workers’ rights and interests",
+  "example_en": "Trade unions negotiate with employers for better wages and working conditions.",
+  "example_zh": "工会与雇主谈判，以争取更高的工资和更好的工作条件。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w225",
+  "word": "treaty",
+  "ipa": "/ˈtriːti/",
+  "chinese": "条约",
+  "definition_en": "Formal written agreement between two or more nations",
+  "example_en": "The two countries signed a peace treaty to end the conflict.",
+  "example_zh": "两国签署了和平条约以结束冲突。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w226",
+  "word": "treaty bodies",
+  "ipa": "/ˈtriːti ˈbɒdiz/",
+  "chinese": "条约机构",
+  "definition_en": "Official bodies that oversee compliance with international treaties",
+  "example_en": "Treaty bodies review reports from governments on how they protect human rights.",
+  "example_zh": "条约机构审议各国政府关于人权保护情况的报告。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w227",
+  "word": "UDHR (Universal Declaration of Human Rights)",
+  "ipa": "/ˌjuː diː eɪtʃ ˈɑː/",
+  "chinese": "《世界人权宣言》",
+  "definition_en": "Foundational UN document outlining global human rights",
+  "example_en": "The UDHR, adopted in 1948, states that all human beings are born free and equal.",
+  "example_zh": "1948年通过的《世界人权宣言》指出，人人生而自由平等。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w228",
+  "word": "unilateralism",
+  "ipa": "/ˌjuːnɪˈlætrəlɪzəm/",
+  "chinese": "单边主义",
+  "definition_en": "Acting alone without cooperation or consultation with other nations",
+  "example_en": "Critics argued that the country's unilateralism weakened international cooperation.",
+  "example_zh": "批评者认为，该国的单边主义削弱了国际合作。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w229",
+  "word": "United Nations (UN)",
+  "ipa": "/juˌnaɪtɪd ˈneɪʃənz/",
+  "chinese": "联合国",
+  "definition_en": "Major international organisation for global peace, rights and cooperation",
+  "example_en": "The United Nations was founded in 1945 to promote peace and cooperation.",
+  "example_zh": "联合国成立于1945年，旨在促进和平与合作。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w230",
+  "word": "universal rights",
+  "ipa": "/ˌjuːnɪˈvɜːsəl raɪts/",
+  "chinese": "普遍权利",
+  "definition_en": "Rights believed to apply equally to all people worldwide",
+  "example_en": "Access to clean water is increasingly recognised as one of the universal rights.",
+  "example_zh": "获得清洁用水日益被公认为普遍权利之一。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w231",
+  "word": "values",
+  "ipa": "/ˈvæljuːz/",
+  "chinese": "价值观",
+  "definition_en": "Shared moral principles and standards held by a group or society",
+  "example_en": "A society's values shape its laws and education system.",
+  "example_zh": "一个社会的价值观塑造着它的法律和教育体系。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w232",
+  "word": "violation",
+  "ipa": "/ˌvaɪəˈleɪʃən/",
+  "chinese": "违反；侵犯",
+  "definition_en": "Act of breaking laws, treaties, rights or agreements",
+  "example_en": "Blocking journalists from reporting is a violation of press freedom.",
+  "example_zh": "阻止记者报道是对新闻自由的侵犯。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w233",
+  "word": "visibility / invisibility",
+  "ipa": "/ˌvɪzəˈbɪləti / ˌɪnvɪzəˈbɪləti/",
+  "chinese": "可见性／不可见性",
+  "definition_en": "Degree to which a group or identity is publicly recognised or overlooked",
+  "example_en": "Media representation increases the visibility of minority groups in society.",
+  "example_zh": "媒体报道提升了少数群体在社会中的可见性。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w234",
+  "word": "watchdog(s)",
+  "ipa": "/ˈwɒtʃdɒɡ/",
+  "chinese": "监督机构",
+  "definition_en": "Independent groups that monitor and report on wrongdoing or unfairness",
+  "example_en": "Human rights watchdogs reported on conditions inside the country's prisons.",
+  "example_zh": "人权监督机构报告了该国监狱内的状况。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w235",
+  "word": "wealth distribution",
+  "ipa": "/welθ ˌdɪstrɪˈbjuːʃən/",
+  "chinese": "财富分配",
+  "definition_en": "How wealth and economic resources are spread across a population",
+  "example_en": "Economists use the Gini coefficient to measure wealth distribution in a country.",
+  "example_zh": "经济学家使用基尼系数来衡量一个国家的财富分配状况。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w236",
+  "word": "Western dominance",
+  "ipa": "/ˈwestən ˈdɒmɪnəns/",
+  "chinese": "西方主导地位",
+  "definition_en": "Historical and ongoing global influence of Western nations and culture",
+  "example_en": "The spread of English is often linked to Western dominance in global media.",
+  "example_zh": "英语的传播常与西方在全球媒体中的主导地位联系在一起。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w237",
+  "word": "WTO (World Trade Organization)",
+  "ipa": "/ˌdʌbəljuː tiː ˈəʊ/",
+  "chinese": "世界贸易组织",
+  "definition_en": "International body regulating global trade",
+  "example_en": "The WTO settles disputes between countries over trade rules.",
+  "example_zh": "世界贸易组织负责解决国家之间关于贸易规则的争端。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w238",
+  "word": "Zainichi Koreans",
+  "ipa": "/zaɪˈniːtʃi kəˈriːənz/",
+  "chinese": "在日朝鲜人（在日韩国人）",
+  "definition_en": "Ethnic Korean community residing permanently in Japan",
+  "example_en": "Zainichi Koreans have lived in Japan for generations while keeping their Korean heritage.",
+  "example_zh": "在日朝鲜人世代居住在日本，同时保留着自己的朝鲜半岛文化传统。",
+  "subject": "I&S"
+ },
+ {
+  "id": "w239",
+  "word": "Accurate",
+  "ipa": "/ˈækjərət/",
+  "chinese": "精确的；准确无误的",
+  "definition_en": "Precise, correct and free from errors",
+  "example_en": "The dimensions in the technical drawing must be accurate so the parts fit together.",
+  "example_zh": "技术图纸上的尺寸必须精确，这样各个零件才能装配在一起。",
+  "subject": "Design"
+ },
+ {
+  "id": "w240",
+  "word": "Analyse",
+  "ipa": "/ˈænəlaɪz/",
+  "chinese": "分析",
+  "definition_en": "Examine details to understand problems, features and processes",
+  "example_en": "Before designing a new chair, we analyse how people sit and what makes them uncomfortable.",
+  "example_zh": "在设计一把新椅子之前，我们会分析人们如何就坐以及什么会让他们感到不适。",
+  "subject": "Design"
+ },
+ {
+  "id": "w241",
+  "word": "Annotation",
+  "ipa": "/ˌænəˈteɪʃn/",
+  "chinese": "注释；标注",
+  "definition_en": "Notes added to explain, label or comment on design work",
+  "example_en": "Each sketch in her portfolio includes an annotation explaining the choice of materials.",
+  "example_zh": "她作品集中的每幅草图都附有一条注释，说明材料选择的理由。",
+  "subject": "Design"
+ },
+ {
+  "id": "w242",
+  "word": "Authentic tests",
+  "ipa": "/ɔːˈθentɪk tests/",
+  "chinese": "真实环境测试",
+  "definition_en": "Real-world trials to assess how a design functions in use",
+  "example_en": "The team carried out authentic tests by letting students use the new water bottle for a week.",
+  "example_zh": "团队让学生试用新水壶一周，进行了真实环境测试。",
+  "subject": "Design"
+ },
+ {
+  "id": "w243",
+  "word": "Client",
+  "ipa": "/ˈklaɪənt/",
+  "chinese": "客户；委托方",
+  "definition_en": "Person or organisation that commissions or requests a design",
+  "example_en": "The client asked for a logo that would appeal to younger customers.",
+  "example_zh": "客户要求设计一个能吸引年轻消费者的标志。",
+  "subject": "Design"
+ },
+ {
+  "id": "w244",
+  "word": "Construct",
+  "ipa": "/kənˈstrʌkt/",
+  "chinese": "构建；制作",
+  "definition_en": "Build, assemble or manufacture a design, model or product",
+  "example_en": "Students will construct a cardboard model of their bridge design.",
+  "example_zh": "学生们将用纸板制作他们桥梁设计的模型。",
+  "subject": "Design"
+ },
+ {
+  "id": "w245",
+  "word": "Create",
+  "ipa": "/kriˈeɪt/",
+  "chinese": "创造；创作",
+  "definition_en": "Develop, invent or produce a new design, idea or item",
+  "example_en": "Her task was to create a poster promoting the school recycling programme.",
+  "example_zh": "她的任务是创作一张宣传学校回收项目的海报。",
+  "subject": "Design"
+ },
+ {
+  "id": "w246",
+  "word": "Define",
+  "ipa": "/dɪˈfaɪn/",
+  "chinese": "明确界定",
+  "definition_en": "Clearly state aims, problems, requirements and boundaries",
+  "example_en": "The first step is to define the problem that the product needs to solve.",
+  "example_zh": "第一步是明确界定该产品需要解决的问题。",
+  "subject": "Design"
+ },
+ {
+  "id": "w247",
+  "word": "Demonstrate",
+  "ipa": "/ˈdemənstreɪt/",
+  "chinese": "演示；展示",
+  "definition_en": "Show how a design works, functions or meets requirements",
+  "example_en": "He used a short video to demonstrate how the folding mechanism works.",
+  "example_zh": "他用一段短视频演示了折叠机构的工作原理。",
+  "subject": "Design"
+ },
+ {
+  "id": "w248",
+  "word": "Describe",
+  "ipa": "/dɪˈskraɪb/",
+  "chinese": "描述",
+  "definition_en": "Give detailed information about a design's features and characteristics",
+  "example_en": "In your report, describe the main features of your final product.",
+  "example_zh": "在报告中，请描述你最终成品的主要特征。",
+  "subject": "Design"
+ },
+ {
+  "id": "w249",
+  "word": "Detail",
+  "ipa": "/ˈdiːteɪl/",
+  "chinese": "细节",
+  "definition_en": "Small feature, specific part or fine information within a design",
+  "example_en": "A small detail like the shape of the handle can affect how comfortable the product feels.",
+  "example_zh": "像手柄形状这样的小细节会影响产品握持的舒适度。",
+  "subject": "Design"
+ },
+ {
+  "id": "w250",
+  "word": "Design",
+  "ipa": "/dɪˈzaɪn/",
+  "chinese": "设计",
+  "definition_en": "Plan, develop and refine a product, system or solution",
+  "example_en": "Our goal is to design a lamp that uses less energy and is easy to repair.",
+  "example_zh": "我们的目标是设计一款节能且易于维修的台灯。",
+  "subject": "Design"
+ },
+ {
+  "id": "w251",
+  "word": "Design brief",
+  "ipa": "/dɪˈzaɪn briːf/",
+  "chinese": "设计任务书",
+  "definition_en": "Formal document outlining the design task, context and goals",
+  "example_en": "The design brief states that the packaging must be recyclable and attractive to teenagers.",
+  "example_zh": "设计任务书明确指出，包装必须可回收且对青少年有吸引力。",
+  "subject": "Design"
+ },
+ {
+  "id": "w252",
+  "word": "Design situation",
+  "ipa": "/dɪˈzaɪn ˌsɪtʃuˈeɪʃn/",
+  "chinese": "设计情境",
+  "definition_en": "Background, context and circumstances for the design task",
+  "example_en": "The design situation describes how elderly people struggle to open tight jar lids.",
+  "example_zh": "该设计情境描述了老年人拧开紧的瓶盖时遇到的困难。",
+  "subject": "Design"
+ },
+ {
+  "id": "w253",
+  "word": "Design specification",
+  "ipa": "/dɪˈzaɪn ˌspesɪfɪˈkeɪʃn/",
+  "chinese": "设计规格说明",
+  "definition_en": "Detailed list of requirements a final design must satisfy",
+  "example_en": "According to the design specification, the bag must weigh less than 500 grams.",
+  "example_zh": "根据设计规格说明，这个包的重量必须低于 500 克。",
+  "subject": "Design"
+ },
+ {
+  "id": "w254",
+  "word": "Develop",
+  "ipa": "/dɪˈveləp/",
+  "chinese": "开发；深化完善",
+  "definition_en": "Refine, improve and progress a design from idea to final version",
+  "example_en": "After testing the first prototype, we continued to develop the idea into a working product.",
+  "example_zh": "在测试第一个原型之后，我们继续把这个想法深化为一件可用的产品。",
+  "subject": "Design"
+ },
+ {
+  "id": "w255",
+  "word": "Evaluate",
+  "ipa": "/ɪˈvæljueɪt/",
+  "chinese": "评估；评价",
+  "definition_en": "Assess quality, performance and success against set criteria",
+  "example_en": "We will evaluate each prototype against the success criteria we agreed on.",
+  "example_zh": "我们将依据之前商定的成功标准对每个原型进行评估。",
+  "subject": "Design"
+ },
+ {
+  "id": "w256",
+  "word": "Expert appraisal",
+  "ipa": "/ˈekspɜːt əˈpreɪzl/",
+  "chinese": "专家评估",
+  "definition_en": "Professional assessment and feedback on a finished design",
+  "example_en": "An expert appraisal from an industrial designer helped the team improve their final model.",
+  "example_zh": "一位工业设计师给出的专家评估帮助团队改进了他们的最终模型。",
+  "subject": "Design"
+ },
+ {
+  "id": "w257",
+  "word": "Explain",
+  "ipa": "/ɪkˈspleɪn/",
+  "chinese": "解释；说明",
+  "definition_en": "Clarify design choices, reasoning, processes and decisions",
+  "example_en": "In the presentation, she explained why she chose bamboo instead of plastic.",
+  "example_zh": "在展示中，她解释了自己为什么选择竹子而不是塑料。",
+  "subject": "Design"
+ },
+ {
+  "id": "w258",
+  "word": "Feasible",
+  "ipa": "/ˈfiːzəbl/",
+  "chinese": "可行的",
+  "definition_en": "Practical, realistic and able to be completed or used",
+  "example_en": "Given our budget and time, a 3D-printed case is the most feasible option.",
+  "example_zh": "考虑到预算和时间，3D 打印外壳是最可行的方案。",
+  "subject": "Design"
+ },
+ {
+  "id": "w259",
+  "word": "Field test",
+  "ipa": "/ˈfiːld test/",
+  "chinese": "实地测试",
+  "definition_en": "Trial a product in its intended real environment",
+  "example_en": "The field test showed that the solar charger works well even on cloudy days.",
+  "example_zh": "实地测试表明，这款太阳能充电器即使在阴天也能正常工作。",
+  "subject": "Design"
+ },
+ {
+  "id": "w260",
+  "word": "Identify",
+  "ipa": "/aɪˈdentɪfaɪ/",
+  "chinese": "识别；确定",
+  "definition_en": "Recognise, locate and name key elements, issues or features",
+  "example_en": "Through user interviews, we identified three main problems with the existing product.",
+  "example_zh": "通过用户访谈，我们确定了现有产品存在的三个主要问题。",
+  "subject": "Design"
+ },
+ {
+  "id": "w261",
+  "word": "Interaction",
+  "ipa": "/ˌɪntərˈækʃn/",
+  "chinese": "交互；互动",
+  "definition_en": "Action or response between users and a designed product",
+  "example_en": "Good interaction design makes the app easy for new users to learn.",
+  "example_zh": "良好的交互设计能让新用户轻松学会使用这款应用。",
+  "subject": "Design"
+ },
+ {
+  "id": "w262",
+  "word": "Justify",
+  "ipa": "/ˈdʒʌstɪfaɪ/",
+  "chinese": "论证；说明理由",
+  "definition_en": "Provide reasons to support design decisions and choices",
+  "example_en": "You must justify your choice of materials with evidence from your research.",
+  "example_zh": "你必须用研究中的证据来论证你对材料的选择。",
+  "subject": "Design"
+ },
+ {
+  "id": "w263",
+  "word": "List",
+  "ipa": "/lɪst/",
+  "chinese": "列出；列举",
+  "definition_en": "Write down items, steps, features or requirements one by one",
+  "example_en": "List all the tools and materials you will need before you start building.",
+  "example_zh": "在开始制作之前，列出你需要的所有工具和材料。",
+  "subject": "Design"
+ },
+ {
+  "id": "w264",
+  "word": "Logical plan",
+  "ipa": "/ˈlɒdʒɪkl plæn/",
+  "chinese": "合理的计划",
+  "definition_en": "Clear, ordered sequence of steps for the design process",
+  "example_en": "A logical plan helped the group finish every stage of the project on time.",
+  "example_zh": "一份合理的计划帮助小组按时完成了项目的每个阶段。",
+  "subject": "Design"
+ },
+ {
+  "id": "w265",
+  "word": "Outline",
+  "ipa": "/ˈaʊtlaɪn/",
+  "chinese": "概述；勾勒框架",
+  "definition_en": "Summarise main points or draw a basic framework of a design",
+  "example_en": "Before writing the full report, outline your main ideas in a few sentences.",
+  "example_zh": "在撰写完整报告之前，先用几句话概述你的主要想法。",
+  "subject": "Design"
+ },
+ {
+  "id": "w266",
+  "word": "Performance test",
+  "ipa": "/pəˈfɔːməns test/",
+  "chinese": "性能测试",
+  "definition_en": "Check how well a design functions under set conditions",
+  "example_en": "The performance test measured how much weight the shelf could hold before bending.",
+  "example_zh": "性能测试测量了这个置物架在弯曲前能承受多大重量。",
+  "subject": "Design"
+ },
+ {
+  "id": "w267",
+  "word": "Planning",
+  "ipa": "/ˈplænɪŋ/",
+  "chinese": "规划",
+  "definition_en": "Organise tasks, resources and timelines for the design project",
+  "example_en": "Careful planning allowed the team to order materials before the workshop sessions began.",
+  "example_zh": "周密的规划让团队得以在工坊课程开始前订购好材料。",
+  "subject": "Design"
+ },
+ {
+  "id": "w268",
+  "word": "Present",
+  "ipa": "/prɪˈzent/",
+  "chinese": "展示；汇报",
+  "definition_en": "Display, explain and showcase a finished design to others",
+  "example_en": "Each group will present their final product to the class next Friday.",
+  "example_zh": "每个小组将在下周五向全班展示他们的最终作品。",
+  "subject": "Design"
+ },
+ {
+  "id": "w269",
+  "word": "Prioritize",
+  "ipa": "/praɪˈɒrɪtaɪz/",
+  "chinese": "确定优先顺序",
+  "definition_en": "Rank tasks, requirements or features by level of importance",
+  "example_en": "With only two weeks left, we had to prioritize safety features over decoration.",
+  "example_zh": "只剩两周时间，我们不得不把安全功能排在装饰之前。",
+  "subject": "Design"
+ },
+ {
+  "id": "w270",
+  "word": "Range",
+  "ipa": "/reɪndʒ/",
+  "chinese": "范围；幅度",
+  "definition_en": "Limits, scope or variation of function, size or measurement",
+  "example_en": "The chair should be adjustable to fit a wide range of body heights.",
+  "example_zh": "这把椅子应该可以调节，以适应较大范围的身高。",
+  "subject": "Design"
+ },
+ {
+  "id": "w271",
+  "word": "Research plan",
+  "ipa": "/rɪˈsɜːtʃ plæn/",
+  "chinese": "调研计划",
+  "definition_en": "Structured plan for gathering information to support design work",
+  "example_en": "Her research plan included a survey, two interviews and a market comparison.",
+  "example_zh": "她的调研计划包括一份问卷、两次访谈和一项市场对比。",
+  "subject": "Design"
+ },
+ {
+  "id": "w272",
+  "word": "Solution",
+  "ipa": "/səˈluːʃn/",
+  "chinese": "解决方案",
+  "definition_en": "Final design or answer that resolves the stated design problem",
+  "example_en": "Their solution was a clip-on light that attaches to any school bag.",
+  "example_zh": "他们的解决方案是一款可以夹在任何书包上的夹子灯。",
+  "subject": "Design"
+ },
+ {
+  "id": "w273",
+  "word": "State",
+  "ipa": "/steɪt/",
+  "chinese": "陈述；明确说明",
+  "definition_en": "Clearly express facts, aims, rules or requirements",
+  "example_en": "State the main aim of your project in one clear sentence.",
+  "example_zh": "用一句清晰的话陈述你项目的主要目标。",
+  "subject": "Design"
+ },
+ {
+  "id": "w274",
+  "word": "Success criteria",
+  "ipa": "/səkˈses kraɪˈtɪəriə/",
+  "chinese": "成功标准",
+  "definition_en": "Measurable standards to judge if a design is successful",
+  "example_en": "One of our success criteria is that the device must charge a phone in under two hours.",
+  "example_zh": "我们的成功标准之一是，该设备必须在两小时内为手机充满电。",
+  "subject": "Design"
+ },
+ {
+  "id": "w275",
+  "word": "Summarize",
+  "ipa": "/ˈsʌməraɪz/",
+  "chinese": "总结；概括",
+  "definition_en": "Condense detailed information into key main points",
+  "example_en": "Summarize your test results in a short paragraph at the end of the report.",
+  "example_zh": "在报告结尾用一小段话总结你的测试结果。",
+  "subject": "Design"
+ },
+ {
+  "id": "w276",
+  "word": "Sustainability",
+  "ipa": "/səˌsteɪnəˈbɪləti/",
+  "chinese": "可持续性",
+  "definition_en": "Design approach that minimises harm to the environment and resources",
+  "example_en": "Sustainability was a key factor, so the team chose recycled aluminium for the frame.",
+  "example_zh": "可持续性是一个关键因素，因此团队选择用再生铝制作框架。",
+  "subject": "Design"
+ },
+ {
+  "id": "w277",
+  "word": "Technical specifications",
+  "ipa": "/ˈteknɪkl ˌspesɪfɪˈkeɪʃnz/",
+  "chinese": "技术规格",
+  "definition_en": "Precise technical rules, measurements and functional standards",
+  "example_en": "The technical specifications list the exact voltage and battery capacity of the device.",
+  "example_zh": "技术规格列出了该设备的确切电压和电池容量。",
+  "subject": "Design"
+ },
+ {
+  "id": "w278",
+  "word": "Target audience",
+  "ipa": "/ˈtɑːɡɪt ˈɔːdiəns/",
+  "chinese": "目标用户群体",
+  "definition_en": "Group of people the design is intended to serve",
+  "example_en": "The target audience for this app is primary school children learning to read.",
+  "example_zh": "这款应用的目标用户群体是正在学习阅读的小学生。",
+  "subject": "Design"
+ },
+ {
+  "id": "w279",
+  "word": "User trial",
+  "ipa": "/ˈjuːzə ˈtraɪəl/",
+  "chinese": "用户试用",
+  "definition_en": "Test a product with its intended users to collect feedback",
+  "example_en": "During the user trial, five classmates tried the lunchbox and suggested a larger handle.",
+  "example_zh": "在用户试用中，五位同学试用了这个饭盒，并建议把手柄做得更大一些。",
+  "subject": "Design"
+ },
+ {
+  "id": "w280",
+  "word": "antagonist",
+  "ipa": "/ænˈtæɡənɪst/",
+  "chinese": "反派角色",
+  "definition_en": "The character who opposes or conflicts with the protagonist",
+  "example_en": "In the film, the antagonist tries every trick to stop the hero from achieving his goal.",
+  "example_zh": "在这部电影中，反派角色用尽各种诡计阻止主人公实现目标。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w281",
+  "word": "art film",
+  "ipa": "/ˈɑːt fɪlm/",
+  "chinese": "艺术电影",
+  "definition_en": "Cinematic work focused on artistic expression, creativity and unique style rather than mainstream entertainment",
+  "example_en": "The director prefers making art films that express personal ideas instead of big commercial blockbusters.",
+  "example_zh": "这位导演更喜欢拍摄表达个人想法的艺术电影，而不是大型商业大片。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w282",
+  "word": "auteur theory",
+  "ipa": "/əʊˈtɜː ˈθɪəri/",
+  "chinese": "作者论（导演作者论）",
+  "definition_en": "Film theory holding that the director is the primary creative author of a film",
+  "example_en": "According to auteur theory, we can recognize a director's personal style across all of his films.",
+  "example_zh": "根据作者论，我们可以在一位导演的所有影片中辨认出他的个人风格。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w283",
+  "word": "avant-garde",
+  "ipa": "/ˌævɒ̃ ˈɡɑːd/",
+  "chinese": "先锋派（前卫电影）",
+  "definition_en": "Experimental, innovative filmmaking that breaks traditional cinematic conventions",
+  "example_en": "The avant-garde film surprised the audience with its unusual images and broken timeline.",
+  "example_zh": "这部先锋派电影以不同寻常的影像和被打乱的时间线让观众感到惊讶。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w284",
+  "word": "character archetypes",
+  "ipa": "/ˈkærəktə ˈɑːkɪtaɪps/",
+  "chinese": "角色原型",
+  "definition_en": "Recurring typical character models with fixed traits and roles across stories and films",
+  "example_en": "The wise old mentor and the brave young hero are common character archetypes in adventure films.",
+  "example_zh": "睿智的老导师和勇敢的小英雄是冒险电影中常见的角色原型。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w285",
+  "word": "cinematic techniques",
+  "ipa": "/ˌsɪnɪˈmætɪk tekˈniːks/",
+  "chinese": "电影技法",
+  "definition_en": "Methods and skills used to create visual, auditory and narrative effects in film",
+  "example_en": "The director used cinematic techniques such as slow motion and close-ups to build tension in the scene.",
+  "example_zh": "导演运用慢动作和特写等电影技法来营造这场戏的紧张感。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w286",
+  "word": "cinematography",
+  "ipa": "/ˌsɪnɪməˈtɒɡrəfi/",
+  "chinese": "电影摄影艺术",
+  "definition_en": "The art and craft of film photography, including camera work, lighting and framing",
+  "example_en": "The film won an award for its beautiful cinematography, especially the lighting in the night scenes.",
+  "example_zh": "这部电影凭借出色的摄影艺术获奖，尤其是夜景中的灯光运用。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w287",
+  "word": "classical stage",
+  "ipa": "/ˈklæsɪkəl steɪdʒ/",
+  "chinese": "古典阶段（类型成熟期）",
+  "definition_en": "Middle phase of a genre’s development, featuring mature, established conventions",
+  "example_en": "During the classical stage of the western genre, its stories and characters became fixed and familiar.",
+  "example_zh": "在西部片的古典阶段，它的故事和人物模式变得固定并为观众所熟知。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w288",
+  "word": "film criticism",
+  "ipa": "/ˈfɪlm ˌkrɪtɪsɪzəm/",
+  "chinese": "电影评论",
+  "definition_en": "Analysis, evaluation and commentary on films, styles, themes and techniques",
+  "example_en": "Good film criticism helps audiences understand the deeper themes behind a movie.",
+  "example_zh": "好的电影评论能帮助观众理解一部电影背后的深层主题。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w289",
+  "word": "film noir",
+  "ipa": "/ˌfɪlm ˈnwɑː/",
+  "chinese": "黑色电影",
+  "definition_en": "A classic film genre marked by dark tones, cynical characters, mystery and shadowy visuals",
+  "example_en": "The detective walked through rainy, shadowy streets, a typical image from film noir.",
+  "example_zh": "侦探走过雨夜中阴影笼罩的街道，这是黑色电影中的典型画面。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w290",
+  "word": "film theory",
+  "ipa": "/ˈfɪlm ˌθɪəri/",
+  "chinese": "电影理论",
+  "definition_en": "Academic study of film’s art, language, conventions, history and cultural meaning",
+  "example_en": "In film theory class, students discuss how camera angles can change the meaning of a scene.",
+  "example_zh": "在电影理论课上，学生们讨论摄影角度如何改变一个场景的含义。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w291",
+  "word": "film tropes",
+  "ipa": "/ˈfɪlm trəʊps/",
+  "chinese": "电影套路（惯用手法）",
+  "definition_en": "Overused common story elements, visual styles or plot patterns in films",
+  "example_en": "The villain explaining his whole plan before acting is one of the most famous film tropes.",
+  "example_zh": "反派在行动前把自己的计划全盘托出，是最著名的电影套路之一。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w292",
+  "word": "formalist filmmaking",
+  "ipa": "/ˈfɔːməlɪst ˈfɪlmˌmeɪkɪŋ/",
+  "chinese": "形式主义电影创作",
+  "definition_en": "Filmmaking style emphasizing visual form, composition and technical craft over realistic storytelling",
+  "example_en": "Formalist filmmaking cares more about how a scene looks and sounds than about showing everyday reality.",
+  "example_zh": "形式主义电影创作更关注场景的画面与声音形式，而非展现日常现实。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w293",
+  "word": "genre cycle",
+  "ipa": "/ˈʒɒnrə ˌsaɪkəl/",
+  "chinese": "类型周期",
+  "definition_en": "The complete evolutionary process of a film genre across different developmental stages",
+  "example_en": "The horror film has gone through a full genre cycle, from early experiments to self-mocking parodies.",
+  "example_zh": "恐怖片经历了完整的类型周期，从早期实验一路发展到自我戏仿的阶段。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w294",
+  "word": "long take",
+  "ipa": "/ˈlɒŋ ˌteɪk/",
+  "chinese": "长镜头",
+  "definition_en": "A continuous, unbroken camera shot that lasts for an extended period",
+  "example_en": "The opening long take follows the main character through a crowded market for three full minutes.",
+  "example_zh": "开场的长镜头跟随主人公穿过拥挤的集市，持续了整整三分钟。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w295",
+  "word": "mise-en-scène",
+  "ipa": "/ˌmiːz ɒn ˈseɪn/",
+  "chinese": "场面调度",
+  "definition_en": "All visual elements arranged within the film frame, including sets, costumes, actors and lighting",
+  "example_en": "The dark room, old furniture and dim lighting are all part of the film's careful mise-en-scène.",
+  "example_zh": "昏暗的房间、旧家具和微弱的灯光都是这部影片精心场面调度的一部分。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w296",
+  "word": "narrative motifs",
+  "ipa": "/ˈnærətɪv məʊˈtiːfs/",
+  "chinese": "叙事母题",
+  "definition_en": "Recurring images, ideas or symbolic elements throughout a film’s narrative",
+  "example_en": "Falling leaves appear again and again as one of the film's key narrative motifs, suggesting loss.",
+  "example_zh": "落叶作为影片关键的叙事母题反复出现，暗示着失去。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w297",
+  "word": "narrative structure",
+  "ipa": "/ˈnærətɪv ˌstrʌktʃə/",
+  "chinese": "叙事结构",
+  "definition_en": "The overall organization and sequence of a film’s story and events",
+  "example_en": "The film uses a circular narrative structure, ending exactly where the story began.",
+  "example_zh": "这部电影采用环形叙事结构，结尾正好回到故事开始的地方。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w298",
+  "word": "neorealism",
+  "ipa": "/ˌniːəʊˈrɪəlɪzəm/",
+  "chinese": "新现实主义",
+  "definition_en": "Film movement focusing on realistic depictions of ordinary life, ordinary people and social reality",
+  "example_en": "Italian neorealism often used non-professional actors to show the hard lives of ordinary people after the war.",
+  "example_zh": "意大利新现实主义常起用非职业演员，展现战后普通人的艰难生活。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w299",
+  "word": "parodic stage",
+  "ipa": "/pəˈrɒdɪk steɪdʒ/",
+  "chinese": "戏仿阶段",
+  "definition_en": "Late genre phase where classic conventions are imitated, exaggerated or mocked for comedic effect",
+  "example_en": "In the parodic stage, comedy films make fun of the serious rules of classic horror movies.",
+  "example_zh": "在戏仿阶段，喜剧片拿经典恐怖片的严肃规则开玩笑。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w300",
+  "word": "plot devices",
+  "ipa": "/ˈplɒt dɪˌvaɪsɪz/",
+  "chinese": "情节手法",
+  "definition_en": "Narrative tools used to advance the story, create conflict or connect plotlines",
+  "example_en": "A mysterious letter is one of the plot devices the writer uses to move the story forward.",
+  "example_zh": "一封神秘的信是编剧用来推动故事发展的情节手法之一。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w301",
+  "word": "primitive stage",
+  "ipa": "/ˈprɪmɪtɪv steɪdʒ/",
+  "chinese": "原始阶段",
+  "definition_en": "Early developmental phase of a film genre, with basic and undeveloped conventions",
+  "example_en": "In its primitive stage, the science fiction genre had simple stories and basic special effects.",
+  "example_zh": "在原始阶段，科幻片的故事简单，特效也十分基础。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w302",
+  "word": "protagonist",
+  "ipa": "/prəʊˈtæɡənɪst/",
+  "chinese": "主人公",
+  "definition_en": "The main central character whom the story focuses on",
+  "example_en": "The audience sympathizes with the protagonist as she struggles to save her family.",
+  "example_zh": "观众同情这位主人公，因为她努力拯救自己的家人。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w303",
+  "word": "revisionist stage",
+  "ipa": "/rɪˈvɪʒənɪst steɪdʒ/",
+  "chinese": "修正主义阶段（反类型阶段）",
+  "definition_en": "Genre phase that subverts, challenges and reinterprets traditional genre rules and themes",
+  "example_en": "In the revisionist stage of the western, films began to question whether cowboys were really heroes.",
+  "example_zh": "在西部片的修正主义阶段，电影开始质疑牛仔是否真的是英雄。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w304",
+  "word": "symbolism",
+  "ipa": "/ˈsɪmbəlɪzəm/",
+  "chinese": "象征手法",
+  "definition_en": "Use of objects, images or actions to represent abstract ideas or deeper meanings",
+  "example_en": "The director uses symbolism: a caged bird represents the character's lack of freedom.",
+  "example_zh": "导演运用了象征手法：笼中鸟代表这个角色缺少自由。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w305",
+  "word": "theme",
+  "ipa": "/θiːm/",
+  "chinese": "主题",
+  "definition_en": "The central underlying idea, message or core meaning of a film",
+  "example_en": "The theme of the film is that friendship can survive even the hardest times.",
+  "example_zh": "这部电影的主题是：友谊即使经历最艰难的时刻也能长存。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w306",
+  "word": "Third Cinema",
+  "ipa": "/ˌθɜːd ˈsɪnɪmə/",
+  "chinese": "第三电影",
+  "definition_en": "Film movement focusing on social justice, anti-colonialism and the struggles of marginalized groups",
+  "example_en": "Third Cinema gives a voice to people whose stories are rarely shown in mainstream Hollywood films.",
+  "example_zh": "第三电影为那些故事很少出现在好莱坞主流电影中的人群发声。",
+  "subject": "Media & Film"
+ },
+ {
+  "id": "w307",
+  "word": "Appropriation",
+  "ipa": "/əˌprəʊpriˈeɪʃən/",
+  "chinese": "挪用",
+  "definition_en": "The use of pre-existing objects or images with little or no alteration.",
+  "example_en": "The artist's appropriation of a famous advertisement made viewers think about consumer culture.",
+  "example_zh": "这位艺术家对一则著名广告的挪用，让观众开始思考消费文化。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w308",
+  "word": "Conceptual Art",
+  "ipa": "/kənˈseptʃuəl ɑːt/",
+  "chinese": "观念艺术",
+  "definition_en": "Art where the underlying idea is prioritized over the physical artwork itself.",
+  "example_en": "In Conceptual Art, the idea behind the work matters more than how beautiful the object looks.",
+  "example_zh": "在观念艺术中，作品背后的想法比物件本身是否美观更重要。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w309",
+  "word": "Cubism",
+  "ipa": "/ˈkjuːbɪzəm/",
+  "chinese": "立体主义",
+  "definition_en": "Early 20th-century art movement that reshaped modern painting and sculpture.",
+  "example_en": "Picasso's Cubism broke objects into geometric shapes and showed several viewpoints at once.",
+  "example_zh": "毕加索的立体主义把物体分解成几何形状，并同时呈现多个视角。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w310",
+  "word": "Dichotomy",
+  "ipa": "/daɪˈkɒtəmi/",
+  "chinese": "二分对立",
+  "definition_en": "A clear division or contrast between two opposing or distinct things.",
+  "example_en": "The painting explores the dichotomy between light and darkness, hope and despair.",
+  "example_zh": "这幅画探讨了光明与黑暗、希望与绝望之间的二分对立。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w311",
+  "word": "Dadaism",
+  "ipa": "/ˈdɑːdɑːɪzəm/",
+  "chinese": "达达主义",
+  "definition_en": "Early 20th-century European avant-garde movement with rebellious, destructive traits.",
+  "example_en": "Dadaism rejected traditional ideas of beauty and often used absurd, random objects as art.",
+  "example_zh": "达达主义拒绝传统的美的观念，常常把荒诞、随机的物品当作艺术品。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w312",
+  "word": "Ethereal",
+  "ipa": "/ɪˈθɪəriəl/",
+  "chinese": "空灵的（超凡脱俗的）",
+  "definition_en": "Describes work that looks extremely delicate, light and otherworldly.",
+  "example_en": "The artist's ethereal paintings seem to float between dream and reality.",
+  "example_zh": "这位艺术家空灵的画作仿佛漂浮在梦境与现实之间。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w313",
+  "word": "Expressionism",
+  "ipa": "/ɪkˈspreʃənɪzəm/",
+  "chinese": "表现主义",
+  "definition_en": "Modern art movement focused on conveying inner emotions instead of realistic scenes.",
+  "example_en": "Expressionism uses distorted shapes and bold colours to show the artist's inner feelings.",
+  "example_zh": "表现主义用变形的形状和大胆的色彩来表现艺术家的内心情感。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w314",
+  "word": "Futurism",
+  "ipa": "/ˈfjuːtʃərɪzəm/",
+  "chinese": "未来主义",
+  "definition_en": "Early 20th-century movement capturing the energy, speed and dynamism of modern life and machinery.",
+  "example_en": "Futurism celebrated machines and speed, painting cars and trains as symbols of modern life.",
+  "example_zh": "未来主义歌颂机器与速度，把汽车和火车画成现代生活的象征。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w315",
+  "word": "Genre",
+  "ipa": "/ˈʒɒnrə/",
+  "chinese": "体裁（艺术类型）",
+  "definition_en": "A category of artworks sharing similar form, style or subject matter.",
+  "example_en": "Landscape and portrait are two different genres of painting that students learn about in art class.",
+  "example_zh": "风景画和肖像画是学生在美术课上学习的两种不同绘画体裁。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w316",
+  "word": "Icon",
+  "ipa": "/ˈaɪkɒn/",
+  "chinese": "偶像（象征性形象）",
+  "definition_en": "A person, figure or object that acts as a representative or revered symbol.",
+  "example_en": "The Mona Lisa has become an icon of Western art, recognized by people all over the world.",
+  "example_zh": "《蒙娜丽莎》已成为西方艺术的偶像级象征，为全世界人们所熟知。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w317",
+  "word": "Impressionism",
+  "ipa": "/ɪmˈpreʃənɪzəm/",
+  "chinese": "印象主义",
+  "definition_en": "19th-century movement defined by fine brushwork and focus on capturing natural light.",
+  "example_en": "Impressionism tried to capture the changing light of a single moment with loose, quick brushstrokes.",
+  "example_zh": "印象主义试图用松散而快速的笔触捕捉某一瞬间不断变化的光线。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w318",
+  "word": "Minimalism",
+  "ipa": "/ˈmɪnɪməlɪzəm/",
+  "chinese": "极简主义",
+  "definition_en": "Post-WWII art style featuring extremely simple forms and minimal expressive detail.",
+  "example_en": "Minimalism removes all decoration, leaving only simple shapes, lines and colours.",
+  "example_zh": "极简主义去除一切装饰，只留下简单的形状、线条和色彩。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w319",
+  "word": "Motif",
+  "ipa": "/məʊˈtiːf/",
+  "chinese": "母题（主题图案）",
+  "definition_en": "A recurring distinctive element or central idea within an artwork.",
+  "example_en": "The sunflower is a repeated motif in the artist's paintings, standing for hope and life.",
+  "example_zh": "向日葵是这位画家作品中反复出现的母题，象征着希望与生命。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w320",
+  "word": "Narrative",
+  "ipa": "/ˈnærətɪv/",
+  "chinese": "叙事性（叙事艺术）",
+  "definition_en": "Artwork created to tell a story or sequence of events.",
+  "example_en": "The ancient wall painting has a strong narrative quality, telling the story of a famous battle.",
+  "example_zh": "这幅古代壁画具有很强的叙事性，讲述了一场著名战役的故事。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w321",
+  "word": "Postmodernism",
+  "ipa": "/ˌpəʊstˈmɒdənɪzəm/",
+  "chinese": "后现代主义",
+  "definition_en": "Late 20th-century movement questioning absolute truth, reason and traditional ideologies.",
+  "example_en": "Postmodernism mixes styles from different periods and questions the idea of a single 'correct' meaning in art.",
+  "example_zh": "后现代主义混合不同时期的风格，并质疑艺术中存在唯一'正确'含义的观念。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w322",
+  "word": "Satirical",
+  "ipa": "/səˈtɪrɪkəl/",
+  "chinese": "讽刺的",
+  "definition_en": "Art using humour, irony or ridicule to criticize people, flaws or social issues.",
+  "example_en": "The cartoonist's satirical drawings criticize politicians by exaggerating their weaknesses.",
+  "example_zh": "这位漫画家的讽刺画通过夸大政客们的弱点来进行批评。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w323",
+  "word": "Sign",
+  "ipa": "/saɪn/",
+  "chinese": "符号（记号）",
+  "definition_en": "An object or occurrence that indicates the presence of something else.",
+  "example_en": "In visual art, a red light can work as a sign that warns the viewer of danger.",
+  "example_zh": "在视觉艺术中，红色灯光可以作为一种向观者警示危险的符号。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w324",
+  "word": "Surrealism",
+  "ipa": "/səˈrɪəlɪzəm/",
+  "chinese": "超现实主义",
+  "definition_en": "20th-century avant-garde movement exploring creativity from the unconscious mind.",
+  "example_en": "Surrealism fills paintings with dream-like scenes, such as melting clocks and floating objects.",
+  "example_zh": "超现实主义在画作中填满梦境般的场景，比如融化的时钟和漂浮的物体。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w325",
+  "word": "Symbol",
+  "ipa": "/ˈsɪmbəl/",
+  "chinese": "象征（象征物）",
+  "definition_en": "An object that represents an abstract idea, emotion or concept.",
+  "example_en": "In the painting, a white dove is used as a symbol of peace.",
+  "example_zh": "在这幅画中，白鸽被用作和平的象征。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w326",
+  "word": "Synthesis",
+  "ipa": "/ˈsɪnθəsɪs/",
+  "chinese": "综合（融合）",
+  "definition_en": "Combining different styles, elements or ideas to form a new unified whole.",
+  "example_en": "Her latest work is a synthesis of traditional ink painting and modern digital techniques.",
+  "example_zh": "她的最新作品是传统水墨画与现代数字技法的融合。",
+  "subject": "Visual Art"
+ },
+ {
+  "id": "w327",
+  "word": "Aesthetics",
+  "ipa": "/iːsˈθetɪks/",
+  "chinese": "美学",
+  "definition_en": "Principles of artistic beauty, taste and expressive quality in music",
+  "example_en": "The aesthetics of Debussy's music emphasize atmosphere and colour over strict formal rules.",
+  "example_zh": "德彪西音乐的美学强调氛围与音色，而非严格的曲式规则。",
+  "subject": "Music"
+ },
+ {
+  "id": "w328",
+  "word": "Absolute Music",
+  "ipa": "/ˈæbsəluːt ˈmjuːzɪk/",
+  "chinese": "纯音乐（绝对音乐）",
+  "definition_en": "Instrumental music without narrative, story or descriptive content",
+  "example_en": "Mozart's Symphony No. 40 is a famous example of absolute music because it tells no story.",
+  "example_zh": "莫扎特的《第四十交响曲》是纯音乐的著名例子，因为它不讲述任何故事。",
+  "subject": "Music"
+ },
+ {
+  "id": "w329",
+  "word": "Anticipation",
+  "ipa": "/ænˌtɪsɪˈpeɪʃn/",
+  "chinese": "先现音",
+  "definition_en": "Non-chord tone that briefly sounds before the main harmony arrives",
+  "example_en": "The melody uses an anticipation, sounding the next chord's note just before the harmony changes.",
+  "example_zh": "这条旋律使用了先现音，在和弦转换之前提前奏出下一个和弦的音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w330",
+  "word": "Appraisal",
+  "ipa": "/əˈpreɪzl/",
+  "chinese": "评价（评估）",
+  "definition_en": "Assessment and evaluation of a musical work or performance",
+  "example_en": "In our appraisal of the performance, we discussed the singer's phrasing and emotional expression.",
+  "example_zh": "在对这场演出的评价中，我们讨论了歌手的乐句处理和情感表达。",
+  "subject": "Music"
+ },
+ {
+  "id": "w331",
+  "word": "Articulation",
+  "ipa": "/ɑːˌtɪkjʊˈleɪʃn/",
+  "chinese": "运音法（发音法）",
+  "definition_en": "Techniques shaping how individual notes are played or connected",
+  "example_en": "The violinist changed the articulation from staccato to legato to soften the second phrase.",
+  "example_zh": "小提琴手把运音法从断奏改为连奏，使第二个乐句更加柔和。",
+  "subject": "Music"
+ },
+ {
+  "id": "w332",
+  "word": "Artistic Intention",
+  "ipa": "/ɑːˈtɪstɪk ɪnˈtenʃn/",
+  "chinese": "艺术意图",
+  "definition_en": "The composer's creative purpose, ideas and expressive goals",
+  "example_en": "Understanding the composer's artistic intention helps performers decide how to interpret the piece.",
+  "example_zh": "理解作曲家的艺术意图有助于演奏者决定如何诠释这首作品。",
+  "subject": "Music"
+ },
+ {
+  "id": "w333",
+  "word": "Authentic Cadence",
+  "ipa": "/ɔːˈθentɪk ˈkeɪdəns/",
+  "chinese": "正格终止",
+  "definition_en": "Strong, conclusive chord progression marking the end of a phrase",
+  "example_en": "The hymn ends with an authentic cadence, moving from the dominant chord to the tonic.",
+  "example_zh": "这首赞美诗以正格终止结束，从属和弦进行到主和弦。",
+  "subject": "Music"
+ },
+ {
+  "id": "w334",
+  "word": "ABA Form (Ternary)",
+  "ipa": "/ˌeɪ biː ˈeɪ fɔːm/",
+  "chinese": "ABA 曲式（三段体）",
+  "definition_en": "Three-part musical structure: A → B → A",
+  "example_en": "Chopin's Prelude in E minor follows a simple ABA form, returning to the opening theme at the end.",
+  "example_zh": "这首乐曲采用简单的 ABA 三段体曲式，结尾处回到了开头的主题。",
+  "subject": "Music"
+ },
+ {
+  "id": "w335",
+  "word": "Augmented Sixth Chord",
+  "ipa": "/ɔːɡˈmentɪd sɪksθ kɔːd/",
+  "chinese": "增六和弦",
+  "definition_en": "Chromatic chord used to create tension before resolving to a target chord",
+  "example_en": "The composer placed an augmented sixth chord just before the final cadence to heighten the tension.",
+  "example_zh": "作曲家在最终终止之前使用了一个增六和弦，以增强紧张感。",
+  "subject": "Music"
+ },
+ {
+  "id": "w336",
+  "word": "Aural Skills",
+  "ipa": "/ˈɔːrəl skɪlz/",
+  "chinese": "听觉技能（听辨能力）",
+  "definition_en": "Ability to identify pitch, rhythm, harmony and structure by listening",
+  "example_en": "Daily ear-training exercises helped the students improve their aural skills.",
+  "example_zh": "每天的练耳训练帮助学生们提高了听觉技能。",
+  "subject": "Music"
+ },
+ {
+  "id": "w337",
+  "word": "Baroque",
+  "ipa": "/bəˈrɒk/",
+  "chinese": "巴洛克（时期）",
+  "definition_en": "Historical musical era known for ornate counterpoint and dramatic expression",
+  "example_en": "Bach and Handel were two of the greatest composers of the Baroque era.",
+  "example_zh": "巴赫和亨德尔是巴洛克时期最伟大的两位作曲家。",
+  "subject": "Music"
+ },
+ {
+  "id": "w338",
+  "word": "Binary Form",
+  "ipa": "/ˈbaɪnəri fɔːm/",
+  "chinese": "二段体曲式",
+  "definition_en": "Two-part musical structure consisting of two distinct sections",
+  "example_en": "Many Baroque dance movements are written in binary form, with two repeated sections.",
+  "example_zh": "许多巴洛克舞曲乐章采用二段体曲式写成，包含两个各自反复的段落。",
+  "subject": "Music"
+ },
+ {
+  "id": "w339",
+  "word": "Borrowed Chord",
+  "ipa": "/ˈbɒrəʊd kɔːd/",
+  "chinese": "借用和弦",
+  "definition_en": "Chord taken from the parallel minor or major key; non-diatonic harmony",
+  "example_en": "The borrowed chord from the parallel minor key gave the pop song an unexpected emotional twist.",
+  "example_zh": "从同名小调借来的借用和弦为这首流行歌曲带来了意想不到的情感转折。",
+  "subject": "Music"
+ },
+ {
+  "id": "w340",
+  "word": "Cadence",
+  "ipa": "/ˈkeɪdəns/",
+  "chinese": "终止式",
+  "definition_en": "Chord sequence that creates a pause, finish or sense of closure",
+  "example_en": "Each phrase in the chorale ends with a clear cadence that gives the music structure.",
+  "example_zh": "这首众赞歌中的每个乐句都以清晰的终止式结束，赋予音乐以结构感。",
+  "subject": "Music"
+ },
+ {
+  "id": "w341",
+  "word": "Chord Progression",
+  "ipa": "/kɔːd prəˈɡreʃn/",
+  "chinese": "和弦进行",
+  "definition_en": "Series of chords played in a set order throughout a piece",
+  "example_en": "The famous I–V–vi–IV chord progression appears in countless pop songs.",
+  "example_zh": "著名的 I–V–vi–IV 和弦进行出现在无数流行歌曲中。",
+  "subject": "Music"
+ },
+ {
+  "id": "w342",
+  "word": "Classical",
+  "ipa": "/ˈklæsɪkl/",
+  "chinese": "古典主义（时期）",
+  "definition_en": "Musical era defined by balanced form, clarity and formal structure",
+  "example_en": "Haydn and Mozart were leading composers of the Classical era, known for balanced and clear musical forms.",
+  "example_zh": "海顿和莫扎特是古典主义时期的代表作曲家，以均衡清晰的曲式著称。",
+  "subject": "Music"
+ },
+ {
+  "id": "w343",
+  "word": "Compositional Device",
+  "ipa": "/ˌkɒmpəˈzɪʃənl dɪˈvaɪs/",
+  "chinese": "作曲手法",
+  "definition_en": "Stylistic or structural technique used by composers to shape music",
+  "example_en": "The use of a repeated rhythmic motif is a compositional device that unifies the whole movement.",
+  "example_zh": "反复出现的节奏动机是一种作曲手法，使整个乐章保持统一。",
+  "subject": "Music"
+ },
+ {
+  "id": "w344",
+  "word": "Consonance",
+  "ipa": "/ˈkɒnsənəns/",
+  "chinese": "协和音（协和性）",
+  "definition_en": "Harmonious, stable sound produced by compatible pitches",
+  "example_en": "The piece opens with gentle consonance, using octaves and perfect fifths.",
+  "example_zh": "这首乐曲以柔和的协和音开始，运用了八度和纯五度。",
+  "subject": "Music"
+ },
+ {
+  "id": "w345",
+  "word": "Contemporary Classical",
+  "ipa": "/kənˈtemprəri ˈklæsɪkl/",
+  "chinese": "当代古典音乐",
+  "definition_en": "Modern art music written in recent decades, extending classical traditions",
+  "example_en": "Contemporary classical composers often combine traditional orchestras with electronic sounds.",
+  "example_zh": "当代古典音乐作曲家经常将传统管弦乐队与电子音响结合在一起。",
+  "subject": "Music"
+ },
+ {
+  "id": "w346",
+  "word": "Contour",
+  "ipa": "/ˈkɒntʊə/",
+  "chinese": "旋律轮廓",
+  "definition_en": "Overall rising, falling or flat shape of a melodic line",
+  "example_en": "The melody has an arch-shaped contour, rising to a climax and then falling back down.",
+  "example_zh": "这条旋律呈拱形轮廓，先上升到高潮，然后回落。",
+  "subject": "Music"
+ },
+ {
+  "id": "w347",
+  "word": "Crescendo",
+  "ipa": "/krəˈʃendəʊ/",
+  "chinese": "渐强",
+  "definition_en": "Gradual increase in volume (dynamics)",
+  "example_en": "The orchestra built a powerful crescendo from a soft whisper to a thunderous climax.",
+  "example_zh": "管弦乐队从一个轻柔的弱音开始渐强，直至雷鸣般的高潮。",
+  "subject": "Music"
+ },
+ {
+  "id": "w348",
+  "word": "DAW (Digital Audio Workstation)",
+  "ipa": "/ˌdiː eɪ ˈdʌbəljuː/",
+  "chinese": "数字音频工作站",
+  "definition_en": "Software for recording, editing, arranging and producing digital music",
+  "example_en": "Using a DAW, students can record their own instruments and mix them into a complete song.",
+  "example_zh": "使用数字音频工作站，学生可以录制自己的乐器并混音成一首完整的歌曲。",
+  "subject": "Music"
+ },
+ {
+  "id": "w349",
+  "word": "Deceptive Cadence",
+  "ipa": "/dɪˈseptɪv ˈkeɪdəns/",
+  "chinese": "阻碍终止",
+  "definition_en": "Cadence that avoids the expected final chord, creating a sense of surprise",
+  "example_en": "Instead of resolving to the tonic, the phrase ends with a deceptive cadence on the sixth chord.",
+  "example_zh": "这个乐句没有解决到主和弦，而是以六级和弦上的阻碍终止结束。",
+  "subject": "Music"
+ },
+ {
+  "id": "w350",
+  "word": "Diatonic Harmony",
+  "ipa": "/ˌdaɪəˈtɒnɪk ˈhɑːməni/",
+  "chinese": "自然音和声",
+  "definition_en": "Chords built exclusively from the notes of the main key",
+  "example_en": "Simple folk songs usually rely on diatonic harmony without any chromatic notes.",
+  "example_zh": "简单的民歌通常依靠自然音和声，不包含任何变化音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w351",
+  "word": "Diminuendo",
+  "ipa": "/dɪˌmɪnjuˈendəʊ/",
+  "chinese": "渐弱",
+  "definition_en": "Gradual decrease in volume (dynamics)",
+  "example_en": "The choir performed a smooth diminuendo until their voices faded into silence.",
+  "example_zh": "合唱团做出平稳的渐弱，直到歌声渐渐消失在寂静中。",
+  "subject": "Music"
+ },
+ {
+  "id": "w352",
+  "word": "Dissonance",
+  "ipa": "/ˈdɪsənəns/",
+  "chinese": "不协和音（不协和性）",
+  "definition_en": "Unstable, tense sound created by clashing pitches",
+  "example_en": "The composer used dissonance to express the tension and conflict in the film scene.",
+  "example_zh": "作曲家使用不协和音来表现电影场景中的紧张与冲突。",
+  "subject": "Music"
+ },
+ {
+  "id": "w353",
+  "word": "Dynamics",
+  "ipa": "/daɪˈnæmɪks/",
+  "chinese": "力度（强弱变化）",
+  "definition_en": "Variations in loudness and softness within a musical piece",
+  "example_en": "The conductor asked the orchestra to pay closer attention to the dynamics marked in the score.",
+  "example_zh": "指挥要求乐队更加注意乐谱上标注的力度变化。",
+  "subject": "Music"
+ },
+ {
+  "id": "w354",
+  "word": "Electronic Music",
+  "ipa": "/ˌelɪkˈtrɒnɪk ˈmjuːzɪk/",
+  "chinese": "电子音乐",
+  "definition_en": "Music created or modified using electronic devices and software",
+  "example_en": "Electronic music producers use synthesizers and software to design completely new sounds.",
+  "example_zh": "电子音乐制作人使用合成器和软件来设计全新的声音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w355",
+  "word": "Field Recording",
+  "ipa": "/ˈfiːld rɪˈkɔːdɪŋ/",
+  "chinese": "田野录音（实地录音）",
+  "definition_en": "Capturing natural or real-world sounds for use in composition",
+  "example_en": "The composer made a field recording of ocean waves and included it in her new piece.",
+  "example_zh": "作曲家对海浪声进行了田野录音，并将其用在了她的新作品中。",
+  "subject": "Music"
+ },
+ {
+  "id": "w356",
+  "word": "Filtering",
+  "ipa": "/ˈfɪltərɪŋ/",
+  "chinese": "滤波",
+  "definition_en": "Audio effect that adjusts tone by removing certain sound frequencies",
+  "example_en": "By applying filtering, the producer removed the harsh high frequencies from the track.",
+  "example_zh": "通过应用滤波，制作人消除了音轨中刺耳的高频。",
+  "subject": "Music"
+ },
+ {
+  "id": "w357",
+  "word": "Found Sound",
+  "ipa": "/ˈfaʊnd saʊnd/",
+  "chinese": "现成声音（拾得声音）",
+  "definition_en": "Everyday or environmental sounds repurposed as musical material",
+  "example_en": "The composer used the clatter of a train as a found sound in his percussion piece.",
+  "example_zh": "作曲家把火车的哐当声作为现成声音用在了他的打击乐作品中。",
+  "subject": "Music"
+ },
+ {
+  "id": "w358",
+  "word": "Genre",
+  "ipa": "/ˈʒɒnrə/",
+  "chinese": "音乐体裁（流派）",
+  "definition_en": "Category of music sharing common style, form and conventions",
+  "example_en": "Jazz, rock and hip-hop are three very different genres of popular music.",
+  "example_zh": "爵士乐、摇滚乐和嘻哈乐是三种截然不同的流行音乐体裁。",
+  "subject": "Music"
+ },
+ {
+  "id": "w359",
+  "word": "Glissando",
+  "ipa": "/ɡlɪˈsændəʊ/",
+  "chinese": "滑奏（滑音）",
+  "definition_en": "Continuous sliding movement between two distinct pitches",
+  "example_en": "The harpist played a sweeping glissando that shimmered like falling water.",
+  "example_zh": "竖琴演奏者弹奏了一段华丽的滑奏，宛如流水般闪烁。",
+  "subject": "Music"
+ },
+ {
+  "id": "w360",
+  "word": "Half Cadence",
+  "ipa": "/ˈhɑːf ˈkeɪdəns/",
+  "chinese": "半终止",
+  "definition_en": "Inconclusive cadence ending on the dominant chord, sounding unfinished",
+  "example_en": "The first phrase ends with a half cadence, leaving the listener expecting the music to continue.",
+  "example_zh": "第一个乐句以半终止结束，让听者期待音乐继续下去。",
+  "subject": "Music"
+ },
+ {
+  "id": "w361",
+  "word": "Harmony",
+  "ipa": "/ˈhɑːməni/",
+  "chinese": "和声",
+  "definition_en": "Combination of multiple pitches sounding together",
+  "example_en": "The choir sang in four-part harmony, with soprano, alto, tenor and bass voices.",
+  "example_zh": "合唱团以女高音、女中音、男高音和男低音四个声部演唱和声。",
+  "subject": "Music"
+ },
+ {
+  "id": "w362",
+  "word": "Impressionist",
+  "ipa": "/ɪmˈpreʃənɪst/",
+  "chinese": "印象主义（音乐风格）",
+  "definition_en": "Musical style focusing on atmosphere, colour and subtle sound textures",
+  "example_en": "Debussy's Impressionist style creates dreamy sound pictures rather than clear melodies.",
+  "example_zh": "德彪西的印象主义风格营造出梦幻般的音响画面，而不是清晰的旋律。",
+  "subject": "Music"
+ },
+ {
+  "id": "w363",
+  "word": "Interval",
+  "ipa": "/ˈɪntəvl/",
+  "chinese": "音程",
+  "definition_en": "Measured distance in pitch between two notes",
+  "example_en": "The interval between C and G is a perfect fifth.",
+  "example_zh": "C 和 G 之间的音程是纯五度。",
+  "subject": "Music"
+ },
+ {
+  "id": "w364",
+  "word": "Legato",
+  "ipa": "/lɪˈɡɑːtəʊ/",
+  "chinese": "连奏",
+  "definition_en": "Smooth, connected playing style with no gaps between notes",
+  "example_en": "The flutist played the lyrical melody legato, making each note flow into the next.",
+  "example_zh": "长笛演奏者用连奏演奏这段抒情的旋律，使每个音自然地流向下一个音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w365",
+  "word": "Layering",
+  "ipa": "/ˈleɪərɪŋ/",
+  "chinese": "叠加（分层）",
+  "definition_en": "Overlapping multiple audio tracks, melodies or sounds to build texture",
+  "example_en": "The producer used layering to combine strings, piano and vocals into a rich final chorus.",
+  "example_zh": "制作人运用叠加手法，把弦乐、钢琴和人声合在一起，形成丰满的最后一段副歌。",
+  "subject": "Music"
+ },
+ {
+  "id": "w366",
+  "word": "Looping",
+  "ipa": "/ˈluːpɪŋ/",
+  "chinese": "循环（循环播放）",
+  "definition_en": "Repeating a short musical phrase or audio clip continuously",
+  "example_en": "By looping the drum pattern, the DJ kept the dancers moving all night.",
+  "example_zh": "DJ 通过循环播放鼓点节奏，让舞者整晚跳个不停。",
+  "subject": "Music"
+ },
+ {
+  "id": "w367",
+  "word": "Major Key",
+  "ipa": "/ˈmeɪdʒə kiː/",
+  "chinese": "大调",
+  "definition_en": "Key associated with bright, stable and uplifting tonal character",
+  "example_en": "Happy birthday is usually sung in a major key, which gives it a cheerful sound.",
+  "example_zh": "生日歌通常用大调演唱，因此听起来欢快明亮。",
+  "subject": "Music"
+ },
+ {
+  "id": "w368",
+  "word": "Melody",
+  "ipa": "/ˈmelədi/",
+  "chinese": "旋律",
+  "definition_en": "Linear sequence of single notes forming the main musical line",
+  "example_en": "The melody of this song is so catchy that everyone can hum it after one listen.",
+  "example_zh": "这首歌的旋律十分上口，大家听一遍就能哼出来。",
+  "subject": "Music"
+ },
+ {
+  "id": "w369",
+  "word": "Minor Key",
+  "ipa": "/ˈmaɪnə kiː/",
+  "chinese": "小调",
+  "definition_en": "Key associated with darker, softer or more sombre tonal character",
+  "example_en": "The composer chose a minor key to express the sadness of the farewell scene.",
+  "example_zh": "作曲家选用小调来表现告别场景的悲伤。",
+  "subject": "Music"
+ },
+ {
+  "id": "w370",
+  "word": "Motif",
+  "ipa": "/məʊˈtiːf/",
+  "chinese": "动机",
+  "definition_en": "Short, distinctive musical phrase repeated or developed throughout a work",
+  "example_en": "The four-note motif in Beethoven's Fifth Symphony appears again and again in the whole movement.",
+  "example_zh": "贝多芬《第五交响曲》中那个四音动机在整个乐章中反复出现。",
+  "subject": "Music"
+ },
+ {
+  "id": "w371",
+  "word": "Musique Concrète",
+  "ipa": "/mjuːˌziːk kɒnˈkret/",
+  "chinese": "具体音乐",
+  "definition_en": "Early electronic music using recorded real-world sounds as raw material",
+  "example_en": "In musique concrète, everyday noises such as trains and footsteps are turned into music.",
+  "example_zh": "在具体音乐中，火车声、脚步声等日常噪音被加工成音乐。",
+  "subject": "Music"
+ },
+ {
+  "id": "w372",
+  "word": "Neapolitan Chord",
+  "ipa": "/ˌniːəˈpɒlɪtən kɔːd/",
+  "chinese": "那不勒斯和弦",
+  "definition_en": "Specific chromatic chord often used for dramatic harmonic colour",
+  "example_en": "The sudden Neapolitan chord near the end of the piece added dramatic tension.",
+  "example_zh": "乐曲结尾处突然出现的那不勒斯和弦增添了戏剧性的张力。",
+  "subject": "Music"
+ },
+ {
+  "id": "w373",
+  "word": "Neighbor Tone",
+  "ipa": "/ˈneɪbə təʊn/",
+  "chinese": "邻音（辅助音）",
+  "definition_en": "Brief decorative note moving stepwise away from and back to the main pitch",
+  "example_en": "The singer decorated the long note with a quick neighbor tone before returning to it.",
+  "example_zh": "歌手在长音上加了一个短促的邻音作装饰，然后回到本音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w374",
+  "word": "Non-Diatonic Harmony",
+  "ipa": "/nɒn ˌdaɪəˈtɒnɪk ˈhɑːməni/",
+  "chinese": "非自然音和声",
+  "definition_en": "Chords containing notes outside the main key of a piece",
+  "example_en": "The use of non-diatonic harmony made the film score feel mysterious and unpredictable.",
+  "example_zh": "非自然音和声的使用让这段电影配乐显得神秘而难以预料。",
+  "subject": "Music"
+ },
+ {
+  "id": "w375",
+  "word": "Ostinato",
+  "ipa": "/ˌɒstɪˈnɑːtəʊ/",
+  "chinese": "固定音型",
+  "definition_en": "Repeating rhythmic or melodic pattern that persists throughout music",
+  "example_en": "The bass guitar plays a steady ostinato that drives the whole song forward.",
+  "example_zh": "贝斯吉他弹奏着平稳的固定音型，推动整首歌向前进行。",
+  "subject": "Music"
+ },
+ {
+  "id": "w376",
+  "word": "Parallel Fifths",
+  "ipa": "/ˈpærəlel fɪfθs/",
+  "chinese": "平行五度",
+  "definition_en": "Consecutive perfect fifth intervals between two voices; a traditional voice-leading error",
+  "example_en": "In strict four-part writing, students are taught to avoid parallel fifths between voices.",
+  "example_zh": "在严格的四声部写作中，学生要学会避免声部之间出现平行五度。",
+  "subject": "Music"
+ },
+ {
+  "id": "w377",
+  "word": "Passing Tone",
+  "ipa": "/ˈpɑːsɪŋ təʊn/",
+  "chinese": "经过音",
+  "definition_en": "Stepwise decorative note connecting two different harmony tones",
+  "example_en": "The melody uses a passing tone to move smoothly from the third to the fifth of the chord.",
+  "example_zh": "旋律用一个经过音，从和弦的三音平滑地连接到五音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w378",
+  "word": "Phrase",
+  "ipa": "/freɪz/",
+  "chinese": "乐句",
+  "definition_en": "Complete musical unit, similar to a sentence in language",
+  "example_en": "Each phrase of the song is four bars long, like a complete sentence.",
+  "example_zh": "这首歌的每个乐句都是四小节，就像一个完整的句子。",
+  "subject": "Music"
+ },
+ {
+  "id": "w379",
+  "word": "Phrasing",
+  "ipa": "/ˈfreɪzɪŋ/",
+  "chinese": "乐句处理（分句法）",
+  "definition_en": "How a performer shapes, groups and articulates musical phrases",
+  "example_en": "Her sensitive phrasing made the simple melody sound deeply expressive.",
+  "example_zh": "她细腻的乐句处理让这段简单的旋律听起来极富表现力。",
+  "subject": "Music"
+ },
+ {
+  "id": "w380",
+  "word": "Pitch",
+  "ipa": "/pɪtʃ/",
+  "chinese": "音高",
+  "definition_en": "Perceived highness or lowness of a musical note",
+  "example_en": "A soprano can sing notes with a much higher pitch than a bass singer.",
+  "example_zh": "女高音能唱出比男低音高得多的音高。",
+  "subject": "Music"
+ },
+ {
+  "id": "w381",
+  "word": "Pitch Shift",
+  "ipa": "/ˈpɪtʃ ʃɪft/",
+  "chinese": "音高变换（移调效果）",
+  "definition_en": "Digital effect that changes the pitch of recorded audio",
+  "example_en": "The engineer used a pitch shift effect to make the singer's voice sound lower.",
+  "example_zh": "录音师使用音高变换效果，让歌手的声音听起来更低沉。",
+  "subject": "Music"
+ },
+ {
+  "id": "w382",
+  "word": "Plagal Cadence",
+  "ipa": "/ˈpleɪɡəl ˈkeɪdəns/",
+  "chinese": "变格终止",
+  "definition_en": "“Amen” cadence; gentle closing progression separate from authentic cadence",
+  "example_en": "The hymn ends with a plagal cadence, which is why it sounds like a soft 'Amen'.",
+  "example_zh": "这首赞美诗以变格终止结束，因此听起来像一声轻柔的'阿门'。",
+  "subject": "Music"
+ },
+ {
+  "id": "w383",
+  "word": "Programme Music",
+  "ipa": "/ˈprəʊɡræm ˌmjuːzɪk/",
+  "chinese": "标题音乐",
+  "definition_en": "Instrumental music composed to tell a story or describe a scene",
+  "example_en": "Vivaldi's Four Seasons is a famous example of programme music describing nature.",
+  "example_zh": "维瓦尔第的《四季》是描绘自然的标题音乐的著名范例。",
+  "subject": "Music"
+ },
+ {
+  "id": "w384",
+  "word": "Reverb",
+  "ipa": "/rɪˈvɜːb/",
+  "chinese": "混响",
+  "definition_en": "Audio effect simulating natural acoustic space and echo",
+  "example_en": "Adding reverb to the vocals made them sound as if they were recorded in a cathedral.",
+  "example_zh": "给人声加上混响后，听起来就像是在大教堂里录制的。",
+  "subject": "Music"
+ },
+ {
+  "id": "w385",
+  "word": "Rhythm",
+  "ipa": "/ˈrɪðəm/",
+  "chinese": "节奏",
+  "definition_en": "Pattern of note lengths, beats and silences creating musical movement",
+  "example_en": "The drummer kept a steady rhythm while the rest of the band improvised.",
+  "example_zh": "鼓手保持着稳定的节奏，乐队其他成员则即兴演奏。",
+  "subject": "Music"
+ },
+ {
+  "id": "w386",
+  "word": "Romantic",
+  "ipa": "/rəʊˈmæntɪk/",
+  "chinese": "浪漫主义（时期）",
+  "definition_en": "Musical era emphasizing intense emotion, expressive melody and rich harmony",
+  "example_en": "Chopin's piano works are some of the most beloved pieces from the Romantic era.",
+  "example_zh": "肖邦的钢琴作品是浪漫主义时期最受喜爱的乐曲之一。",
+  "subject": "Music"
+ },
+ {
+  "id": "w387",
+  "word": "Rondo Form",
+  "ipa": "/ˈrɒndəʊ fɔːm/",
+  "chinese": "回旋曲式",
+  "definition_en": "Form with a main recurring theme alternating with contrasting sections",
+  "example_en": "In rondo form, the main theme returns several times between different episodes.",
+  "example_zh": "在回旋曲式中，主题在不同的插段之间多次再现。",
+  "subject": "Music"
+ },
+ {
+  "id": "w388",
+  "word": "Rubato",
+  "ipa": "/ruːˈbɑːtəʊ/",
+  "chinese": "自由速度（弹性速度）",
+  "definition_en": "Flexible, expressive stretching of tempo for emotional effect",
+  "example_en": "The pianist played the nocturne with gentle rubato, stretching the tempo expressively.",
+  "example_zh": "钢琴家以轻柔的自由速度演奏夜曲，富有表现力地拉伸着节奏。",
+  "subject": "Music"
+ },
+ {
+  "id": "w389",
+  "word": "Secondary Dominant",
+  "ipa": "/ˈsekəndri ˈdɒmɪnənt/",
+  "chinese": "副属和弦",
+  "definition_en": "Dominant chord borrowed from another key to add temporary tension",
+  "example_en": "The songwriter used a secondary dominant to lead strongly into the chorus.",
+  "example_zh": "词曲作者用副属和弦有力地引向副歌。",
+  "subject": "Music"
+ },
+ {
+  "id": "w390",
+  "word": "Sonata Form",
+  "ipa": "/səˈnɑːtə fɔːm/",
+  "chinese": "奏鸣曲式",
+  "definition_en": "Multi-section structure: exposition, development, recapitulation",
+  "example_en": "The first movement of Mozart's symphony follows the classical sonata form.",
+  "example_zh": "莫扎特交响曲的第一乐章遵循古典奏鸣曲式。",
+  "subject": "Music"
+ },
+ {
+  "id": "w391",
+  "word": "Soundscape",
+  "ipa": "/ˈsaʊndskeɪp/",
+  "chinese": "声音景观（音景）",
+  "definition_en": "Overall collection of sounds, tones and atmosphere in a piece",
+  "example_en": "The composer created a dark soundscape using low drones and distant bells.",
+  "example_zh": "作曲家用低沉的持续音和遥远的钟声营造出阴暗的声音景观。",
+  "subject": "Music"
+ },
+ {
+  "id": "w392",
+  "word": "Staccato",
+  "ipa": "/stəˈkɑːtəʊ/",
+  "chinese": "断奏",
+  "definition_en": "Short, detached playing style with clear gaps between notes",
+  "example_en": "The violinist played the passage staccato, making each note short and crisp.",
+  "example_zh": "小提琴手以断奏演奏这一段，每个音都短促而清脆。",
+  "subject": "Music"
+ },
+ {
+  "id": "w393",
+  "word": "Structure",
+  "ipa": "/ˈstrʌktʃə/",
+  "chinese": "结构",
+  "definition_en": "Overall organisation and arrangement of sections within a composition",
+  "example_en": "The song's structure is verse, chorus, verse, chorus, bridge, chorus.",
+  "example_zh": "这首歌的结构是主歌、副歌、主歌、副歌、桥段、副歌。",
+  "subject": "Music"
+ },
+ {
+  "id": "w394",
+  "word": "Suspension",
+  "ipa": "/səˈspenʃən/",
+  "chinese": "延留音",
+  "definition_en": "Non-chord tone held over from a previous chord, creating temporary tension",
+  "example_en": "The suspension held over into the new chord before resolving downward.",
+  "example_zh": "延留音延续到新的和弦中，然后向下解决。",
+  "subject": "Music"
+ },
+ {
+  "id": "w395",
+  "word": "Tempo",
+  "ipa": "/ˈtempəʊ/",
+  "chinese": "速度",
+  "definition_en": "Speed or pace of a piece of music",
+  "example_en": "The conductor set a fast tempo for the final movement of the symphony.",
+  "example_zh": "指挥为交响曲的末乐章定下了很快的速度。",
+  "subject": "Music"
+ },
+ {
+  "id": "w396",
+  "word": "Tendency Tone",
+  "ipa": "/ˈtendənsi təʊn/",
+  "chinese": "倾向音",
+  "definition_en": "Note that naturally pulls toward another more stable pitch",
+  "example_en": "The leading note is a tendency tone that strongly pulls toward the tonic.",
+  "example_zh": "导音是倾向音，强烈地倾向于主音。",
+  "subject": "Music"
+ },
+ {
+  "id": "w397",
+  "word": "Texture",
+  "ipa": "/ˈtekstʃə/",
+  "chinese": "织体",
+  "definition_en": "How melody, harmony and rhythm combine to form the overall sound",
+  "example_en": "The piece begins with a thin texture and gradually becomes thick and complex.",
+  "example_zh": "这首曲子以稀薄的织体开始，逐渐变得浓厚而复杂。",
+  "subject": "Music"
+ },
+ {
+  "id": "w398",
+  "word": "Timbre",
+  "ipa": "/ˈtæmbə/",
+  "chinese": "音色",
+  "definition_en": "Unique tone colour or quality of a voice or instrument",
+  "example_en": "The flute and the oboe play the same note, but their timbre is quite different.",
+  "example_zh": "长笛和双簧管吹奏同一个音，但它们的音色截然不同。",
+  "subject": "Music"
+ },
+ {
+  "id": "w399",
+  "word": "Tonality",
+  "ipa": "/təʊˈnæləti/",
+  "chinese": "调性",
+  "definition_en": "Organised system of pitches centred around a main home key",
+  "example_en": "Most pop songs have a clear tonality, with all notes belonging to one key.",
+  "example_zh": "大多数流行歌曲都有明确的调性，所有音都属于同一个调。",
+  "subject": "Music"
+ },
+ {
+  "id": "w400",
+  "word": "Tremolo",
+  "ipa": "/ˈtremələʊ/",
+  "chinese": "震音",
+  "definition_en": "Rapid repetition of a single note for rhythmic or dramatic effect",
+  "example_en": "The violins used tremolo to create a tense, trembling sound in the horror scene.",
+  "example_zh": "小提琴用震音在恐怖场景中制造出紧张颤抖的音响。",
+  "subject": "Music"
+ },
+ {
+  "id": "w401",
+  "word": "Trill",
+  "ipa": "/trɪl/",
+  "chinese": "颤音",
+  "definition_en": "Rapid alternation between a main note and the note directly above it",
+  "example_en": "The flutist ended the solo with a brilliant trill on the high note.",
+  "example_zh": "长笛手以高音上华丽的颤音结束了独奏。",
+  "subject": "Music"
+ },
+ {
+  "id": "w402",
+  "word": "Ternary Form",
+  "ipa": "/ˈtɜːnəri fɔːm/",
+  "chinese": "三段体（三部曲式）",
+  "definition_en": "See ABA Form (Ternary)",
+  "example_en": "A simple ternary form has an A section, a contrasting B section, and then A returns.",
+  "example_zh": "简单的三段体包含 A 段、对比性的 B 段，然后 A 段再现。",
+  "subject": "Music"
+ },
+ {
+  "id": "w403",
+  "word": "Voice Leading",
+  "ipa": "/ˈvɔɪs ˌliːdɪŋ/",
+  "chinese": "声部进行（声部连接）",
+  "definition_en": "Art of moving individual melodic lines smoothly between chords",
+  "example_en": "Good voice leading makes each vocal line move smoothly from chord to chord.",
+  "example_zh": "良好的声部进行使各声部在和弦之间平滑地移动。",
+  "subject": "Music"
+ },
+ {
+  "id": "w404",
+  "word": "ace",
+  "ipa": "/eɪs/",
+  "chinese": "发球直接得分（Ace球）",
+  "definition_en": "A serve that lands unreturned, scoring an immediate point",
+  "example_en": "The tennis player hit an ace that her opponent could not even touch.",
+  "example_zh": "那位网球选手发出一记Ace球，对手连球都没能碰到。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w405",
+  "word": "agility",
+  "ipa": "/əˈdʒɪləti/",
+  "chinese": "敏捷性",
+  "definition_en": "Ability to move quickly and change direction with ease",
+  "example_en": "Good agility helps basketball players dodge defenders and drive to the basket.",
+  "example_zh": "良好的敏捷性帮助篮球运动员甩开防守队员，直攻篮下。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w406",
+  "word": "assist",
+  "ipa": "/əˈsɪst/",
+  "chinese": "助攻",
+  "definition_en": "A pass that directly helps a teammate score",
+  "example_en": "He recorded ten assists in the match by setting up his teammates perfectly.",
+  "example_zh": "他在那场比赛中通过为队友创造绝佳机会，送出了十次助攻。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w407",
+  "word": "attack",
+  "ipa": "/əˈtæk/",
+  "chinese": "进攻",
+  "definition_en": "Offensive action to score against the opposing team",
+  "example_en": "The coach told the team to speed up their attack in the second half.",
+  "example_zh": "教练要求全队在下半场加快进攻节奏。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w408",
+  "word": "backcourt",
+  "ipa": "/ˈbækkɔːt/",
+  "chinese": "后场",
+  "definition_en": "The rear playing area of a court, furthest from the goal/net",
+  "example_en": "The defender stayed in the backcourt to stop the long balls.",
+  "example_zh": "那名防守队员留在后场，以拦截对方的长传球。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w409",
+  "word": "balance",
+  "ipa": "/ˈbæləns/",
+  "chinese": "平衡能力",
+  "definition_en": "Ability to maintain stable body position while moving or stationary",
+  "example_en": "Gymnasts need excellent balance to perform on the narrow beam.",
+  "example_zh": "体操运动员需要出色的平衡能力才能在狭窄的平衡木上完成动作。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w410",
+  "word": "baseline",
+  "ipa": "/ˈbeɪslaɪn/",
+  "chinese": "底线",
+  "definition_en": "Boundary line marking the rearmost edge of a playing court",
+  "example_en": "The serve bounced just inside the baseline, so it was counted as good.",
+  "example_zh": "发球刚好落在底线以内，因此被判为有效。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w411",
+  "word": "block",
+  "ipa": "/blɒk/",
+  "chinese": "拦网；封堵",
+  "definition_en": "Defensive move to stop or redirect an opponent's shot/spike",
+  "example_en": "The middle blocker jumped high to block the opponent's spike.",
+  "example_zh": "副攻手高高跃起，拦住了对方的扣球。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w412",
+  "word": "box",
+  "ipa": "/bɒks/",
+  "chinese": "训练箱；跳箱",
+  "definition_en": "Training apparatus or marked area for physical drills",
+  "example_en": "During fitness class, we practiced step-ups and jumps onto the box.",
+  "example_zh": "在体能课上，我们练习了踏上跳箱和跳上箱子的动作。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w413",
+  "word": "cardiovascular",
+  "ipa": "/ˌkɑːdiəʊˈvæskjələ/",
+  "chinese": "心血管的",
+  "definition_en": "Relating to the heart and circulatory system; aerobic fitness",
+  "example_en": "Running and swimming are great ways to improve cardiovascular fitness.",
+  "example_zh": "跑步和游泳是提高心血管耐力的好方法。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w414",
+  "word": "core",
+  "ipa": "/kɔː/",
+  "chinese": "核心肌群",
+  "definition_en": "Central torso muscles that support posture and movement",
+  "example_en": "Planks are an effective exercise for strengthening your core.",
+  "example_zh": "平板支撑是锻炼核心肌群的有效动作。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w415",
+  "word": "cover",
+  "ipa": "/ˈkʌvə/",
+  "chinese": "补位；掩护防守",
+  "definition_en": "Defensive positioning to protect teammates or empty court areas",
+  "example_en": "When the defender moved forward, her teammate dropped back to cover the space.",
+  "example_zh": "当防守队员上前时，她的队友回撤补位，守住空当。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w416",
+  "word": "defense",
+  "ipa": "/dɪˈfens/",
+  "chinese": "防守",
+  "definition_en": "Team actions to prevent opponents from scoring",
+  "example_en": "Their strong defense kept the other team from scoring in the final quarter.",
+  "example_zh": "他们顽强的防守使对方在最后一节一分未得。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w417",
+  "word": "dribble",
+  "ipa": "/ˈdrɪbəl/",
+  "chinese": "运球；带球",
+  "definition_en": "Controlling and moving the ball while walking or running",
+  "example_en": "He learned to dribble the basketball with both hands.",
+  "example_zh": "他学会了用双手运球。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w418",
+  "word": "dumbbells",
+  "ipa": "/ˈdʌmbelz/",
+  "chinese": "哑铃",
+  "definition_en": "Hand-held weights used for strength training",
+  "example_en": "She lifted light dumbbells to build strength in her arms.",
+  "example_zh": "她举起较轻的哑铃来增强手臂力量。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w419",
+  "word": "explosion",
+  "ipa": "/ɪkˈspləʊʒən/",
+  "chinese": "爆发力",
+  "definition_en": "Quick, powerful burst of speed or force",
+  "example_en": "Sprinters train for explosion so they can start the race as fast as possible.",
+  "example_zh": "短跑运动员专门训练爆发力，以便在起跑时尽可能快地冲出去。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w420",
+  "word": "flexibility",
+  "ipa": "/ˌfleksəˈbɪləti/",
+  "chinese": "柔韧性",
+  "definition_en": "Range of motion in joints and muscles",
+  "example_en": "Stretching after exercise can improve your flexibility over time.",
+  "example_zh": "运动后拉伸可以逐渐提高你的柔韧性。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w421",
+  "word": "foul",
+  "ipa": "/faʊl/",
+  "chinese": "犯规",
+  "definition_en": "Rule violation committed during play",
+  "example_en": "The referee called a foul when the defender pushed the shooter.",
+  "example_zh": "当防守队员推搡投篮者时，裁判吹罚了犯规。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w422",
+  "word": "goal keeper",
+  "ipa": "/ɡəʊl ˈkiːpə/",
+  "chinese": "守门员",
+  "definition_en": "Player whose main role is defending the goal",
+  "example_en": "The goal keeper made an amazing save in the last minute of the game.",
+  "example_zh": "守门员在比赛最后一分钟完成了一次精彩的扑救。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w423",
+  "word": "linesman",
+  "ipa": "/ˈlaɪnzmən/",
+  "chinese": "边线裁判；司线员",
+  "definition_en": "Official who monitors boundary lines and related rules",
+  "example_en": "The linesman raised his flag to signal that the ball had gone out of play.",
+  "example_zh": "边线裁判举旗示意球已出界。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w424",
+  "word": "libero",
+  "ipa": "/ˈlɪbərəʊ/",
+  "chinese": "自由人（排球）",
+  "definition_en": "Defensive specialist player in volleyball",
+  "example_en": "The libero wore a different colored jersey and dug every difficult serve.",
+  "example_zh": "自由人穿着不同颜色的球衣，接起了每一个难接的发球。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w425",
+  "word": "lunge",
+  "ipa": "/lʌndʒ/",
+  "chinese": "弓步",
+  "definition_en": "Lower-body strength exercise stepping forward with bent knees",
+  "example_en": "We did ten lunges on each leg to warm up before the run.",
+  "example_zh": "跑步前我们每条腿做了十个弓步来热身。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w426",
+  "word": "muscular endurance",
+  "ipa": "/ˈmʌskjələr ɪnˈdjʊərəns/",
+  "chinese": "肌肉耐力",
+  "definition_en": "Muscles' ability to perform repeated movements without fatigue",
+  "example_en": "Doing many push-ups with light effort builds muscular endurance.",
+  "example_zh": "以较轻负荷做大量俯卧撑可以增强肌肉耐力。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w427",
+  "word": "offense",
+  "ipa": "/əˈfens/",
+  "chinese": "进攻方；进攻",
+  "definition_en": "Team actions focused on attacking and scoring points",
+  "example_en": "Their offense scored three goals in the first half of the match.",
+  "example_zh": "他们的进攻在比赛上半场就打进了三球。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w428",
+  "word": "offside",
+  "ipa": "/ˌɒfˈsaɪd/",
+  "chinese": "越位",
+  "definition_en": "Rule violation where a player is illegally positioned ahead of the ball",
+  "example_en": "The goal was disallowed because the striker was offside.",
+  "example_zh": "由于前锋越位，这个进球被判无效。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w429",
+  "word": "overtime",
+  "ipa": "/ˈəʊvətaɪm/",
+  "chinese": "加时赛",
+  "definition_en": "Extra play period to decide a tied match",
+  "example_en": "The game went into overtime after both teams finished with eighty points.",
+  "example_zh": "两队战成80平后，比赛进入了加时赛。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w430",
+  "word": "pancake",
+  "ipa": "/ˈpænkeɪk/",
+  "chinese": "鱼跃救球（排球扑救动作）",
+  "definition_en": "Low defensive diving move to save a ball",
+  "example_en": "The volleyball player used a pancake to keep the ball from hitting the floor.",
+  "example_zh": "那名排球运动员用一个鱼跃救球动作，让球免于落地。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w431",
+  "word": "pass",
+  "ipa": "/pɑːs/",
+  "chinese": "传球",
+  "definition_en": "Transferring the ball from one player to a teammate",
+  "example_en": "She made a quick pass to her teammate near the goal.",
+  "example_zh": "她快速把球传给了球门附近的队友。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w432",
+  "word": "pivot",
+  "ipa": "/ˈpɪvət/",
+  "chinese": "中枢脚转身；支点位置",
+  "definition_en": "Fixed central position or rotational movement used in team sports",
+  "example_en": "After stopping his dribble, he used a pivot to turn and find an open teammate.",
+  "example_zh": "停球之后，他以中枢脚转身，找到了无人防守的队友。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w433",
+  "word": "possession",
+  "ipa": "/pəˈzeʃən/",
+  "chinese": "控球权",
+  "definition_en": "Control of the ball by a player or team",
+  "example_en": "Our team kept possession of the ball for most of the second half.",
+  "example_zh": "下半场大部分时间里，我们队都掌握着控球权。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w434",
+  "word": "rally",
+  "ipa": "/ˈræli/",
+  "chinese": "来回对攻；连续回合",
+  "definition_en": "Continuous exchange of shots/plays between opposing sides",
+  "example_en": "The crowd cheered loudly during the long rally at the net.",
+  "example_zh": "网前长时间的来回对攻引得观众大声欢呼。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w435",
+  "word": "rebound",
+  "ipa": "/ˈriːbaʊnd/",
+  "chinese": "篮板球",
+  "definition_en": "Gaining possession of the ball after a missed shot",
+  "example_en": "The tall center grabbed the rebound and scored immediately.",
+  "example_zh": "高个子中锋抢到篮板球后立刻得分。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w436",
+  "word": "reps (repetitions)",
+  "ipa": "/reps/",
+  "chinese": "重复次数（训练中的单次动作）",
+  "definition_en": "Single repeated movement in a strength or fitness exercise",
+  "example_en": "Try to complete fifteen reps of squats in each set.",
+  "example_zh": "每组尽量完成十五次深蹲重复。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w437",
+  "word": "sets",
+  "ipa": "/sets/",
+  "chinese": "组（训练）；局（球类比赛）",
+  "definition_en": "Group of repetitions in training; also a unit of scoring in court sports",
+  "example_en": "We did three sets of push-ups, and the volleyball team won two sets in a row.",
+  "example_zh": "我们做了三组俯卧撑，而那支排球队连赢了两局。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w438",
+  "word": "sideline",
+  "ipa": "/ˈsaɪdlaɪn/",
+  "chinese": "边线",
+  "definition_en": "Side boundary line of a playing court",
+  "example_en": "The ball rolled over the sideline, so the other team got a throw-in.",
+  "example_zh": "球滚出了边线，因此由对方掷界外球。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w439",
+  "word": "squat",
+  "ipa": "/skwɒt/",
+  "chinese": "深蹲",
+  "definition_en": "Lower-body exercise bending knees to lower the torso",
+  "example_en": "Squats are a basic exercise for building strong legs.",
+  "example_zh": "深蹲是锻炼腿部力量的基础动作。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w440",
+  "word": "strength",
+  "ipa": "/streŋθ/",
+  "chinese": "力量",
+  "definition_en": "Physical power to lift, push or resist force",
+  "example_en": "Weight training helps athletes increase their strength safely.",
+  "example_zh": "负重训练能帮助运动员安全地增强力量。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w441",
+  "word": "tackle",
+  "ipa": "/ˈtækəl/",
+  "chinese": "铲抢；擒抱",
+  "definition_en": "Defensive move to stop an opponent or take possession of the ball",
+  "example_en": "The defender made a clean tackle to win the ball back.",
+  "example_zh": "那名防守队员一记干净的铲抢，把球夺了回来。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w442",
+  "word": "treadmill",
+  "ipa": "/ˈtredmɪl/",
+  "chinese": "跑步机",
+  "definition_en": "Motorized walking/running machine for cardio training",
+  "example_en": "When it rains, I run on the treadmill at the gym instead of going outside.",
+  "example_zh": "下雨的时候，我就在健身房的跑步机上跑步，而不去户外。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w443",
+  "word": "travel",
+  "ipa": "/ˈtrævəl/",
+  "chinese": "走步（带球走违例）",
+  "definition_en": "Rule violation of illegal movement while holding the ball",
+  "example_en": "The referee whistled a travel after the player took three steps without dribbling.",
+  "example_zh": "那名球员未运球走了三步，裁判吹罚了走步违例。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w444",
+  "word": "transition",
+  "ipa": "/trænˈzɪʃən/",
+  "chinese": "攻防转换",
+  "definition_en": "Quick shift between defense and offense during play",
+  "example_en": "A fast transition from defense to offense caught the other team off guard.",
+  "example_zh": "快速的攻防转换打了对方一个措手不及。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w445",
+  "word": "setter",
+  "ipa": "/ˈsetə/",
+  "chinese": "二传手（排球）",
+  "definition_en": "Volleyball player who positions the ball for attackers to spike",
+  "example_en": "The setter delivered a perfect ball for the outside hitter to spike.",
+  "example_zh": "二传手传出一个完美的球，供主攻手扣杀。",
+  "subject": "PHE"
+ },
+ {
+  "id": "w446",
+  "word": "Absorption",
+  "ipa": "/əbˈzɔːpʃən/",
+  "chinese": "吸收（作用）",
+  "definition_en": "Process where digested nutrients pass into the bloodstream or body cells",
+  "example_en": "Absorption of nutrients mainly takes place in the small intestine.",
+  "example_zh": "营养物质的吸收主要发生在小肠中。",
+  "subject": "Science"
+ },
+ {
+  "id": "w447",
+  "word": "Addition polymerization",
+  "ipa": "/əˈdɪʃən ˌpɒlɪməraɪˈzeɪʃən/",
+  "chinese": "加成聚合（加聚反应）",
+  "definition_en": "Chemical reaction where small alkene molecules join to form large polymers",
+  "example_en": "Polyethene is produced by the addition polymerization of ethene molecules.",
+  "example_zh": "聚乙烯是通过乙烯分子的加成聚合反应制得的。",
+  "subject": "Science"
+ },
+ {
+  "id": "w448",
+  "word": "Addition reaction",
+  "ipa": "/əˈdɪʃən riˈækʃən/",
+  "chinese": "加成反应",
+  "definition_en": "Reaction where atoms/groups add across a carbon-carbon double bond",
+  "example_en": "Ethene undergoes an addition reaction with bromine, turning the orange solution colourless.",
+  "example_zh": "乙烯与溴发生加成反应，使橙色溶液褪色。",
+  "subject": "Science"
+ },
+ {
+  "id": "w449",
+  "word": "Alcohols",
+  "ipa": "/ˈælkəhɒlz/",
+  "chinese": "醇类",
+  "definition_en": "Organic compounds containing one or more hydroxyl functional groups",
+  "example_en": "Alcohols such as ethanol can be used as fuels and solvents.",
+  "example_zh": "乙醇等醇类可用作燃料和溶剂。",
+  "subject": "Science"
+ },
+ {
+  "id": "w450",
+  "word": "Alkanes",
+  "ipa": "/ˈælkeɪnz/",
+  "chinese": "烷烃",
+  "definition_en": "Saturated hydrocarbons with only single covalent bonds between carbon atoms",
+  "example_en": "Methane and ethane are alkanes, so they are generally unreactive.",
+  "example_zh": "甲烷和乙烷都是烷烃，因此它们通常不太活泼。",
+  "subject": "Science"
+ },
+ {
+  "id": "w451",
+  "word": "Alkenes",
+  "ipa": "/ˈælkiːnz/",
+  "chinese": "烯烃",
+  "definition_en": "Unsaturated hydrocarbons containing at least one carbon-carbon double bond",
+  "example_en": "Alkenes decolourise bromine water because they contain a carbon-carbon double bond.",
+  "example_zh": "烯烃含有碳碳双键，因此能使溴水褪色。",
+  "subject": "Science"
+ },
+ {
+  "id": "w452",
+  "word": "Alveoli",
+  "ipa": "/ælˈviːəlaɪ/",
+  "chinese": "肺泡",
+  "definition_en": "Tiny air sacs in the lungs where gas exchange takes place",
+  "example_en": "Oxygen diffuses across the thin walls of the alveoli into the blood.",
+  "example_zh": "氧气穿过肺泡薄薄的壁扩散进入血液。",
+  "subject": "Science"
+ },
+ {
+  "id": "w453",
+  "word": "Alpha decay",
+  "ipa": "/ˈælfə dɪˈkeɪ/",
+  "chinese": "α衰变（阿尔法衰变）",
+  "definition_en": "Radioactive decay releasing an alpha particle (helium nucleus)",
+  "example_en": "During alpha decay, the nucleus loses two protons and two neutrons.",
+  "example_zh": "在α衰变过程中，原子核失去两个质子和两个中子。",
+  "subject": "Science"
+ },
+ {
+  "id": "w454",
+  "word": "Artery",
+  "ipa": "/ˈɑːtəri/",
+  "chinese": "动脉",
+  "definition_en": "Thick-walled blood vessel that carries oxygenated blood away from the heart",
+  "example_en": "The aorta is the largest artery in the human body.",
+  "example_zh": "主动脉是人体中最大的动脉。",
+  "subject": "Science"
+ },
+ {
+  "id": "w455",
+  "word": "Atrium",
+  "ipa": "/ˈeɪtriəm/",
+  "chinese": "心房",
+  "definition_en": "Upper chamber of the heart that receives incoming blood",
+  "example_en": "Deoxygenated blood enters the right atrium before flowing into the ventricle.",
+  "example_zh": "缺氧血先进入右心房，然后流入心室。",
+  "subject": "Science"
+ },
+ {
+  "id": "w456",
+  "word": "Beta decay",
+  "ipa": "/ˈbiːtə dɪˈkeɪ/",
+  "chinese": "β衰变（贝塔衰变）",
+  "definition_en": "Radioactive decay where a neutron converts to a proton, emitting an electron",
+  "example_en": "In beta decay, the atomic number of the nucleus increases by one.",
+  "example_zh": "在β衰变中，原子核的原子序数增加一。",
+  "subject": "Science"
+ },
+ {
+  "id": "w457",
+  "word": "Binding energy",
+  "ipa": "/ˈbaɪndɪŋ ˈenədʒi/",
+  "chinese": "结合能",
+  "definition_en": "Energy required to separate protons and neutrons within an atomic nucleus",
+  "example_en": "A nucleus with a high binding energy per nucleon is very stable.",
+  "example_zh": "每个核子结合能高的原子核非常稳定。",
+  "subject": "Science"
+ },
+ {
+  "id": "w458",
+  "word": "Branched chain",
+  "ipa": "/brɑːntʃt tʃeɪn/",
+  "chinese": "支链",
+  "definition_en": "Hydrocarbon structure with side carbon chains attached to the main chain",
+  "example_en": "2-methylpropane is a branched chain isomer of butane.",
+  "example_zh": "2-甲基丙烷是丁烷的一种支链同分异构体。",
+  "subject": "Science"
+ },
+ {
+  "id": "w459",
+  "word": "Bronchus",
+  "ipa": "/ˈbrɒŋkəs/",
+  "chinese": "支气管",
+  "definition_en": "Major airway that branches from the trachea into each lung",
+  "example_en": "Each bronchus carries air from the trachea into one lung.",
+  "example_zh": "每条支气管把空气从气管输送到一侧肺中。",
+  "subject": "Science"
+ },
+ {
+  "id": "w460",
+  "word": "Capillary",
+  "ipa": "/kəˈpɪləri/",
+  "chinese": "毛细血管",
+  "definition_en": "Microscopic blood vessel where gas, nutrient and waste exchange occurs",
+  "example_en": "Capillary walls are only one cell thick to allow efficient diffusion.",
+  "example_zh": "毛细血管壁仅由一层细胞构成，以实现高效扩散。",
+  "subject": "Science"
+ },
+ {
+  "id": "w461",
+  "word": "Carboxyl",
+  "ipa": "/kɑːˈbɒksaɪl/",
+  "chinese": "羧基",
+  "definition_en": "Functional group (–COOH) found in carboxylic acids",
+  "example_en": "The carboxyl group gives carboxylic acids their acidic properties.",
+  "example_zh": "羧基赋予羧酸酸性。",
+  "subject": "Science"
+ },
+ {
+  "id": "w462",
+  "word": "Carboxylic acid",
+  "ipa": "/ˌkɑːbɒkˈsɪlɪk ˈæsɪd/",
+  "chinese": "羧酸",
+  "definition_en": "Organic acid containing a carboxyl group; ethanoic acid is a common example",
+  "example_en": "Vinegar contains ethanoic acid, a weak carboxylic acid.",
+  "example_zh": "食醋中含有乙酸，这是一种弱羧酸。",
+  "subject": "Science"
+ },
+ {
+  "id": "w463",
+  "word": "Catalyst",
+  "ipa": "/ˈkætəlɪst/",
+  "chinese": "催化剂",
+  "definition_en": "Substance that speeds up a chemical reaction without being consumed",
+  "example_en": "Iron is used as a catalyst in the Haber process to make ammonia.",
+  "example_zh": "在哈伯法合成氨的过程中，铁被用作催化剂。",
+  "subject": "Science"
+ },
+ {
+  "id": "w464",
+  "word": "Chain reaction",
+  "ipa": "/ˌtʃeɪn riˈækʃən/",
+  "chinese": "链式反应",
+  "definition_en": "Self-sustaining nuclear or chemical reaction where each reaction triggers further reactions",
+  "example_en": "In a nuclear reactor, the chain reaction is controlled to release energy steadily.",
+  "example_zh": "在核反应堆中，链式反应受到控制，以平稳地释放能量。",
+  "subject": "Science"
+ },
+ {
+  "id": "w465",
+  "word": "Churn",
+  "ipa": "/tʃɜːn/",
+  "chinese": "（胃的）蠕动搅拌",
+  "definition_en": "Stomach muscle contractions that mix food with digestive juices",
+  "example_en": "The stomach churns food into a semi-liquid mixture called chyme.",
+  "example_zh": "胃通过蠕动搅拌把食物变成一种半流质混合物，称为食糜。",
+  "subject": "Science"
+ },
+ {
+  "id": "w466",
+  "word": "Circadian Rhythms",
+  "ipa": "/sɜːˈkeɪdiən ˈrɪðəmz/",
+  "chinese": "昼夜节律（生物钟）",
+  "definition_en": "Natural 24-hour biological cycle governing sleep, hormones and activity",
+  "example_en": "Circadian rhythms tell our bodies when to sleep and when to wake up.",
+  "example_zh": "昼夜节律告诉我们的身体何时入睡、何时醒来。",
+  "subject": "Science"
+ },
+ {
+  "id": "w467",
+  "word": "Combustion reaction",
+  "ipa": "/kəmˈbʌstʃən riˈækʃən/",
+  "chinese": "燃烧反应",
+  "definition_en": "Chemical reaction between a substance and oxygen, releasing heat and light",
+  "example_en": "The burning of methane is a combustion reaction that releases energy.",
+  "example_zh": "甲烷的燃烧是一种释放能量的燃烧反应。",
+  "subject": "Science"
+ },
+ {
+  "id": "w468",
+  "word": "Complete combustion",
+  "ipa": "/kəmˈpliːt kəmˈbʌstʃən/",
+  "chinese": "完全燃烧",
+  "definition_en": "Combustion with plentiful oxygen, producing carbon dioxide and water",
+  "example_en": "During complete combustion of propane, only carbon dioxide and water are formed.",
+  "example_zh": "丙烷完全燃烧时，只生成二氧化碳和水。",
+  "subject": "Science"
+ },
+ {
+  "id": "w469",
+  "word": "Condensation",
+  "ipa": "/ˌkɒndenˈseɪʃən/",
+  "chinese": "缩合反应",
+  "definition_en": "Reaction where two molecules join together with the loss of a small molecule (e.g. water)",
+  "example_en": "Condensation joins amino acids together to form proteins, releasing water.",
+  "example_zh": "缩合反应将氨基酸连接起来形成蛋白质，同时脱去水分子。",
+  "subject": "Science"
+ },
+ {
+  "id": "w470",
+  "word": "Coronary arteries",
+  "ipa": "/ˈkɒrənəri ˈɑːtəriz/",
+  "chinese": "冠状动脉",
+  "definition_en": "Arteries that supply oxygen and nutrients to the heart muscle",
+  "example_en": "Blocked coronary arteries can lead to a heart attack.",
+  "example_zh": "冠状动脉堵塞可能导致心脏病发作。",
+  "subject": "Science"
+ },
+ {
+  "id": "w471",
+  "word": "Covalent molecule",
+  "ipa": "/kəʊˈveɪlənt ˈmɒlɪkjuːl/",
+  "chinese": "共价分子",
+  "definition_en": "Molecule formed by atoms sharing electron pairs",
+  "example_en": "Water is a covalent molecule made of two hydrogen atoms and one oxygen atom.",
+  "example_zh": "水是由两个氢原子和一个氧原子构成的共价分子。",
+  "subject": "Science"
+ },
+ {
+  "id": "w472",
+  "word": "Cyclic alkanes",
+  "ipa": "/ˈsaɪklɪk ˈælkeɪnz/",
+  "chinese": "环烷烃",
+  "definition_en": "Alkanes with carbon atoms arranged in a closed ring structure",
+  "example_en": "Cyclohexane is one of the cyclic alkanes found in crude oil.",
+  "example_zh": "环己烷是原油中存在的环烷烃之一。",
+  "subject": "Science"
+ },
+ {
+  "id": "w473",
+  "word": "Decay",
+  "ipa": "/dɪˈkeɪ/",
+  "chinese": "衰变",
+  "definition_en": "Spontaneous breakdown of an unstable atomic nucleus",
+  "example_en": "The radioactive decay of carbon-14 is used to date ancient remains.",
+  "example_zh": "碳-14的放射性衰变被用于测定古代遗物的年代。",
+  "subject": "Science"
+ },
+ {
+  "id": "w474",
+  "word": "Diabetes",
+  "ipa": "/ˌdaɪəˈbiːtiːz/",
+  "chinese": "糖尿病",
+  "definition_en": "Metabolic disorder causing abnormal blood glucose regulation",
+  "example_en": "People with diabetes must monitor their blood glucose levels carefully.",
+  "example_zh": "糖尿病患者必须密切监测自己的血糖水平。",
+  "subject": "Science"
+ },
+ {
+  "id": "w475",
+  "word": "Diaphragm",
+  "ipa": "/ˈdaɪəfræm/",
+  "chinese": "膈肌（横膈膜）",
+  "definition_en": "Dome-shaped muscle that controls inhalation and exhalation",
+  "example_en": "When the diaphragm contracts and flattens, air is drawn into the lungs.",
+  "example_zh": "膈肌收缩变平时，空气被吸入肺部。",
+  "subject": "Science"
+ },
+ {
+  "id": "w476",
+  "word": "Diffusion",
+  "ipa": "/dɪˈfjuːʒən/",
+  "chinese": "扩散（作用）",
+  "definition_en": "Passive movement of particles from an area of high concentration to low concentration",
+  "example_en": "Oxygen enters the blood by diffusion across the alveoli.",
+  "example_zh": "氧气通过扩散穿过肺泡进入血液。",
+  "subject": "Science"
+ },
+ {
+  "id": "w477",
+  "word": "Distillation",
+  "ipa": "/ˌdɪstɪˈleɪʃən/",
+  "chinese": "蒸馏",
+  "definition_en": "Separation technique using differences in boiling points to purify liquids",
+  "example_en": "Distillation can be used to obtain pure water from seawater.",
+  "example_zh": "蒸馏可用于从海水中获得纯净水。",
+  "subject": "Science"
+ },
+ {
+  "id": "w478",
+  "word": "Emission",
+  "ipa": "/ɪˈmɪʃən/",
+  "chinese": "（粒子或辐射的）放出／发射",
+  "definition_en": "Release of particles or radiation from an unstable atomic nucleus",
+  "example_en": "The emission of gamma rays often accompanies alpha or beta decay.",
+  "example_zh": "伽马射线的放出常伴随α衰变或β衰变发生。",
+  "subject": "Science"
+ },
+ {
+  "id": "w479",
+  "word": "Enzyme",
+  "ipa": "/ˈenzaɪm/",
+  "chinese": "酶",
+  "definition_en": "Biological catalyst that speeds up chemical reactions inside living organisms",
+  "example_en": "Amylase is an enzyme that breaks down starch into sugars.",
+  "example_zh": "淀粉酶是一种能把淀粉分解成糖的酶。",
+  "subject": "Science"
+ },
+ {
+  "id": "w480",
+  "word": "Ester",
+  "ipa": "/ˈestə/",
+  "chinese": "酯",
+  "definition_en": "Organic compound formed from carboxylic acid and alcohol",
+  "example_en": "Ethyl ethanoate is an ester with a sweet, fruity smell.",
+  "example_zh": "乙酸乙酯是一种带有甜果香味的酯。",
+  "subject": "Science"
+ },
+ {
+  "id": "w481",
+  "word": "Esterification",
+  "ipa": "/ɪˌsterɪfɪˈkeɪʃən/",
+  "chinese": "酯化反应",
+  "definition_en": "Condensation reaction between a carboxylic acid and alcohol to form an ester",
+  "example_en": "Esterification of ethanoic acid with ethanol produces ethyl ethanoate and water.",
+  "example_zh": "乙酸与乙醇发生酯化反应，生成乙酸乙酯和水。",
+  "subject": "Science"
+ },
+ {
+  "id": "w482",
+  "word": "Esophagus",
+  "ipa": "/iːˈsɒfəɡəs/",
+  "chinese": "食道",
+  "definition_en": "Muscular tube that transports food from the mouth to the stomach",
+  "example_en": "Peristalsis pushes food down the esophagus into the stomach.",
+  "example_zh": "蠕动把食物沿食道推入胃中。",
+  "subject": "Science"
+ },
+ {
+  "id": "w483",
+  "word": "Free radical",
+  "ipa": "/ˌfriː ˈrædɪkəl/",
+  "chinese": "自由基",
+  "definition_en": "Highly reactive atom or molecule with an unpaired electron",
+  "example_en": "Free radicals can damage cells, but antioxidants help neutralise them.",
+  "example_zh": "自由基会损伤细胞，但抗氧化剂有助于将其清除。",
+  "subject": "Science"
+ },
+ {
+  "id": "w484",
+  "word": "Fission",
+  "ipa": "/ˈfɪʃən/",
+  "chinese": "（核）裂变",
+  "definition_en": "Nuclear reaction splitting a large unstable nucleus into smaller nuclei",
+  "example_en": "Nuclear power stations generate electricity from the energy released by fission.",
+  "example_zh": "核电站利用裂变释放的能量发电。",
+  "subject": "Science"
+ },
+ {
+  "id": "w485",
+  "word": "Fusion",
+  "ipa": "/ˈfjuːʒən/",
+  "chinese": "核聚变",
+  "definition_en": "Nuclear reaction combining small nuclei into a larger nucleus, releasing massive energy",
+  "example_en": "The Sun produces energy through fusion, where hydrogen nuclei combine to form helium.",
+  "example_zh": "太阳通过核聚变产生能量，氢原子核结合形成氦。",
+  "subject": "Science"
+ },
+ {
+  "id": "w486",
+  "word": "Gamma decay",
+  "ipa": "/ˈɡæmə dɪˈkeɪ/",
+  "chinese": "γ衰变（伽马衰变）",
+  "definition_en": "Radioactive emission of high-energy electromagnetic radiation",
+  "example_en": "After alpha decay, an excited nucleus releases its excess energy through gamma decay.",
+  "example_zh": "原子核在α衰变后处于激发态，会通过γ衰变释放多余的能量。",
+  "subject": "Science"
+ },
+ {
+  "id": "w487",
+  "word": "Gland",
+  "ipa": "/ɡlænd/",
+  "chinese": "腺体",
+  "definition_en": "Organ that produces and secretes hormones or other chemical substances",
+  "example_en": "The pancreas is a gland that secretes insulin into the bloodstream.",
+  "example_zh": "胰腺是一种能向血液中分泌胰岛素的腺体。",
+  "subject": "Science"
+ },
+ {
+  "id": "w488",
+  "word": "General formula",
+  "ipa": "/ˈdʒenərəl ˈfɔːmjələ/",
+  "chinese": "通式",
+  "definition_en": "Simplified formula representing an entire family of organic compounds",
+  "example_en": "All alkanes can be represented by the general formula CnH2n+2.",
+  "example_zh": "所有烷烃都可以用通式 CnH2n+2 来表示。",
+  "subject": "Science"
+ },
+ {
+  "id": "w489",
+  "word": "Glucagon",
+  "ipa": "/ˈɡluːkəɡɒn/",
+  "chinese": "胰高血糖素",
+  "definition_en": "Hormone that raises blood glucose levels by breaking down glycogen",
+  "example_en": "When blood sugar is low, the pancreas releases glucagon to raise glucose levels.",
+  "example_zh": "当血糖偏低时，胰腺会释放胰高血糖素来升高血糖水平。",
+  "subject": "Science"
+ },
+ {
+  "id": "w490",
+  "word": "Glycogen",
+  "ipa": "/ˈɡlaɪkədʒən/",
+  "chinese": "糖原",
+  "definition_en": "Compact storage form of glucose in liver and muscle cells",
+  "example_en": "Muscles store glucose as glycogen so it can be used quickly during exercise.",
+  "example_zh": "肌肉将葡萄糖以糖原的形式储存，以便在运动时快速利用。",
+  "subject": "Science"
+ },
+ {
+  "id": "w491",
+  "word": "Half-Life",
+  "ipa": "/ˌhɑːf ˈlaɪf/",
+  "chinese": "半衰期",
+  "definition_en": "Time taken for half of a radioactive sample to undergo decay",
+  "example_en": "The half-life of carbon-14 is about 5,730 years, so it is used to date ancient remains.",
+  "example_zh": "碳-14 的半衰期约为 5730 年，因此可用于测定古代遗物的年代。",
+  "subject": "Science"
+ },
+ {
+  "id": "w492",
+  "word": "Homeostasis",
+  "ipa": "/ˌhəʊmiəˈsteɪsɪs/",
+  "chinese": "稳态（内环境稳态）",
+  "definition_en": "Body’s ability to maintain stable internal conditions despite external changes",
+  "example_en": "Sweating helps the body maintain homeostasis by cooling it down on hot days.",
+  "example_zh": "天热时出汗能给身体降温，帮助维持体内稳态。",
+  "subject": "Science"
+ },
+ {
+  "id": "w493",
+  "word": "Hormone",
+  "ipa": "/ˈhɔːməʊn/",
+  "chinese": "激素（荷尔蒙）",
+  "definition_en": "Chemical messenger carried in blood to regulate bodily functions",
+  "example_en": "Insulin is a hormone that controls the amount of glucose in the blood.",
+  "example_zh": "胰岛素是一种控制血液中葡萄糖含量的激素。",
+  "subject": "Science"
+ },
+ {
+  "id": "w494",
+  "word": "Hydrocarbon",
+  "ipa": "/ˌhaɪdrəˈkɑːbən/",
+  "chinese": "烃（碳氢化合物）",
+  "definition_en": "Organic compound composed only of hydrogen and carbon atoms",
+  "example_en": "Methane is the simplest hydrocarbon, made of one carbon atom and four hydrogen atoms.",
+  "example_zh": "甲烷是最简单的烃，由一个碳原子和四个氢原子构成。",
+  "subject": "Science"
+ },
+ {
+  "id": "w495",
+  "word": "Hydroxyl",
+  "ipa": "/haɪˈdrɒksaɪl/",
+  "chinese": "羟基",
+  "definition_en": "Functional group (–OH) characteristic of alcohols",
+  "example_en": "Every alcohol molecule contains a hydroxyl group (–OH) attached to a carbon atom.",
+  "example_zh": "每个醇分子都含有一个连接在碳原子上的羟基（–OH）。",
+  "subject": "Science"
+ },
+ {
+  "id": "w496",
+  "word": "Hypothalamus",
+  "ipa": "/ˌhaɪpəˈθæləməs/",
+  "chinese": "下丘脑",
+  "definition_en": "Brain region that controls homeostasis, hormone release and circadian rhythms",
+  "example_en": "The hypothalamus helps regulate body temperature, hunger and sleep cycles.",
+  "example_zh": "下丘脑帮助调节体温、饥饿感和睡眠周期。",
+  "subject": "Science"
+ },
+ {
+  "id": "w497",
+  "word": "Incomplete combustion",
+  "ipa": "/ˌɪŋkəmˈpliːt kəmˈbʌstʃən/",
+  "chinese": "不完全燃烧",
+  "definition_en": "Combustion with limited oxygen, producing carbon monoxide or soot",
+  "example_en": "Burning gas in a poorly ventilated room causes incomplete combustion and produces toxic carbon monoxide.",
+  "example_zh": "在通风不良的房间里燃烧燃气会引起不完全燃烧，产生有毒的一氧化碳。",
+  "subject": "Science"
+ },
+ {
+  "id": "w498",
+  "word": "Ingestion",
+  "ipa": "/ɪnˈdʒestʃən/",
+  "chinese": "摄食（摄入）",
+  "definition_en": "The process of taking food into the digestive system",
+  "example_en": "Ingestion begins when food enters the mouth and is chewed.",
+  "example_zh": "摄食从食物进入口腔并被咀嚼时开始。",
+  "subject": "Science"
+ },
+ {
+  "id": "w499",
+  "word": "Insulin",
+  "ipa": "/ˈɪnsjəlɪn/",
+  "chinese": "胰岛素",
+  "definition_en": "Hormone that lowers blood glucose by promoting glucose uptake into cells",
+  "example_en": "People with diabetes may need insulin injections to keep their blood sugar under control.",
+  "example_zh": "糖尿病患者可能需要注射胰岛素来控制血糖。",
+  "subject": "Science"
+ },
+ {
+  "id": "w500",
+  "word": "Intestines",
+  "ipa": "/ɪnˈtestɪnz/",
+  "chinese": "肠（肠道）",
+  "definition_en": "Long digestive organ where most nutrient digestion and absorption occurs",
+  "example_en": "Digested food passes into the intestines, where most nutrients are absorbed into the blood.",
+  "example_zh": "消化后的食物进入肠道，大多数营养物质在那里被吸收进入血液。",
+  "subject": "Science"
+ },
+ {
+  "id": "w501",
+  "word": "Isotope",
+  "ipa": "/ˈaɪsətəʊp/",
+  "chinese": "同位素",
+  "definition_en": "Atoms of the same element with equal protons but different numbers of neutrons",
+  "example_en": "Carbon-12 and carbon-14 are isotopes because they have the same number of protons but different neutrons.",
+  "example_zh": "碳-12 和碳-14 是同位素，因为它们的质子数相同而中子数不同。",
+  "subject": "Science"
+ },
+ {
+  "id": "w502",
+  "word": "Melatonin",
+  "ipa": "/ˌmeləˈtəʊnɪn/",
+  "chinese": "褪黑素",
+  "definition_en": "Hormone produced to regulate sleep-wake cycles and circadian rhythms",
+  "example_en": "The body releases melatonin at night to help you feel sleepy.",
+  "example_zh": "人体在夜间释放褪黑素，让人产生睡意。",
+  "subject": "Science"
+ },
+ {
+  "id": "w503",
+  "word": "Neutralization",
+  "ipa": "/ˌnjuːtrəlaɪˈzeɪʃən/",
+  "chinese": "中和反应",
+  "definition_en": "Reaction between an acid and a base to form salt and water",
+  "example_en": "Adding lime to acidic soil is a common example of neutralization in farming.",
+  "example_zh": "向酸性土壤中加入石灰是农业中常见的中和反应实例。",
+  "subject": "Science"
+ },
+ {
+  "id": "w504",
+  "word": "Neutron",
+  "ipa": "/ˈnjuːtrɒn/",
+  "chinese": "中子",
+  "definition_en": "Neutral subatomic particle located inside the atomic nucleus",
+  "example_en": "A neutron carries no electric charge and is found in the nucleus of an atom.",
+  "example_zh": "中子不带电荷，存在于原子核内。",
+  "subject": "Science"
+ },
+ {
+  "id": "w505",
+  "word": "Nuclear force",
+  "ipa": "/ˈnjuːkliə fɔːs/",
+  "chinese": "核力",
+  "definition_en": "Strong fundamental force that holds nucleons together in a nucleus",
+  "example_en": "The nuclear force binds protons and neutrons together inside the tiny nucleus.",
+  "example_zh": "核力将质子和中子紧紧地束缚在微小的原子核内。",
+  "subject": "Science"
+ },
+ {
+  "id": "w506",
+  "word": "Nuclear reaction",
+  "ipa": "/ˈnjuːkliə riˈækʃən/",
+  "chinese": "核反应",
+  "definition_en": "Process that alters the structure or composition of an atomic nucleus",
+  "example_en": "Fission and fusion are two types of nuclear reaction that release enormous energy.",
+  "example_zh": "核裂变和核聚变是两种能释放巨大能量的核反应。",
+  "subject": "Science"
+ },
+ {
+  "id": "w507",
+  "word": "Nuclear stability",
+  "ipa": "/ˈnjuːkliə stəˈbɪləti/",
+  "chinese": "核稳定性",
+  "definition_en": "State where a nucleus has no tendency to undergo radioactive decay",
+  "example_en": "Isotopes with an imbalanced neutron-to-proton ratio lack nuclear stability and tend to decay.",
+  "example_zh": "中子与质子比例失衡的同位素缺乏核稳定性，容易发生衰变。",
+  "subject": "Science"
+ },
+ {
+  "id": "w508",
+  "word": "Nuclei (Nucleus)",
+  "ipa": "/ˈnjuːkliaɪ/",
+  "chinese": "原子核",
+  "definition_en": "Central core of an atom containing protons and neutrons",
+  "example_en": "The nuclei of radioactive atoms can decay and emit radiation.",
+  "example_zh": "放射性原子的原子核会发生衰变并释放辐射。",
+  "subject": "Science"
+ },
+ {
+  "id": "w509",
+  "word": "Nutrient",
+  "ipa": "/ˈnjuːtriənt/",
+  "chinese": "营养物质",
+  "definition_en": "Substance required by organisms for energy, growth and maintenance",
+  "example_en": "Plants absorb nutrients such as nitrates from the soil through their roots.",
+  "example_zh": "植物通过根部从土壤中吸收硝酸盐等营养物质。",
+  "subject": "Science"
+ },
+ {
+  "id": "w510",
+  "word": "Organic compound",
+  "ipa": "/ɔːˈɡænɪk ˈkɒmpaʊnd/",
+  "chinese": "有机化合物",
+  "definition_en": "Compound containing carbon, typically bonded with hydrogen",
+  "example_en": "Ethanol is an organic compound found in alcoholic drinks and some fuels.",
+  "example_zh": "乙醇是一种存在于酒类饮品和某些燃料中的有机化合物。",
+  "subject": "Science"
+ },
+ {
+  "id": "w511",
+  "word": "Osmosis",
+  "ipa": "/ɒzˈməʊsɪs/",
+  "chinese": "渗透作用",
+  "definition_en": "Net movement of water across a semipermeable membrane",
+  "example_en": "Water enters plant roots from the soil by osmosis.",
+  "example_zh": "水通过渗透作用从土壤进入植物根部。",
+  "subject": "Science"
+ },
+ {
+  "id": "w512",
+  "word": "Oxidation",
+  "ipa": "/ˌɒksɪˈdeɪʃən/",
+  "chinese": "氧化（氧化反应）",
+  "definition_en": "Chemical reaction involving loss of electrons or gain of oxygen",
+  "example_en": "The rusting of iron is a slow oxidation reaction with oxygen and water.",
+  "example_zh": "铁生锈是铁与氧气和水发生的缓慢氧化反应。",
+  "subject": "Science"
+ },
+ {
+  "id": "w513",
+  "word": "Oxidizing agent",
+  "ipa": "/ˈɒksɪdaɪzɪŋ ˈeɪdʒənt/",
+  "chinese": "氧化剂",
+  "definition_en": "Substance that causes oxidation by accepting electrons",
+  "example_en": "Oxygen acts as an oxidizing agent when magnesium burns brightly in air.",
+  "example_zh": "镁在空气中剧烈燃烧时，氧气充当氧化剂。",
+  "subject": "Science"
+ },
+ {
+  "id": "w514",
+  "word": "Pancreas",
+  "ipa": "/ˈpæŋkriəs/",
+  "chinese": "胰腺（胰脏）",
+  "definition_en": "Gland that produces digestive enzymes and blood sugar regulating hormones",
+  "example_en": "The pancreas produces enzymes that help digest fats and proteins in the small intestine.",
+  "example_zh": "胰腺产生的酶能在小肠中帮助消化脂肪和蛋白质。",
+  "subject": "Science"
+ },
+ {
+  "id": "w515",
+  "word": "Peristalsis",
+  "ipa": "/ˌperɪˈstælsɪs/",
+  "chinese": "蠕动",
+  "definition_en": "Wave-like muscle contractions that push food along the digestive tract",
+  "example_en": "Peristalsis pushes food from the oesophagus down into the stomach.",
+  "example_zh": "蠕动将食物从食道推入胃中。",
+  "subject": "Science"
+ },
+ {
+  "id": "w516",
+  "word": "Phloem",
+  "ipa": "/ˈfləʊem/",
+  "chinese": "韧皮部",
+  "definition_en": "Plant tissue that transports dissolved sugars and organic nutrients",
+  "example_en": "The phloem carries sugars made in the leaves to the growing parts of the plant.",
+  "example_zh": "韧皮部把叶片制造的糖分运输到植物的生长部位。",
+  "subject": "Science"
+ },
+ {
+  "id": "w517",
+  "word": "Pituitary gland",
+  "ipa": "/pɪˈtjuːɪtəri ɡlænd/",
+  "chinese": "垂体（脑垂体）",
+  "definition_en": "“Master gland” that regulates other endocrine glands and hormone production",
+  "example_en": "The pituitary gland releases growth hormone, especially during puberty.",
+  "example_zh": "垂体释放生长激素，在青春期尤为活跃。",
+  "subject": "Science"
+ },
+ {
+  "id": "w518",
+  "word": "Platelets",
+  "ipa": "/ˈpleɪtləts/",
+  "chinese": "血小板",
+  "definition_en": "Small cell fragments responsible for blood clotting",
+  "example_en": "Platelets gather at a cut to form a clot and stop the bleeding.",
+  "example_zh": "血小板聚集在伤口处形成血凝块，从而止住出血。",
+  "subject": "Science"
+ },
+ {
+  "id": "w519",
+  "word": "Polymer",
+  "ipa": "/ˈpɒlɪmə/",
+  "chinese": "聚合物（高分子化合物）",
+  "definition_en": "Large long-chain molecule made from many repeated small monomer units",
+  "example_en": "Poly(ethene) is a polymer made by joining thousands of ethene monomers.",
+  "example_zh": "聚乙烯是由成千上万个乙烯单体连接而成的聚合物。",
+  "subject": "Science"
+ },
+ {
+  "id": "w520",
+  "word": "Proton",
+  "ipa": "/ˈprəʊtɒn/",
+  "chinese": "质子",
+  "definition_en": "Positively charged subatomic particle inside the atomic nucleus",
+  "example_en": "Each proton carries a positive charge and has a relative mass of 1.",
+  "example_zh": "每个质子带一个单位正电荷，相对质量为 1。",
+  "subject": "Science"
+ },
+ {
+  "id": "w521",
+  "word": "Radioactivity",
+  "ipa": "/ˌreɪdiəʊækˈtɪvəti/",
+  "chinese": "放射性",
+  "definition_en": "Spontaneous emission of radiation from unstable atomic nuclei",
+  "example_en": "Marie Curie won two Nobel Prizes for her pioneering research on radioactivity.",
+  "example_zh": "居里夫人因在放射性方面的开创性研究而两次获得诺贝尔奖。",
+  "subject": "Science"
+ },
+ {
+  "id": "w522",
+  "word": "Reflux",
+  "ipa": "/ˈriːflʌks/",
+  "chinese": "回流",
+  "definition_en": "Laboratory technique to heat a mixture while preventing liquid evaporation loss",
+  "example_en": "Heating under reflux lets the reaction mixture boil without losing any solvent.",
+  "example_zh": "加热回流能使反应混合物沸腾而不损失溶剂。",
+  "subject": "Science"
+ },
+ {
+  "id": "w523",
+  "word": "Reproduction constant k",
+  "ipa": "/ˌriːprəˈdʌkʃən ˈkɒnstənt keɪ/",
+  "chinese": "增殖常数 k",
+  "definition_en": "Mathematical constant used to calculate radioactive decay rates",
+  "example_en": "Scientists use the reproduction constant k to predict how quickly a radioactive sample will decay.",
+  "example_zh": "科学家利用增殖常数 k 来预测放射性样品的衰变速度。",
+  "subject": "Science"
+ },
+ {
+  "id": "w524",
+  "word": "Rest energy",
+  "ipa": "/rest ˈenədʒi/",
+  "chinese": "静能（静止能量）",
+  "definition_en": "Energy inherent to all matter as described by mass-energy equivalence",
+  "example_en": "According to Einstein's equation E=mc², even an object at rest contains an enormous amount of rest energy.",
+  "example_zh": "根据爱因斯坦的方程 E=mc²，即使静止的物体也蕴含着巨大的静能。",
+  "subject": "Science"
+ },
+ {
+  "id": "w525",
+  "word": "Saturated hydrocarbon",
+  "ipa": "/ˈsætʃəreɪtɪd ˌhaɪdrəˈkɑːbən/",
+  "chinese": "饱和烃",
+  "definition_en": "Hydrocarbon with only single carbon-carbon bonds; no double or triple bonds",
+  "example_en": "Methane and ethane are examples of saturated hydrocarbons because their carbon atoms are joined only by single bonds.",
+  "example_zh": "甲烷和乙烷是饱和烃的例子，因为它们的碳原子之间只以单键相连。",
+  "subject": "Science"
+ },
+ {
+  "id": "w526",
+  "word": "Sense",
+  "ipa": "/sens/",
+  "chinese": "感觉（感官功能）",
+  "definition_en": "Biological faculty that detects and responds to external environmental stimuli",
+  "example_en": "The sense of smell helps animals detect food and danger in their environment.",
+  "example_zh": "嗅觉帮助动物察觉环境中的食物和危险。",
+  "subject": "Science"
+ },
+ {
+  "id": "w527",
+  "word": "Spirometer",
+  "ipa": "/spaɪˈrɒmɪtə/",
+  "chinese": "肺量计（肺活量计）",
+  "definition_en": "Device used to measure lung volume and breathing capacity",
+  "example_en": "In the biology lab, students used a spirometer to measure how much air their lungs could hold.",
+  "example_zh": "在生物实验课上，学生们用肺量计测量自己的肺能容纳多少空气。",
+  "subject": "Science"
+ },
+ {
+  "id": "w528",
+  "word": "Statistical process",
+  "ipa": "/stəˈtɪstɪkəl ˈprəʊses/",
+  "chinese": "统计过程（随机过程）",
+  "definition_en": "Random nature of radioactive decay; decay of individual atoms cannot be predicted",
+  "example_en": "Radioactive decay is a statistical process, so we can only predict the behaviour of a large number of atoms, not a single atom.",
+  "example_zh": "放射性衰变是一个统计过程，因此我们只能预测大量原子的行为，而无法预测单个原子。",
+  "subject": "Science"
+ },
+ {
+  "id": "w529",
+  "word": "Straight chain",
+  "ipa": "/streɪt tʃeɪn/",
+  "chinese": "直链",
+  "definition_en": "Hydrocarbon structure with carbon atoms forming a single continuous line",
+  "example_en": "Butane is a straight chain alkane made of four carbon atoms linked in a row.",
+  "example_zh": "丁烷是一种直链烷烃，由四个碳原子依次排成一行相连而成。",
+  "subject": "Science"
+ },
+ {
+  "id": "w530",
+  "word": "Stomata",
+  "ipa": "/ˈstəʊmətə/",
+  "chinese": "气孔",
+  "definition_en": "Tiny pores on plant leaves for gas exchange and water vapour release",
+  "example_en": "On hot days, plants close their stomata to reduce water loss from their leaves.",
+  "example_zh": "在炎热的日子里，植物会关闭气孔以减少叶片水分的散失。",
+  "subject": "Science"
+ },
+ {
+  "id": "w531",
+  "word": "Structural isomers",
+  "ipa": "/ˈstrʌktʃərəl ˈaɪsəməz/",
+  "chinese": "结构异构体（同分异构体）",
+  "definition_en": "Compounds with the same molecular formula but different structural arrangements",
+  "example_en": "Butane and 2-methylpropane are structural isomers because they share the formula C₄H₁₀ but have different structures.",
+  "example_zh": "正丁烷和2-甲基丙烷互为结构异构体，因为它们分子式都是 C₄H₁₀，但结构不同。",
+  "subject": "Science"
+ },
+ {
+  "id": "w532",
+  "word": "Substitution",
+  "ipa": "/ˌsʌbstɪˈtjuːʃən/",
+  "chinese": "取代反应",
+  "definition_en": "Organic reaction where one atom or group is replaced by another",
+  "example_en": "When methane reacts with chlorine in sunlight, a substitution reaction replaces a hydrogen atom with a chlorine atom.",
+  "example_zh": "甲烷在光照下与氯气反应时，会发生取代反应，一个氢原子被氯原子取代。",
+  "subject": "Science"
+ },
+ {
+  "id": "w533",
+  "word": "¹⁴C Dating",
+  "ipa": "/ˌkɑːbən fɔːˈtiːn ˈdeɪtɪŋ/",
+  "chinese": "碳-14 测年法（放射性碳定年法）",
+  "definition_en": "Radiocarbon dating method using carbon-14 to age organic materials",
+  "example_en": "Archaeologists used ¹⁴C dating to estimate that the wooden tool was about 3,000 years old.",
+  "example_zh": "考古学家利用碳-14 测年法估计这件木制工具约有 3000 年的历史。",
+  "subject": "Science"
+ },
+ {
+  "id": "w534",
+  "word": "Transpiration",
+  "ipa": "/ˌtrænspɪˈreɪʃən/",
+  "chinese": "蒸腾作用",
+  "definition_en": "Water loss from plant leaves through stomata",
+  "example_en": "Transpiration helps pull water up from the roots to the leaves of a tall tree.",
+  "example_zh": "蒸腾作用有助于把水分从根部向上拉到大树的叶片。",
+  "subject": "Science"
+ },
+ {
+  "id": "w535",
+  "word": "Tropism",
+  "ipa": "/ˈtrəʊpɪzəm/",
+  "chinese": "向性",
+  "definition_en": "Directional growth response of a plant to an external stimulus",
+  "example_en": "Phototropism is a type of tropism in which a plant grows towards light.",
+  "example_zh": "向光性是一种向性，指植物朝着光源方向生长。",
+  "subject": "Science"
+ },
+ {
+  "id": "w536",
+  "word": "Unsaturated",
+  "ipa": "/ʌnˈsætʃəreɪtɪd/",
+  "chinese": "不饱和的（不饱和烃）",
+  "definition_en": "Hydrocarbon containing one or more carbon-carbon double or triple bonds",
+  "example_en": "Ethene is an unsaturated hydrocarbon because it contains a carbon-carbon double bond.",
+  "example_zh": "乙烯是一种不饱和烃，因为它含有碳碳双键。",
+  "subject": "Science"
+ },
+ {
+  "id": "w537",
+  "word": "Valve",
+  "ipa": "/vælv/",
+  "chinese": "瓣膜",
+  "definition_en": "Flap-like structure that prevents the backflow of blood in veins and the heart",
+  "example_en": "Valves in the heart make sure that blood flows in only one direction.",
+  "example_zh": "心脏中的瓣膜确保血液只朝一个方向流动。",
+  "subject": "Science"
+ },
+ {
+  "id": "w538",
+  "word": "Vein",
+  "ipa": "/veɪn/",
+  "chinese": "静脉",
+  "definition_en": "Blood vessel that carries deoxygenated blood back toward the heart",
+  "example_en": "The vena cava is the largest vein in the human body, returning blood to the heart.",
+  "example_zh": "腔静脉是人体最大的静脉，负责把血液送回心脏。",
+  "subject": "Science"
+ },
+ {
+  "id": "w539",
+  "word": "Ventilation",
+  "ipa": "/ˌventɪˈleɪʃən/",
+  "chinese": "通气（肺通气）",
+  "definition_en": "The process of moving air into and out of the lungs (breathing)",
+  "example_en": "During exercise, the rate of ventilation increases to supply more oxygen to the muscles.",
+  "example_zh": "运动时，通气速率会加快，以便为肌肉提供更多氧气。",
+  "subject": "Science"
+ },
+ {
+  "id": "w540",
+  "word": "Ventricle",
+  "ipa": "/ˈventrɪkəl/",
+  "chinese": "心室",
+  "definition_en": "Lower heart chamber that pumps blood out to the lungs or body",
+  "example_en": "The left ventricle has thick muscular walls to pump blood around the whole body.",
+  "example_zh": "左心室壁肌肉厚实，能把血液泵送到全身。",
+  "subject": "Science"
+ },
+ {
+  "id": "w541",
+  "word": "Villi",
+  "ipa": "/ˈvɪlaɪ/",
+  "chinese": "绒毛",
+  "definition_en": "Small finger-like projections in intestines that increase absorption surface area",
+  "example_en": "Villi in the small intestine absorb digested nutrients into the bloodstream.",
+  "example_zh": "小肠中的绒毛把消化后的营养物质吸收进血液。",
+  "subject": "Science"
+ },
+ {
+  "id": "w542",
+  "word": "Xylem",
+  "ipa": "/ˈzaɪləm/",
+  "chinese": "木质部",
+  "definition_en": "Plant tissue that transports water and dissolved minerals upward from roots",
+  "example_en": "Water absorbed by the roots travels up the stem through the xylem vessels.",
+  "example_zh": "根部吸收的水分通过木质部导管沿茎向上运输。",
+  "subject": "Science"
+ },
+ {
+  "id": "w543",
+  "word": "Ethanoic acid",
+  "ipa": "/ˌeθəˈnəʊɪk ˈæsɪd/",
+  "chinese": "乙酸（醋酸）",
+  "definition_en": "Common carboxylic acid (acetic acid), main component of vinegar",
+  "example_en": "Ethanoic acid gives vinegar its sour taste and can react with ethanol to form an ester.",
+  "example_zh": "乙酸使醋具有酸味，并能与乙醇反应生成酯。",
+  "subject": "Science"
+ }
+]
